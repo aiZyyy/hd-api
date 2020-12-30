@@ -5,7 +5,7 @@ import java.util.Map;
 
 import com.hd.base.modules.system.entity.SysCategory;
 import com.hd.base.modules.system.model.TreeSelectModel;
-import com.hd.common.exception.JeecgBootException;
+import com.hd.common.exception.HdBootException;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 
@@ -29,7 +29,7 @@ public interface ISysCategoryService extends IService<SysCategory> {
 	 * @param pcode
 	 * @return
 	 */
-	public List<TreeSelectModel> queryListByCode(String pcode) throws JeecgBootException;
+	public List<TreeSelectModel> queryListByCode(String pcode) throws HdBootException;
 	
 	/**
 	  * 根据pid查询子节点集合
@@ -53,5 +53,5 @@ public interface ISysCategoryService extends IService<SysCategory> {
 	 */
 	public String queryIdByCode(String code);
 
-	public void deleteGroup(String id) throws JeecgBootException;
+	public void deleteGroup(String id) throws HdBootException;
 }

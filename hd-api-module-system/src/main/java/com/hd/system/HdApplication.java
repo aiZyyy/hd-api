@@ -16,7 +16,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 
 @Slf4j
-@SpringBootApplication(scanBasePackages = {"org.jeecg","com.hd"})
+@SpringBootApplication(scanBasePackages = {"com.hd"})
 public class HdApplication extends SpringBootServletInitializer {
 
     @Override

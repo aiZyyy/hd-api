@@ -8,7 +8,7 @@ import com.hd.base.modules.system.mapper.SysCategoryMapper;
 import com.hd.base.modules.system.model.TreeSelectModel;
 import com.hd.base.modules.system.service.ISysCategoryService;
 import com.hd.common.constant.CommonConstant;
-import com.hd.common.exception.JeecgBootException;
+import com.hd.common.exception.HdBootException;
 import com.hd.common.util.oConvertUtils;
 import org.springframework.stereotype.Service;
 
@@ -61,11 +61,11 @@ public class SysCategoryServiceImpl extends ServiceImpl<SysCategoryMapper, SysCa
         SysCategory p = this.getById(sysCategory.getId());
         //TODO 该节点判断是否还有子节点
         if (p == null) {
-            throw new JeecgBootException("未找到分组信息");
+            throw new HdBootException("未找到分组信息");
         } else {
             //不能将自己设置成父组别
             if (sysCategory.getId().equalsIgnoreCase(sysCategory.getPid())) {
-                throw new JeecgBootException("不能将自己设置成父组别");
+                throw new HdBootException("不能将自己设置成父组别");
             }
             sysCategory.setUpdateTime(new Date());
             //----------------------------------------------------------------------
@@ -104,15 +104,15 @@ public class SysCategoryServiceImpl extends ServiceImpl<SysCategoryMapper, SysCa
     }
 
     @Override
-    public List<TreeSelectModel> queryListByCode(String pcode) throws JeecgBootException {
+    public List<TreeSelectModel> queryListByCode(String pcode) throws HdBootException {
         String pid = ROOT_PID_VALUE;
         if (oConvertUtils.isNotEmpty(pcode)) {
             List<SysCategory> list = baseMapper.selectList(new LambdaQueryWrapper<SysCategory>().eq(SysCategory::getCode, pcode));
             if (list == null || list.size() == 0) {
-                throw new JeecgBootException("该编码【" + pcode + "】不存在，请核实!");
+                throw new HdBootException("该编码【" + pcode + "】不存在，请核实!");
             }
             if (list.size() > 1) {
-                throw new JeecgBootException("该编码【" + pcode + "】存在多个，请核实!");
+                throw new HdBootException("该编码【" + pcode + "】存在多个，请核实!");
             }
             pid = list.get(0).getId();
         }
@@ -141,10 +141,10 @@ public class SysCategoryServiceImpl extends ServiceImpl<SysCategoryMapper, SysCa
     }
 
     @Override
-    public void deleteGroup(String id) throws JeecgBootException {
+    public void deleteGroup(String id) throws HdBootException {
         SysCategory sysCategory = this.getById(id);
         if (sysCategory == null) {
-            throw new JeecgBootException("未找到分组信息");
+            throw new HdBootException("未找到分组信息");
         }
         String pid = sysCategory.getPid();
         if (oConvertUtils.isNotEmpty(pid)) {

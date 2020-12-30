@@ -59,7 +59,7 @@ public class Swagger2Config implements WebMvcConfigurer {
                 .apiInfo(apiInfo())
                 .select()
                 //此包路径下的类，才生成接口文档
-                .apis(RequestHandlerSelectors.basePackage("com.hd.kbswarn.modules"))
+                .apis(RequestHandlerSelectors.basePackage("com.hd.*.modules"))
                 //加了ApiOperation注解的类，才生成接口文档
                 .apis(RequestHandlerSelectors.withMethodAnnotation(ApiOperation.class))
                 .paths(PathSelectors.any())
@@ -100,7 +100,7 @@ public class Swagger2Config implements WebMvcConfigurer {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 // //大标题
-                .title("宏电康巴什后台服务API接口文档")
+                .title("宏电后台服务API接口文档")
                 // 版本号
                 .version("1.0")
 //				.termsOfServiceUrl("NO terms of service")

@@ -22,7 +22,7 @@ import com.hd.common.constant.CacheConstant;
 import com.hd.common.constant.CommonConstant;
 import com.hd.common.constant.DataBaseConstant;
 import com.hd.common.constant.WebsocketConst;
-import com.hd.common.exception.JeecgBootException;
+import com.hd.common.exception.HdBootException;
 import com.hd.common.system.api.ISysBaseAPI;
 import com.hd.common.system.vo.*;
 import com.hd.common.util.*;
@@ -311,7 +311,7 @@ public class SysBaseApiImpl implements ISysBaseAPI {
     public String parseTemplateByCode(String templateCode, Map<String, String> map) {
         List<SysMessageTemplate> sysSmsTemplates = sysMessageTemplateService.selectByCode(templateCode);
         if (sysSmsTemplates == null || sysSmsTemplates.size() == 0) {
-            throw new JeecgBootException("消息模板不存在，模板编码：" + templateCode);
+            throw new HdBootException("消息模板不存在，模板编码：" + templateCode);
         }
         SysMessageTemplate sysSmsTemplate = sysSmsTemplates.get(0);
         //模板内容
@@ -329,7 +329,7 @@ public class SysBaseApiImpl implements ISysBaseAPI {
     public void sendSysAnnouncement(String fromUser, String toUser, String title, Map<String, String> map, String templateCode) {
         List<SysMessageTemplate> sysSmsTemplates = sysMessageTemplateService.selectByCode(templateCode);
         if (sysSmsTemplates == null || sysSmsTemplates.size() == 0) {
-            throw new JeecgBootException("消息模板不存在，模板编码：" + templateCode);
+            throw new HdBootException("消息模板不存在，模板编码：" + templateCode);
         }
         SysMessageTemplate sysSmsTemplate = sysSmsTemplates.get(0);
         //模板标题
@@ -384,7 +384,7 @@ public class SysBaseApiImpl implements ISysBaseAPI {
     public void sendSysAnnouncement(String fromUser, String toUser, String title, Map<String, String> map, String templateCode, String busType, String busId) {
         List<SysMessageTemplate> sysSmsTemplates = sysMessageTemplateService.selectByCode(templateCode);
         if (sysSmsTemplates == null || sysSmsTemplates.size() == 0) {
-            throw new JeecgBootException("消息模板不存在，模板编码：" + templateCode);
+            throw new HdBootException("消息模板不存在，模板编码：" + templateCode);
         }
         SysMessageTemplate sysSmsTemplate = sysSmsTemplates.get(0);
         //模板标题
@@ -460,7 +460,7 @@ public class SysBaseApiImpl implements ISysBaseAPI {
                 } else if (dbType.indexOf("postgresql") >= 0) {
                     DB_TYPE = DataBaseConstant.DB_TYPE_POSTGRESQL;
                 } else {
-                    throw new JeecgBootException("数据库类型:[" + dbType + "]不识别!");
+                    throw new HdBootException("数据库类型:[" + dbType + "]不识别!");
                 }
             } catch (Exception e) {
                 log.error(e.getMessage(), e);

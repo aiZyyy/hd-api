@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.hd.base.modules.system.entity.SysPermission;
 import com.hd.base.modules.system.model.TreeModel;
-import com.hd.common.exception.JeecgBootException;
+import com.hd.common.exception.HdBootException;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 
@@ -21,13 +21,13 @@ public interface ISysPermissionService extends IService<SysPermission> {
 	public List<TreeModel> queryListByParentId(String parentId);
 	
 	/**真实删除*/
-	public void deletePermission(String id) throws JeecgBootException;
+	public void deletePermission(String id) throws HdBootException;
 	/**逻辑删除*/
-	public void deletePermissionLogical(String id) throws JeecgBootException;
+	public void deletePermissionLogical(String id) throws HdBootException;
 	
-	public void addPermission(SysPermission sysPermission) throws JeecgBootException;
+	public void addPermission(SysPermission sysPermission) throws HdBootException;
 	
-	public void editPermission(SysPermission sysPermission) throws JeecgBootException;
+	public void editPermission(SysPermission sysPermission) throws HdBootException;
 	
 	public List<SysPermission> queryByUser(String username);
 	
