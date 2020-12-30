@@ -5,6 +5,7 @@ import java.util.List;
 import com.hd.base.modules.system.entity.SysDepartRole;
 import org.apache.ibatis.annotations.Param;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.springframework.stereotype.Repository;
 
 /**
  * @Description: 部门角色
@@ -12,6 +13,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * @Date:   2020-02-12
  * @Version: V1.0
  */
+@Repository
 public interface SysDepartRoleMapper extends BaseMapper<SysDepartRole> {
     /**
      * 根据用户id，部门id查询可授权所有部门角色

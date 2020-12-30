@@ -1,11 +1,11 @@
 package com.hd.base.modules.system.mapper;
 
-import java.util.List;
-
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.hd.base.modules.system.entity.SysPermissionDataRule;
 import org.apache.ibatis.annotations.Param;
+import org.springframework.stereotype.Repository;
 
-import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import java.util.List;
 
 /**
  * <p>
@@ -15,14 +15,16 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * @Author huangzhilin
  * @since 2019-04-01
  */
+@Repository
 public interface SysPermissionDataRuleMapper extends BaseMapper<SysPermissionDataRule> {
-	
-	/**
-	  * 根据用户名和权限id查询
-	 * @param username
-	 * @param permissionId
-	 * @return
-	 */
-	public List<String> queryDataRuleIds(@Param("username") String username,@Param("permissionId") String permissionId);
+
+    /**
+     * 根据用户名和权限id查询
+     *
+     * @param username
+     * @param permissionId
+     * @return
+     */
+    public List<String> queryDataRuleIds(@Param("username") String username, @Param("permissionId") String permissionId);
 
 }

@@ -9,6 +9,7 @@ import com.hd.base.modules.system.entity.SysDataSource;
  * @Date: 2019-12-25
  * @Version: V1.0
  */
+@Repository
 public interface SysDataSourceMapper extends BaseMapper<SysDataSource> {
 
 }

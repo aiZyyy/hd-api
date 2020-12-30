@@ -16,6 +16,7 @@ import java.util.Map;
  * @Date: 2019-05-29
  * @Version: V1.0
  */
+@Repository
 public interface SysCategoryMapper extends BaseMapper<SysCategory> {
 
     /**

@@ -9,6 +9,7 @@ import com.hd.base.modules.system.entity.SysCheckRule;
  * @Date: 2020-02-04
  * @Version: V1.0
  */
+@Repository
 public interface SysCheckRuleMapper extends BaseMapper<SysCheckRule> {
 
 }

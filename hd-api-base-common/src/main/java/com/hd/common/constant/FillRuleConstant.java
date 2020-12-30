@@ -2,6 +2,7 @@ package com.hd.common.constant;
 
 /**
  * 规则值生成 编码常量类
+ *
  * @author: taoyan
  * @date: 2020年04月02日
  */

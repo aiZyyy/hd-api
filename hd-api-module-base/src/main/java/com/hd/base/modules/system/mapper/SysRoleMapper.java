@@ -1,10 +1,10 @@
 package com.hd.base.modules.system.mapper;
 
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.hd.base.modules.system.entity.SysRole;
 import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.Param;
-
-import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.springframework.stereotype.Repository;
 
 /**
  * <p>
@@ -14,6 +14,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * @Author scott
  * @since 2018-12-19
  */
+@Repository
 public interface SysRoleMapper extends BaseMapper<SysRole> {
 
     /**

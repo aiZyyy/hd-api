@@ -15,6 +15,7 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
  * @Date:  2019-02-21
  * @Version: V1.0
  */
+@Repository
 public interface SysAnnouncementSendMapper extends BaseMapper<SysAnnouncementSend> {
 
 	public List<String> queryByUserId(@Param("userId") String userId);

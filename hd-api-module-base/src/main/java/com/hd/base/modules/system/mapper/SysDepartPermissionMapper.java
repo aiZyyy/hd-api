@@ -9,6 +9,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * @Date:   2020-02-11
  * @Version: V1.0
  */
+@Repository
 public interface SysDepartPermissionMapper extends BaseMapper<SysDepartPermission> {
 
 }

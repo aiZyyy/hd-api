@@ -2,13 +2,13 @@ package com.hd.base.modules.shiro.authc.interceptor;
 
 import com.alibaba.fastjson.JSON;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
-import lombok.extern.slf4j.Slf4j;
+import com.hd.base.modules.system.entity.SysPermission;
+import com.hd.base.modules.system.service.ISysPermissionService;
 import com.hd.common.api.vo.Result;
 import com.hd.common.aspect.annotation.OnlineAuth;
 import com.hd.common.system.util.JwtUtil;
 import com.hd.common.util.oConvertUtils;
-import com.hd.base.modules.system.entity.SysPermission;
-import com.hd.base.modules.system.service.ISysPermissionService;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.method.HandlerMethod;
 import org.springframework.web.servlet.HandlerInterceptor;

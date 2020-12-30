@@ -67,7 +67,6 @@ public class CASServiceUtil {
     /**
      * 创建模拟客户端（针对 https 客户端禁用 SSL 验证）
      *
-     * @param cookieStore 缓存的 Cookies 信息
      * @return
      * @throws Exception
      */

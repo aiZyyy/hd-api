@@ -14,6 +14,7 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
  * @Date:  2019-01-02
  * @Version: V1.0
  */
+@Repository
 public interface SysAnnouncementMapper extends BaseMapper<SysAnnouncement> {
 
 	

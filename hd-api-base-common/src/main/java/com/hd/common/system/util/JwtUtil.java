@@ -11,6 +11,7 @@ import java.util.Date;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
+import com.hd.common.exception.HdBootException;
 import com.hd.common.system.vo.LoginUser;
 import com.hd.common.system.vo.SysUserCacheInfo;
 import com.hd.common.util.DateUtils;
@@ -18,7 +19,6 @@ import com.hd.common.util.SpringContextUtils;
 import com.hd.common.util.oConvertUtils;
 import org.apache.shiro.SecurityUtils;
 import com.hd.common.constant.DataBaseConstant;
-import com.hd.common.exception.JeecgBootException;
 
 /**
  * @Author Scott
@@ -84,13 +84,13 @@ public class JwtUtil {
 	 * 
 	 * @param request
 	 * @return
-	 * @throws JeecgBootException
+	 * @throws HdBootException
 	 */
-	public static String getUserNameByToken(HttpServletRequest request) throws JeecgBootException {
+	public static String getUserNameByToken(HttpServletRequest request) throws HdBootException {
 		String accessToken = request.getHeader("X-Access-Token");
 		String username = getUsername(accessToken);
 		if (oConvertUtils.isEmpty(username)) {
-			throw new JeecgBootException("未获取到用户");
+			throw new HdBootException("未获取到用户");
 		}
 		return username;
 	}

@@ -1,12 +1,12 @@
 package com.hd.common.util.dynamic.db;
 
 import com.alibaba.druid.pool.DruidDataSource;
+import com.hd.common.exception.HdBootException;
+import com.hd.common.system.vo.DynamicDataSourceModel;
 import com.hd.common.util.ReflectHelper;
 import com.hd.common.util.oConvertUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang.ArrayUtils;
-import com.hd.common.exception.JeecgBootException;
-import com.hd.common.system.vo.DynamicDataSourceModel;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 
@@ -52,7 +52,7 @@ public class DynamicDBUtil {
 
         log.info("******************************************");
         log.info("*                                        *");
-        log.info("*====【"+dbSource.getCode()+"】=====Druid连接池已启用 ====*");
+        log.info("*====【" + dbSource.getCode() + "】=====Druid连接池已启用 ====*");
         log.info("*                                        *");
         log.info("******************************************");
         return dataSource;
@@ -74,10 +74,10 @@ public class DynamicDBUtil {
             return cacheDbSource;
         } else {
             DruidDataSource dataSource = getJdbcDataSource(dbSource);
-            if(dataSource!=null && dataSource.isEnable()){
+            if (dataSource != null && dataSource.isEnable()) {
                 DataSourceCachePool.putCacheBasicDataSource(dbKey, dataSource);
-            }else{
-                throw new JeecgBootException("动态数据源连接失败，dbKey："+dbKey);
+            } else {
+                throw new HdBootException("动态数据源连接失败，dbKey：" + dbKey);
             }
             log.info("--------getDbSourceBydbKey------------------创建DB数据库连接-------------------");
             return dataSource;

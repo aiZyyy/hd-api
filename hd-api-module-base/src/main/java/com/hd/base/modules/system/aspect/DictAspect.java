@@ -1,31 +1,29 @@
 package com.hd.base.modules.system.aspect;
 
-import java.lang.reflect.Field;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-
-import org.aspectj.lang.ProceedingJoinPoint;
-import org.aspectj.lang.annotation.Around;
-import org.aspectj.lang.annotation.Aspect;
-import org.aspectj.lang.annotation.Pointcut;
-import com.hd.common.api.vo.Result;
-import com.hd.common.aspect.annotation.Dict;
-import com.hd.common.constant.CommonConstant;
-import com.hd.common.util.oConvertUtils;
-import com.hd.base.modules.system.service.ISysDictService;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
-import org.springframework.util.StringUtils;
-
 import com.alibaba.fastjson.JSONObject;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-
+import com.hd.base.modules.system.service.ISysDictService;
+import com.hd.common.api.vo.Result;
+import com.hd.common.aspect.annotation.Dict;
+import com.hd.common.constant.CommonConstant;
+import com.hd.common.util.oConvertUtils;
 import lombok.extern.slf4j.Slf4j;
+import org.aspectj.lang.ProceedingJoinPoint;
+import org.aspectj.lang.annotation.Around;
+import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Pointcut;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import org.springframework.util.StringUtils;
+
+import java.lang.reflect.Field;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 
 /**
  * @Description: 字典aop类
@@ -41,8 +39,7 @@ public class DictAspect {
     private ISysDictService dictService;
 
     // 定义切点Pointcut
-    @Pointcut("execution(public * org.jeecg.modules..*.*Controller.*(..))" +
-            "||execution(public * com.hd.kbswarn.modules..*.*Controller.*(..))")
+    @Pointcut("execution(public * com.hd.*.modules..*.*Controller.*(..))")
     public void excudeService() {
     }
 

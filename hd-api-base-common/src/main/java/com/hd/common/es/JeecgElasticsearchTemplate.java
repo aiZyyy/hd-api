@@ -2,10 +2,10 @@ package com.hd.common.es;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import lombok.extern.slf4j.Slf4j;
-import org.apache.commons.lang.StringUtils;
 import com.hd.common.util.RestUtil;
 import com.hd.common.util.oConvertUtils;
+import lombok.extern.slf4j.Slf4j;
+import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
@@ -23,7 +23,9 @@ import java.util.*;
 @Slf4j
 @Component
 public class JeecgElasticsearchTemplate {
-    /** es服务地址 */
+    /**
+     * es服务地址
+     */
     private String baseUrl;
     private final String FORMAT_JSON = "format=json";
 
@@ -308,9 +310,9 @@ public class JeecgElasticsearchTemplate {
                     emptyKeys.add(key);
                 }
                 //2、剔除上传控件值(会导致ES同步失败，报异常failed to parse field [ge_pic] of type [text] )
-                if (oConvertUtils.isNotEmpty(value) && value.indexOf("[{")!=-1) {
+                if (oConvertUtils.isNotEmpty(value) && value.indexOf("[{") != -1) {
                     emptyKeys.add(key);
-                    log.info("-------剔除上传控件字段------------key: "+ key);
+                    log.info("-------剔除上传控件字段------------key: " + key);
                 }
             }
             for (String key : emptyKeys) {

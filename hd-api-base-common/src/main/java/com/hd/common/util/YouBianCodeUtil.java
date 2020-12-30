@@ -124,8 +124,7 @@ public class YouBianCodeUtil {
 
 	/**
 	 * 递增获取下个字母
-	 * 
-	 * @param num
+	 *
 	 * @return
 	 */
 	private static char getNextZiMu(char zimu) {
