@@ -10,7 +10,6 @@ import cn.hutool.crypto.asymmetric.SignAlgorithm;
 import cn.hutool.crypto.symmetric.AES;
 import cn.hutool.json.JSONObject;
 import com.hd.common.util.security.entity.*;
-import org.jeecg.common.util.security.entity.*;
 
 import javax.crypto.SecretKey;
 import java.security.KeyPair;

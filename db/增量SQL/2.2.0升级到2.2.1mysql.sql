@@ -10,7 +10,7 @@ MODIFY COLUMN `dict_code` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_c
 -- ----author:scott--------date:20200602-------for: 字典表字段禁止为空------
 
 -- author:taoyan--------date:20200619-------for: 同步定时任务
-INSERT INTO `sys_quartz_job`(`id`, `create_by`, `create_time`, `del_flag`, `update_by`, `update_time`, `job_class_name`, `cron_expression`, `parameter`, `description`, `status`) VALUES ('1273896435116408834', 'admin', '2020-06-19 16:32:31', 0, 'admin', '2020-06-19 20:08:20', 'org.jeecg.modules.quartz.job.AsyncJob', '0/1 * * * * ? *', NULL, '同步任务', -1);
+INSERT INTO `sys_quartz_job`(`id`, `create_by`, `create_time`, `del_flag`, `update_by`, `update_time`, `job_class_name`, `cron_expression`, `parameter`, `description`, `status`) VALUES ('1273896435116408834', 'admin', '2020-06-19 16:32:31', 0, 'admin', '2020-06-19 20:08:20', 'AsyncJob', '0/1 * * * * ? *', NULL, '同步任务', -1);
 -- author:taoyan--------date:20200619-------for: 同步定时任务
 
 -- author:lvdandan--------date:20200703-------for: 角色授权、二级部门授权添加操作时间及操作ip

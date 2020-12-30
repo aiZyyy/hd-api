@@ -2,7 +2,10 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.hd</groupId>
     <artifactId>hd-api-module-system</artifactId>
+    <version>0.1</version>
 
     <parent>
         <groupId>com.hd</groupId>
@@ -10,17 +13,10 @@
         <version>0.1</version>
     </parent>
 
-
     <dependencies>
         <dependency>
             <groupId>com.hd</groupId>
-            <artifactId>hd-api-base-common</artifactId>
-            <version>0.1</version>
-        </dependency>
-        <dependency>
-            <groupId>com.hd.kbswarn</groupId>
-            <artifactId>model-kbs-warn</artifactId>
-            <version>1.0</version>
+            <artifactId>hd-api-module-base</artifactId>
         </dependency>
     </dependencies>
 

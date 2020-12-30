@@ -667,37 +667,37 @@ GO
 -- ----------------------------
 INSERT INTO [dbo].[ces_shop_goods]  VALUES (N'1258408897326149634', N'admin', N'2020-05-07 22:50:35.0000000', N'admin', N'2020-05-07 22:52:17.0000000', N'A01', N'华为手机note', N'5000.00000', N'2020-05-07 00:00:00.0000000', N'<div class="page1-content" style="margin: 0px 0px 20px; padding: 0px; display: flex; justify-content: space-around; color: #2c3e50; font-family: Avenir, Helvetica, Arial, sans-serif; text-align: center; background-color: #eeeeee;">
 <div class="page1-item" style="margin: auto; padding: 0px; width: 180px;">
-<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(166, 55, 112, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.jeecg.com/images/soo.png" alt="img" /></div>
+<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(166, 55, 112, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.hd.com/images/soo.png" alt="img" /></div>
 <div class="page1-item-title" style="margin: 56px 0px 0px; padding: 0px; font-size: 20px; color: #0d1a26;"><span style="margin: 0px; padding: 0px;">快速开发</span></div>
 </div>
 <div class="page1-item" style="margin: auto; padding: 0px; width: 180px;">
-<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(191, 188, 21, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.jeecg.com/images/rule.png" alt="img" /></div>
+<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(191, 188, 21, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.hd.com/images/rule.png" alt="img" /></div>
 <div class="page1-item-title" style="margin: 56px 0px 0px; padding: 0px; font-size: 20px; color: #0d1a26;"><span style="margin: 0px; padding: 0px;">数据权限</span></div>
 </div>
 <div class="page1-item" style="margin: auto; padding: 0px; width: 180px;">
-<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(73, 101, 166, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.jeecg.com/images/bpm2.png" alt="img" /></div>
+<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(73, 101, 166, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.hd.com/images/bpm2.png" alt="img" /></div>
 <div class="page1-item-title" style="margin: 56px 0px 0px; padding: 0px; font-size: 20px; color: #0d1a26;"><span style="margin: 0px; padding: 0px;">工作流</span></div>
 </div>
 <div class="page1-item" style="margin: auto; padding: 0px; width: 180px;">
-<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(135, 85, 255, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.jeecg.com/images/report1.png" alt="img" /></div>
+<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(135, 85, 255, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.hd.com/images/report1.png" alt="img" /></div>
 <div class="page1-item-title" style="margin: 56px 0px 0px; padding: 0px; font-size: 20px; color: #0d1a26;"><span style="margin: 0px; padding: 0px;">丰富组件库</span></div>
 </div>
 </div>
 <div class="page1-content" style="margin: 0px; padding: 0px; display: flex; justify-content: space-around; color: #2c3e50; font-family: Avenir, Helvetica, Arial, sans-serif; text-align: center; background-color: #eeeeee;">
 <div class="page1-item" style="margin: auto; padding: 0px; width: 180px;">
-<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(166, 55, 112, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.jeecg.com/images/icon1.png" alt="img" /></div>
+<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(166, 55, 112, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.hd.com/images/icon1.png" alt="img" /></div>
 <div class="page1-item-title" style="margin: 56px 0px 0px; padding: 0px; font-size: 20px; color: #0d1a26;"><span style="margin: 0px; padding: 0px;">代码生成器</span></div>
 </div>
 <div class="page1-item" style="margin: auto; padding: 0px; width: 180px;">
-<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(191, 188, 21, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.jeecg.com/images/Automation.png" alt="img" /></div>
+<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(191, 188, 21, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.hd.com/images/Automation.png" alt="img" /></div>
 <div class="page1-item-title" style="margin: 56px 0px 0px; padding: 0px; font-size: 20px; color: #0d1a26;"><span style="margin: 0px; padding: 0px;">Online在线开发</span></div>
 </div>
 <div class="page1-item" style="margin: auto; padding: 0px; width: 180px;">
-<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(73, 101, 166, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.jeecg.com/images/form2.png" alt="img" /></div>
+<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(73, 101, 166, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.hd.com/images/form2.png" alt="img" /></div>
 <div class="page1-item-title" style="margin: 56px 0px 0px; padding: 0px; font-size: 20px; color: #0d1a26;"><span style="margin: 0px; padding: 0px;">表单设计器</span></div>
 </div>
 <div class="page1-item" style="margin: auto; padding: 0px; width: 180px;">
-<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(135, 85, 255, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.jeecg.com/images/bpm3.png" alt="img" /></div>
+<div class="page1-item-img" style="margin: 0px; padding: 0px; width: 180px; height: 180px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: #ffffff; position: relative; z-index: 1; transition: box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-box-shadow 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s, -webkit-transform 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0s; box-shadow: rgba(135, 85, 255, 0.1) 0px 16px 32px;"><img style="margin: 0px; padding: 0px; width: 100px;" src="http://www.hd.com/images/bpm3.png" alt="img" /></div>
 <div class="page1-item-title" style="margin: 56px 0px 0px; padding: 0px; font-size: 20px; color: #0d1a26;"><span style="margin: 0px; padding: 0px;">流程设计器</span></div>
 </div>
 </div>', N'1258408044439597058')
@@ -965,10 +965,10 @@ GO
 -- ----------------------------
 -- Records of demo
 -- ----------------------------
-INSERT INTO [dbo].[demo]  VALUES (N'1260935385049055234', N'111', N'111', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2020-05-14 22:09:57.0000000', NULL, NULL, N'A02A01')
+INSERT INTO [dbo].[demo]  VALUES (N'1260935385049055234', N'111', N'111', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, N'hd', N'2020-05-14 22:09:57.0000000', NULL, NULL, N'A02A01')
 GO
 
-INSERT INTO [dbo].[demo]  VALUES (N'1260935402346364930', N'22', N'222', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2020-05-14 22:10:02.0000000', NULL, NULL, N'A02A01')
+INSERT INTO [dbo].[demo]  VALUES (N'1260935402346364930', N'22', N'222', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, N'hd', N'2020-05-14 22:10:02.0000000', NULL, NULL, N'A02A01')
 GO
 
 INSERT INTO [dbo].[demo]  VALUES (N'1c2ba51b29a42d9de02bbd708ea8121a', N'777777', N'777', N'2018-12-07 19:43:17.0000000', NULL, NULL, NULL, N'7', N'2018-12-07', NULL, NULL, NULL, NULL, N'admin', N'2019-02-21 18:26:04.0000000', NULL)
@@ -992,7 +992,7 @@ GO
 INSERT INTO [dbo].[demo]  VALUES (N'7', N'zhangdaiscott', NULL, NULL, NULL, NULL, N'1', NULL, N'2019-01-03', NULL, NULL, NULL, NULL, NULL, NULL, N'A02A01A01')
 GO
 
-INSERT INTO [dbo].[demo]  VALUES (N'73bc58611012617ca446d8999379e4ac', N'郭靖', N'777', N'2018-12-07 00:00:00.0000000', NULL, NULL, N'1', NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-28 18:16:39.0000000', N'admin', N'2020-05-02 18:14:14.0000000', N'A02A01A02')
+INSERT INTO [dbo].[demo]  VALUES (N'73bc58611012617ca446d8999379e4ac', N'郭靖', N'777', N'2018-12-07 00:00:00.0000000', NULL, NULL, N'1', NULL, NULL, NULL, NULL, N'hd-boot', N'2019-03-28 18:16:39.0000000', N'admin', N'2020-05-02 18:14:14.0000000', N'A02A01A02')
 GO
 
 INSERT INTO [dbo].[demo]  VALUES (N'917e240eaa0b1b2d198ae869b64a81c3', N'zhang daihao', NULL, NULL, NULL, NULL, N'2', N'0', N'2018-11-29', N'zhangdaiscott@163.com', NULL, NULL, NULL, NULL, NULL, N'A02')
@@ -1004,13 +1004,13 @@ GO
 INSERT INTO [dbo].[demo]  VALUES (N'b86897900c770503771c7bb88e5d1e9b', N'scott1', N'开源、很好、hello', NULL, NULL, NULL, N'1', NULL, NULL, N'zhangdaiscott@163.com', NULL, N'scott', N'2019-01-19 12:22:34.0000000', NULL, NULL, NULL)
 GO
 
-INSERT INTO [dbo].[demo]  VALUES (N'c28fa8391ef81d6fabd8bd894a7615aa', N'小麦', NULL, NULL, NULL, NULL, N'2', NULL, NULL, N'zhangdaiscott@163.com', NULL, N'jeecg-boot', N'2019-04-04 17:18:09.0000000', NULL, NULL, NULL)
+INSERT INTO [dbo].[demo]  VALUES (N'c28fa8391ef81d6fabd8bd894a7615aa', N'小麦', NULL, NULL, NULL, NULL, N'2', NULL, NULL, N'zhangdaiscott@163.com', NULL, N'hd-boot', N'2019-04-04 17:18:09.0000000', NULL, NULL, NULL)
 GO
 
 INSERT INTO [dbo].[demo]  VALUES (N'c2c0d49e3c01913067cf8d1fb3c971d2', N'zhang daihao', NULL, NULL, NULL, NULL, N'2', NULL, NULL, N'zhangdaiscott@163.com', NULL, N'admin', N'2019-01-19 23:37:18.0000000', N'admin', N'2019-01-21 16:49:06.0000000', NULL)
 GO
 
-INSERT INTO [dbo].[demo]  VALUES (N'c96279c666b4b82e3ef1e4e2978701ce', N'报名时间', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-28 18:00:52.0000000', NULL, NULL, NULL)
+INSERT INTO [dbo].[demo]  VALUES (N'c96279c666b4b82e3ef1e4e2978701ce', N'报名时间', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, N'hd-boot', N'2019-03-28 18:00:52.0000000', NULL, NULL, NULL)
 GO
 
 INSERT INTO [dbo].[demo]  VALUES (N'd24668721446e8478eeeafe4db66dcff', N'zhang daihao999', NULL, NULL, NULL, NULL, N'1', NULL, NULL, N'zhangdaiscott@163.com', NULL, NULL, NULL, NULL, NULL, NULL)
@@ -1453,13 +1453,13 @@ GO
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'1256527874216800257', N'小王1', N'1', N'', NULL, N'', N'9a57c850e4f68cf94ef7d8585dbaf7e6', N'admin', N'2020-05-02 18:17:37.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'15538561502720', N'3333', N'1', N'', NULL, N'', N'0d4a2e67b538ee1bc881e5ed34f670f0', N'jeecg-boot', N'2019-03-29 18:42:55.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'15538561502720', N'3333', N'1', N'', NULL, N'', N'0d4a2e67b538ee1bc881e5ed34f670f0', N'hd-boot', N'2019-03-29 18:42:55.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'15538561512681', N'3332333', N'2', N'', NULL, N'', N'0d4a2e67b538ee1bc881e5ed34f670f0', N'jeecg-boot', N'2019-03-29 18:42:55.0000000', N'admin', N'2019-03-29 18:43:12.0000000')
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'15538561512681', N'3332333', N'2', N'', NULL, N'', N'0d4a2e67b538ee1bc881e5ed34f670f0', N'hd-boot', N'2019-03-29 18:42:55.0000000', N'admin', N'2019-03-29 18:43:12.0000000')
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'15538561550142', N'4442', N'2', N'', NULL, N'', N'0d4a2e67b538ee1bc881e5ed34f670f0', N'jeecg-boot', N'2019-03-29 18:42:55.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'15538561550142', N'4442', N'2', N'', NULL, N'', N'0d4a2e67b538ee1bc881e5ed34f670f0', N'hd-boot', N'2019-03-29 18:42:55.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'15541168497342', N'444', N'', N'', N'', N'', N'f71f7f8930b5b6b1703d9948d189982b', N'admin', N'2019-04-01 19:08:45.0000000', NULL, NULL)
@@ -1480,7 +1480,7 @@ GO
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'22bc052ae53ed09913b946abba93fa89', N'1', NULL, NULL, NULL, NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'23bafeae88126c3bf3322a29a04f0d5e', N'x秦风', NULL, NULL, NULL, NULL, N'163e2efcbc6d7d54eb3f8a137da8a75a', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'23bafeae88126c3bf3322a29a04f0d5e', N'x秦风', NULL, NULL, NULL, NULL, N'163e2efcbc6d7d54eb3f8a137da8a75a', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'25c4a552c6843f36fad6303bfa99a382', N'1', NULL, NULL, NULL, NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1495,7 +1495,7 @@ GO
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'2e5f62a8b6e0a0ce19b52a6feae23d48', N'3', NULL, NULL, NULL, NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'34a1c5cf6cee360ed610ed0bed70e0f9', N'导入秦风', NULL, NULL, NULL, NULL, N'a2cce75872cc8fcc47f78de9ffd378c2', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'34a1c5cf6cee360ed610ed0bed70e0f9', N'导入秦风', NULL, NULL, NULL, NULL, N'a2cce75872cc8fcc47f78de9ffd378c2', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'3c87400f8109b4cf43c5598f0d40e34d', N'2', NULL, NULL, NULL, NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1528,10 +1528,10 @@ GO
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'742d008214dee0afff2145555692973e', N'秦风', N'1', N'370285198602058822', NULL, N'18611788676', N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'7469c3e5d371767ff90a739d297689b5', N'导入秦风', N'2', NULL, NULL, NULL, N'3a867ebf2cebce9bae3f79676d8d86f3', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', N'admin', N'2019-04-08 17:35:02.0000000')
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'7469c3e5d371767ff90a739d297689b5', N'导入秦风', N'2', NULL, NULL, NULL, N'3a867ebf2cebce9bae3f79676d8d86f3', N'hd-boot', N'2019-03-29 18:43:59.0000000', N'admin', N'2019-04-08 17:35:02.0000000')
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'7a96e2c7b24847d4a29940dbc0eda6e5', N'drscott', NULL, NULL, NULL, NULL, N'e73434dad84ebdce2d4e0c2a2f06d8ea', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'7a96e2c7b24847d4a29940dbc0eda6e5', N'drscott', NULL, NULL, NULL, NULL, N'e73434dad84ebdce2d4e0c2a2f06d8ea', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'7f5a40818e225ee18bda6da7932ac5f9', N'2', NULL, NULL, NULL, NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1543,19 +1543,19 @@ GO
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'8404f31d7196221a573c9bd6c8f15003', N'小张', N'1', N'370285198602058211', NULL, N'18611788676', N'eb13ab35d2946a2b0cfe3452bca1e73f', N'admin', N'2019-02-25 16:29:41.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'859020e10a2f721f201cdbff78cf7b9f', N'scott', NULL, NULL, NULL, NULL, N'163e2efcbc6d7d54eb3f8a137da8a75a', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'859020e10a2f721f201cdbff78cf7b9f', N'scott', NULL, NULL, NULL, NULL, N'163e2efcbc6d7d54eb3f8a137da8a75a', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'8cc3c4d26e3060975df3a2adb781eeb4', N'dr33', NULL, NULL, NULL, NULL, N'b2feb454e43c46b2038768899061e464', N'jeecg-boot', N'2019-04-04 17:23:09.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'8cc3c4d26e3060975df3a2adb781eeb4', N'dr33', NULL, NULL, NULL, NULL, N'b2feb454e43c46b2038768899061e464', N'hd-boot', N'2019-04-04 17:23:09.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'8d1725c23a6a50685ff0dedfd437030d', N'4', NULL, NULL, NULL, NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'933cae3a79f60a93922d59aace5346ce', N'小王', NULL, N'370285198604033222', NULL, N'18611788674', N'6a719071a29927a14f19482f8693d69a', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'933cae3a79f60a93922d59aace5346ce', N'小王', NULL, N'370285198604033222', NULL, N'18611788674', N'6a719071a29927a14f19482f8693d69a', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'9bdb5400b709ba4eaf3444de475880d7', N'dr22', NULL, NULL, NULL, NULL, N'22c17790dcd04b296c4a2a089f71895f', N'jeecg-boot', N'2019-04-04 17:23:09.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'9bdb5400b709ba4eaf3444de475880d7', N'dr22', NULL, NULL, NULL, NULL, N'22c17790dcd04b296c4a2a089f71895f', N'hd-boot', N'2019-04-04 17:23:09.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'9f87677f70e5f864679314389443a3eb', N'33', N'2', N'370285198602058823', NULL, N'18611788674', N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1567,13 +1567,13 @@ GO
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'ab4d002dc552c326147e318c87d3bed4', N'小红1', N'1', N'370285198604033222', NULL, N'18611755848', N'9a57c850e4f68cf94ef7d8585dbaf7e6', N'admin', N'2020-05-02 18:17:37.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'ad116f722a438e5f23095a0b5fcc8e89', N'dr秦风', NULL, NULL, NULL, NULL, N'e73434dad84ebdce2d4e0c2a2f06d8ea', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'ad116f722a438e5f23095a0b5fcc8e89', N'dr秦风', NULL, NULL, NULL, NULL, N'e73434dad84ebdce2d4e0c2a2f06d8ea', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'b1ba147b75f5eaa48212586097fc3fd1', N'2', NULL, NULL, NULL, NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'b43bf432c251f0e6b206e403b8ec29bc', N'lisi', NULL, NULL, NULL, NULL, N'f8889aaef6d1bccffd98d2889c0aafb5', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'b43bf432c251f0e6b206e403b8ec29bc', N'lisi', NULL, NULL, NULL, NULL, N'f8889aaef6d1bccffd98d2889c0aafb5', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'bcdd300a7d44c45a66bdaac14903c801', N'33', NULL, NULL, NULL, NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1594,10 +1594,10 @@ GO
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'cf8817bd703bf7c7c77a2118edc26cc7', N'1', NULL, NULL, NULL, NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'd72b26fae42e71270fce2097a88da58a', N'导入scott', NULL, N'www', NULL, NULL, N'3a867ebf2cebce9bae3f79676d8d86f3', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', N'admin', N'2019-04-08 17:35:05.0000000')
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'd72b26fae42e71270fce2097a88da58a', N'导入scott', NULL, N'www', NULL, NULL, N'3a867ebf2cebce9bae3f79676d8d86f3', N'hd-boot', N'2019-03-29 18:43:59.0000000', N'admin', N'2019-04-08 17:35:05.0000000')
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'dbdc60a6ac1a8c43f24afee384039b68', N'xiaowang', NULL, NULL, NULL, NULL, N'f8889aaef6d1bccffd98d2889c0aafb5', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'dbdc60a6ac1a8c43f24afee384039b68', N'xiaowang', NULL, NULL, NULL, NULL, N'f8889aaef6d1bccffd98d2889c0aafb5', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'dc5883b50466de94d900919ed96d97af', N'33', N'1', N'370285198602058823', NULL, N'18611788674', N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1618,10 +1618,10 @@ GO
 INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'ee7af0acb9beb9bf8d8b3819a8a7fdc3', N'2', NULL, NULL, NULL, NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'f5d2605e844192d9e548f9bd240ac908', N'小张', NULL, N'370285198602058211', NULL, N'18611788676', N'6a719071a29927a14f19482f8693d69a', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'f5d2605e844192d9e548f9bd240ac908', N'小张', NULL, N'370285198602058211', NULL, N'18611788676', N'6a719071a29927a14f19482f8693d69a', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'f6db6547382126613a3e46e7cd58a5f2', N'导入scott', NULL, NULL, NULL, NULL, N'a2cce75872cc8fcc47f78de9ffd378c2', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_customer]  VALUES (N'f6db6547382126613a3e46e7cd58a5f2', N'导入scott', NULL, NULL, NULL, NULL, N'a2cce75872cc8fcc47f78de9ffd378c2', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 
@@ -1723,10 +1723,10 @@ GO
 -- ----------------------------
 -- Records of jeecg_order_main
 -- ----------------------------
-INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'163e2efcbc6d7d54eb3f8a137da8a75a', N'B100', NULL, NULL, N'3000', NULL, N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'163e2efcbc6d7d54eb3f8a137da8a75a', N'B100', NULL, NULL, N'3000', NULL, N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'3a867ebf2cebce9bae3f79676d8d86f3', N'导入B100', N'2222', NULL, N'3000', NULL, N'jeecg-boot', N'2019-03-29 18:43:59.0000000', N'admin', N'2019-04-08 17:35:13.0000000')
+INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'3a867ebf2cebce9bae3f79676d8d86f3', N'导入B100', N'2222', NULL, N'3000', NULL, N'hd-boot', N'2019-03-29 18:43:59.0000000', N'admin', N'2019-04-08 17:35:13.0000000')
 GO
 
 INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'4cba137333127e8e31df7ad168cc3732', N'青岛订单A0001', N'2', N'2019-04-03 10:56:07.0000000', NULL, NULL, N'admin', N'2019-04-03 10:56:11.0000000', NULL, NULL)
@@ -1735,7 +1735,7 @@ GO
 INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'54e739bef5b67569c963c38da52581ec', N'NC911', N'1', N'2019-02-18 09:58:51.0000000', N'40', NULL, N'admin', N'2019-02-18 09:58:47.0000000', N'admin', N'2019-02-18 09:58:59.0000000')
 GO
 
-INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'6a719071a29927a14f19482f8693d69a', N'c100', NULL, NULL, N'5000', NULL, N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'6a719071a29927a14f19482f8693d69a', N'c100', NULL, NULL, N'5000', NULL, N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'8ab1186410a65118c4d746eb085d3bed', N'导入400', N'1', N'2019-02-18 09:58:51.0000000', N'40', NULL, N'admin', N'2019-02-18 09:58:47.0000000', N'admin', N'2019-02-18 09:58:59.0000000')
@@ -1744,7 +1744,7 @@ GO
 INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'9a57c850e4f68cf94ef7d8585dbaf7e6', N'halou001', N'1', N'2019-04-04 17:30:32.0000000', N'500', NULL, N'admin', N'2019-04-04 17:30:41.0000000', N'admin', N'2020-05-02 18:17:36.0000000')
 GO
 
-INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'a2cce75872cc8fcc47f78de9ffd378c2', N'导入B100', NULL, NULL, N'3000', NULL, N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'a2cce75872cc8fcc47f78de9ffd378c2', N'导入B100', NULL, NULL, N'3000', NULL, N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'b190737bd04cca8360e6f87c9ef9ec4e', N'B0018888', N'1', NULL, NULL, NULL, N'admin', N'2019-02-15 18:39:29.0000000', N'admin', N'2020-05-02 18:15:09.0000000')
@@ -1753,7 +1753,7 @@ GO
 INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'd908bfee3377e946e59220c4a4eb414a', N'SSSS001', NULL, NULL, N'599', NULL, N'admin', N'2019-04-01 15:43:03.0000000', N'admin', N'2019-04-01 16:26:52.0000000')
 GO
 
-INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'e73434dad84ebdce2d4e0c2a2f06d8ea', N'导入200', NULL, NULL, N'3000', NULL, N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'e73434dad84ebdce2d4e0c2a2f06d8ea', N'导入200', NULL, NULL, N'3000', NULL, N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'eb13ab35d2946a2b0cfe3452bca1e73f', N'BJ9980', N'1', NULL, N'90', NULL, N'admin', N'2019-02-16 17:36:42.0000000', N'admin', N'2019-02-16 17:46:16.0000000')
@@ -1762,7 +1762,7 @@ GO
 INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'f71f7f8930b5b6b1703d9948d189982b', N'BY911', NULL, N'2019-04-06 19:08:39.0000000', NULL, NULL, N'admin', N'2019-04-01 16:36:02.0000000', N'admin', N'2019-04-01 16:36:08.0000000')
 GO
 
-INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'f8889aaef6d1bccffd98d2889c0aafb5', N'A100', NULL, N'2018-10-10 00:00:00.0000000', N'6000', NULL, N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_main]  VALUES (N'f8889aaef6d1bccffd98d2889c0aafb5', N'A100', NULL, N'2018-10-10 00:00:00.0000000', N'6000', NULL, N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 
@@ -1863,10 +1863,10 @@ GO
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'14221afb4f5f749c1deef26ac56fdac3', N'33', N'2019-03-09 00:00:00.0000000', N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'15538561502730', N'222', NULL, N'0d4a2e67b538ee1bc881e5ed34f670f0', N'jeecg-boot', N'2019-03-29 18:42:55.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'15538561502730', N'222', NULL, N'0d4a2e67b538ee1bc881e5ed34f670f0', N'hd-boot', N'2019-03-29 18:42:55.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'15538561526461', N'2244', N'2019-03-29 00:00:00.0000000', N'0d4a2e67b538ee1bc881e5ed34f670f0', N'jeecg-boot', N'2019-03-29 18:42:55.0000000', N'admin', N'2019-03-29 18:43:26.0000000')
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'15538561526461', N'2244', N'2019-03-29 00:00:00.0000000', N'0d4a2e67b538ee1bc881e5ed34f670f0', N'hd-boot', N'2019-03-29 18:42:55.0000000', N'admin', N'2019-03-29 18:43:26.0000000')
 GO
 
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'15541168478913', N'hhhhh', NULL, N'f71f7f8930b5b6b1703d9948d189982b', N'admin', N'2019-04-01 19:08:45.0000000', NULL, NULL)
@@ -1875,13 +1875,13 @@ GO
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'18905bc89ee3851805aab38ed3b505ec', N'44', NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'1f809cbd26f4e574697e1c10de575d72', N'A100', NULL, N'e73434dad84ebdce2d4e0c2a2f06d8ea', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'1f809cbd26f4e574697e1c10de575d72', N'A100', NULL, N'e73434dad84ebdce2d4e0c2a2f06d8ea', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'21051adb51529bdaa8798b5a3dd7f7f7', N'C10029', N'2019-02-20 00:00:00.0000000', N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'269576e766b917f8b6509a2bb0c4d4bd', N'A100', NULL, N'163e2efcbc6d7d54eb3f8a137da8a75a', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'269576e766b917f8b6509a2bb0c4d4bd', N'A100', NULL, N'163e2efcbc6d7d54eb3f8a137da8a75a', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'2d473ffc79e5b38a17919e15f8b7078e', N'66', N'2019-03-29 00:00:00.0000000', N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1896,7 +1896,7 @@ GO
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'4889a782e78706ab4306a925cfb163a5', N'C34', N'2019-04-01 00:00:00.0000000', N'd908bfee3377e946e59220c4a4eb414a', N'admin', N'2019-04-01 16:35:00.0000000', N'admin', N'2019-04-01 16:35:07.0000000')
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'48d385796382cf87fa4bdf13b42d9a28', N'导入A100', NULL, N'3a867ebf2cebce9bae3f79676d8d86f3', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'48d385796382cf87fa4bdf13b42d9a28', N'导入A100', NULL, N'3a867ebf2cebce9bae3f79676d8d86f3', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'541faed56efbeb4be9df581bd8264d3a', N'88', NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1905,7 +1905,7 @@ GO
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'57a27a7dfd6a48e7d981f300c181b355', N'6', N'2019-03-30 00:00:00.0000000', N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'5ce4dc439c874266e42e6c0ff8dc8b5c', N'导入A100', NULL, N'a2cce75872cc8fcc47f78de9ffd378c2', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'5ce4dc439c874266e42e6c0ff8dc8b5c', N'导入A100', NULL, N'a2cce75872cc8fcc47f78de9ffd378c2', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'645a06152998a576c051474157625c41', N'88', N'2019-04-04 17:25:31.0000000', N'8ab1186410a65118c4d746eb085d3bed', N'admin', N'2019-04-04 17:25:33.0000000', NULL, NULL)
@@ -1914,7 +1914,7 @@ GO
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'6e3562f2571ea9e96b2d24497b5f5eec', N'55', N'2019-03-23 00:00:00.0000000', N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'8fd2b389151568738b1cc4d8e27a6110', N'导入A100', NULL, N'a2cce75872cc8fcc47f78de9ffd378c2', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'8fd2b389151568738b1cc4d8e27a6110', N'导入A100', NULL, N'a2cce75872cc8fcc47f78de9ffd378c2', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'93f1a84053e546f59137432ff5564cac', N'55', NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1923,16 +1923,16 @@ GO
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'969ddc5d2e198d50903686917f996470', N'A10029', N'2019-04-01 00:00:00.0000000', N'f71f7f8930b5b6b1703d9948d189982b', N'admin', N'2019-04-01 19:08:45.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'96e7303a8d22a5c384e08d7bcf7ac2bf', N'A100', NULL, N'e73434dad84ebdce2d4e0c2a2f06d8ea', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'96e7303a8d22a5c384e08d7bcf7ac2bf', N'A100', NULL, N'e73434dad84ebdce2d4e0c2a2f06d8ea', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'9e8a3336f6c63f558f2b68ce2e1e666e', N'深圳1001', N'2020-05-02 00:00:00.0000000', N'9a57c850e4f68cf94ef7d8585dbaf7e6', N'admin', N'2020-05-02 18:17:37.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'a28db02c810c65660015095cb81ed434', N'A100', NULL, N'f8889aaef6d1bccffd98d2889c0aafb5', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'a28db02c810c65660015095cb81ed434', N'A100', NULL, N'f8889aaef6d1bccffd98d2889c0aafb5', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'b217bb0e4ec6a45b6cbf6db880060c0f', N'A100', NULL, N'6a719071a29927a14f19482f8693d69a', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'b217bb0e4ec6a45b6cbf6db880060c0f', N'A100', NULL, N'6a719071a29927a14f19482f8693d69a', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'ba708df70bb2652ed1051a394cfa0bb3', N'333', NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1959,10 +1959,10 @@ GO
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'c64547666b634b3d6a0feedcf05f25ce', N'C10019', N'2019-04-01 00:00:00.0000000', N'f71f7f8930b5b6b1703d9948d189982b', N'admin', N'2019-04-01 19:08:45.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'c8b8d3217f37da78dddf711a1f7da485', N'A100', NULL, N'163e2efcbc6d7d54eb3f8a137da8a75a', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'c8b8d3217f37da78dddf711a1f7da485', N'A100', NULL, N'163e2efcbc6d7d54eb3f8a137da8a75a', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'cab691c1c1ff7a6dfd7248421917fd3c', N'A100', NULL, N'f8889aaef6d1bccffd98d2889c0aafb5', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'cab691c1c1ff7a6dfd7248421917fd3c', N'A100', NULL, N'f8889aaef6d1bccffd98d2889c0aafb5', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'cca10a9a850b456d9b72be87da7b0883', N'77', NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -1971,7 +1971,7 @@ GO
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'd2fbba11f4814d9b1d3cb1a3f342234a', N'C10019', N'2019-02-18 00:00:00.0000000', N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'dbdb07a16826808e4276e84b2aa4731a', N'导入A100', NULL, N'3a867ebf2cebce9bae3f79676d8d86f3', N'jeecg-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'dbdb07a16826808e4276e84b2aa4731a', N'导入A100', NULL, N'3a867ebf2cebce9bae3f79676d8d86f3', N'hd-boot', N'2019-03-29 18:43:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[jeecg_order_ticket]  VALUES (N'e7075639c37513afc0bbc4bf7b5d98b9', N'88', NULL, N'54e739bef5b67569c963c38da52581ec', N'admin', N'2019-03-15 16:50:15.0000000', NULL, NULL)
@@ -6120,7 +6120,7 @@ INSERT INTO [dbo].[sys_announcement]  VALUES (N'1256486502931722242', N'JeecgBoo
 <li style="box-sizing: inherit; line-height: 1.875em; margin-top: 0px;">1、升级 ant-design-vue 到最新版本 1.5.2，会导致使用disabled的组件不可用（需要全局替换disabled 为readOnly；另外原来readOnly不允许全小写）</li>
 <li style="box-sizing: inherit; line-height: 1.875em;">2、JSearchSelectTag.vue行编辑的popup传参做了修改，需要全局替换 orgFieldse 为 orgFields</li>
 <li style="box-sizing: inherit; line-height: 1.875em;">3、 项目删除了sass，全部换成 less，其中涉及/deep/语法得改造</li>
-<li style="box-sizing: inherit; line-height: 1.875em; margin-bottom: 0px;">4、 Online表单的填值规则用法修改了&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" href="http://doc.jeecg.com/1630378">文档</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em; margin-bottom: 0px;">4、 Online表单的填值规则用法修改了&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" href="http://doc.hd.com/1630378">文档</a></li>
 </ul>
 <h5 id="h5_6" style="box-sizing: inherit; font-family: ''PingFang SC'', ''Helvetica Neue'', ''Microsoft YaHei UI'', ''Microsoft YaHei'', ''Noto Sans CJK SC'', Sathu, EucrosiaUPC, Arial, Helvetica, sans-serif; line-height: 1.8; margin: 22px 0px 16px; padding: 0px; font-size: 18px; border: none; color: #333333; background-color: #ffffff;">较大改造</h5>
 <ul style="box-sizing: inherit; margin: 0px 0px 20px; padding: 0px 0px 0px 20px; color: #333333; font-family: -apple-system, BlinkMacSystemFont, ''Apple Color Emoji'', ''Segoe UI Emoji'', ''Segoe UI Symbol'', ''Segoe UI'', ''PingFang SC'', ''Hiragino Sans GB'', ''Microsoft YaHei'', ''Helvetica Neue'', Helvetica, Arial, sans-serif; font-size: 16px; background-color: #ffffff;">
@@ -6140,7 +6140,7 @@ INSERT INTO [dbo].[sys_announcement]  VALUES (N'1256486502931722242', N'JeecgBoo
 <li style="box-sizing: inherit; line-height: 1.875em;">Online 树表单功能一系列优化，比如数据列新增添加下级按钮功能、添加下级不自动展开列表等问题</li>
 <li style="box-sizing: inherit; line-height: 1.875em;">Online JS增强编辑器支持放大，同时JS代码变更，增加版本记忆功能，方便追踪历史</li>
 <li style="box-sizing: inherit; line-height: 1.875em;">Online JS增强支持lodash工具</li>
-<li style="box-sizing: inherit; line-height: 1.875em;">Online控件 默认值表达式功能&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" href="http://doc.jeecg.com/1630378">文档</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">Online控件 默认值表达式功能&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" href="http://doc.hd.com/1630378">文档</a></li>
 <li style="box-sizing: inherit; line-height: 1.875em;">Online 增加Excel导入导出转换器配置，针对各种控件的导入导出做了统一处理</li>
 <li style="box-sizing: inherit; line-height: 1.875em;">Online 列表字段排序支持配置</li>
 <li style="box-sizing: inherit; line-height: 1.875em;">Online同步数据库，数据库兼容性优化（mysql、oracle11g、SqlServer2017）</li>
@@ -6180,7 +6180,7 @@ INSERT INTO [dbo].[sys_announcement]  VALUES (N'1256486502931722242', N'JeecgBoo
 <ul style="box-sizing: inherit; margin: 0px 0px 20px; padding: 0px 0px 0px 20px; color: #333333; font-family: -apple-system, BlinkMacSystemFont, ''Apple Color Emoji'', ''Segoe UI Emoji'', ''Segoe UI Symbol'', ''Segoe UI'', ''PingFang SC'', ''Hiragino Sans GB'', ''Microsoft YaHei'', ''Helvetica Neue'', Helvetica, Arial, sans-serif; font-size: 16px; background-color: #ffffff;">
 <li style="box-sizing: inherit; line-height: 1.875em; margin-top: 0px;">新增内嵌Table代码生成器模板</li>
 <li style="box-sizing: inherit; line-height: 1.875em;">升级代码生成器依赖，支持返回生成结果&amp;支持服务器端生成代码config</li>
-<li style="box-sizing: inherit; line-height: 1.875em;">代码生成器列表，列表自适应优化，支持移动效果（强制列不换行，不过有弊端，<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" href="http://doc.jeecg.com/1607183">见文档</a>）</li>
+<li style="box-sizing: inherit; line-height: 1.875em;">代码生成器列表，列表自适应优化，支持移动效果（强制列不换行，不过有弊端，<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" href="http://doc.hd.com/1607183">见文档</a>）</li>
 <li style="box-sizing: inherit; line-height: 1.875em;">实体生成，自动带着swagger 注解（支持单表、一对多等模型）</li>
 <li style="box-sizing: inherit; line-height: 1.875em;">代码生成器，列表移动自适应样式修改</li>
 <li style="box-sizing: inherit; line-height: 1.875em;">生成后的代码导入导出bug修复</li>
@@ -6260,44 +6260,44 @@ INSERT INTO [dbo].[sys_announcement]  VALUES (N'1256486502931722242', N'JeecgBoo
 </ul>
 <h5 id="h5_11" style="box-sizing: inherit; font-family: ''PingFang SC'', ''Helvetica Neue'', ''Microsoft YaHei UI'', ''Microsoft YaHei'', ''Noto Sans CJK SC'', Sathu, EucrosiaUPC, Arial, Helvetica, sans-serif; line-height: 1.8; margin: 22px 0px 16px; padding: 0px; font-size: 18px; border: none; color: #333333; background-color: #ffffff;">Issues处理</h5>
 <ul style="box-sizing: inherit; margin: 0px 0px 20px; padding: 0px 0px 0px 20px; color: #333333; font-family: -apple-system, BlinkMacSystemFont, ''Apple Color Emoji'', ''Segoe UI Emoji'', ''Segoe UI Symbol'', ''Segoe UI'', ''PingFang SC'', ''Hiragino Sans GB'', ''Microsoft YaHei'', ''Helvetica Neue'', Helvetica, Arial, sans-serif; font-size: 16px; background-color: #ffffff;">
-<li style="box-sizing: inherit; line-height: 1.875em; margin-top: 0px;">online form表单项能否支持配置有级联关系的内容&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#948" href="https://github.com/zhangdaiscott/jeecg-boot/issues/948">#948</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">全局拦截异常错误的提醒文字&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#768" href="https://github.com/zhangdaiscott/jeecg-boot/issues/768">#768</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">建议：城市级联选择组件&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#905" href="https://github.com/zhangdaiscott/jeecg-boot/issues/905">#905</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">表单配置中检验字段配置href，报表中该配置字段无法看到链接&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#961" href="https://github.com/zhangdaiscott/jeecg-boot/issues/961">#961</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">SysUserMapper.xml查询脚本数据兼容问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#962" href="https://github.com/zhangdaiscott/jeecg-boot/issues/962">#962</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">在线表单 提示 ButtonExpHandler is not defined&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#957" href="https://github.com/zhangdaiscott/jeecg-boot/issues/957">#957</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">online表单中添加自定义按钮无法显示&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#973" href="https://github.com/zhangdaiscott/jeecg-boot/issues/973">#973</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">online报表不支持按照登录用户过滤数据&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#934" href="https://github.com/zhangdaiscott/jeecg-boot/issues/934">#934</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">点击新增或者编辑按钮弹框宽度的设置问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#974" href="https://github.com/zhangdaiscott/jeecg-boot/issues/974">#974</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">online报表配置中使用系统参数，报错&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="I1AWNM" href="https://gitee.com/jeecg/jeecg-boot/issues/I1AWNM">I1AWNM</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">online增强SQL变量取数为null,#{sys.sys_date} 还有#{sys.sys_time}&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#999" href="https://github.com/zhangdaiscott/jeecg-boot/issues/999">#999</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">一个主表，多个付表。1对多。保存后，某些从表行项目内容保存成功，单重新打开数据表现丢失。&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#997" href="https://github.com/zhangdaiscott/jeecg-boot/issues/997">#997</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">/online/cgform/api/exportXls/{code}接口问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1012" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1012">#1012</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">打成jar包，访问不到代码生成器模板&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1010" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1010">#1010</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">online表单开发，打包后模板找不到&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#865" href="https://github.com/zhangdaiscott/jeecg-boot/issues/865">#865</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">已生成的代码，子表最下下行添加合计行底部固定问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#936" href="https://github.com/zhangdaiscott/jeecg-boot/issues/936">#936</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">下拉搜索框在编辑时下拉name无法带过来&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#971" href="https://github.com/zhangdaiscott/jeecg-boot/issues/971">#971</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">建议autoPoi升级，优化数据返回List Map格式下的复合表头导出excel的体验&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#873" href="https://github.com/zhangdaiscott/jeecg-boot/issues/873">#873</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">配置 Href 跳转，并没有显示为超链接&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1020" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1020">#1020</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">首次打开一对多表单，JEditableTable的addDefaultRowNum属性不生效&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1003" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1003">#1003</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">autopoi 双表头问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#862" href="https://github.com/zhangdaiscott/jeecg-boot/issues/862">#862</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">应该是权限管理bug&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#110" href="https://github.com/zhangdaiscott/jeecg-boot/issues/110">#110</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">在线 的online报表报错&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1029" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1029">#1029</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">online代码生成器树形表单父节点字段名称问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="issues/I1ABGV " href="https://gitee.com/jeecg/jeecg-boot/issues/I1ABGV">issues/I1ABGV</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">点击j-popup,里面有数据，如果选择同名的数据，文本框为空&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1044" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1044">#1044</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">关于table列宽可拖动问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1054" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1054">#1054</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">单表数据导出多表头 auto 的Excel注解 groupName属性<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title=" #1053" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1053">&nbsp;#1053</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">在线报表和在线online的问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1030" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1030">#1030</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">J-pop组件&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1043" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1043">#1043</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">2.1.4 日志管理---没有记录查询接口参数&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1070" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1070">#1070</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">服务器日志超过设置的MaxFileSize时&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1130" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1130">#1130</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">online 表单中，在 附表中存在上传图片组件，点击上传图片并提交，显示提交失败&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1074" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1074">#1074</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">online表单js增强修改从表控件值问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1051" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1051">#1051</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">重复代理问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#994" href="https://github.com/zhangdaiscott/jeecg-boot/issues/994">#994</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">系统使用的日志包有问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#887" href="https://github.com/zhangdaiscott/jeecg-boot/issues/887">#887</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">使用sqlserver数据库,用户管理查询出错&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1140" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1140">#1140</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">主表和从表 一对一关系表单 TypeError: Cannot read property ''getAll'' of undefined&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1129" href="https://github.com/zhangdaiscott/jeecg-boot/issues/1129">#1129</a></li>
-<li style="box-sizing: inherit; line-height: 1.875em;">ERP表单附表数据编辑后消失&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="issues/I1DN3B" href="https://gitee.com/jeecg/jeecg-boot/issues/I1DN3B">issues/I1DN3B</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em; margin-top: 0px;">online form表单项能否支持配置有级联关系的内容&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#948" href="https://github.com/zhangdaiscott/hd-boot/issues/948">#948</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">全局拦截异常错误的提醒文字&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#768" href="https://github.com/zhangdaiscott/hd-boot/issues/768">#768</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">建议：城市级联选择组件&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#905" href="https://github.com/zhangdaiscott/hd-boot/issues/905">#905</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">表单配置中检验字段配置href，报表中该配置字段无法看到链接&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#961" href="https://github.com/zhangdaiscott/hd-boot/issues/961">#961</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">SysUserMapper.xml查询脚本数据兼容问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#962" href="https://github.com/zhangdaiscott/hd-boot/issues/962">#962</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">在线表单 提示 ButtonExpHandler is not defined&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#957" href="https://github.com/zhangdaiscott/hd-boot/issues/957">#957</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">online表单中添加自定义按钮无法显示&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#973" href="https://github.com/zhangdaiscott/hd-boot/issues/973">#973</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">online报表不支持按照登录用户过滤数据&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#934" href="https://github.com/zhangdaiscott/hd-boot/issues/934">#934</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">点击新增或者编辑按钮弹框宽度的设置问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#974" href="https://github.com/zhangdaiscott/hd-boot/issues/974">#974</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">online报表配置中使用系统参数，报错&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="I1AWNM" href="https://gitee.com/hd/hd-boot/issues/I1AWNM">I1AWNM</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">online增强SQL变量取数为null,#{sys.sys_date} 还有#{sys.sys_time}&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#999" href="https://github.com/zhangdaiscott/hd-boot/issues/999">#999</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">一个主表，多个付表。1对多。保存后，某些从表行项目内容保存成功，单重新打开数据表现丢失。&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#997" href="https://github.com/zhangdaiscott/hd-boot/issues/997">#997</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">/online/cgform/api/exportXls/{code}接口问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1012" href="https://github.com/zhangdaiscott/hd-boot/issues/1012">#1012</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">打成jar包，访问不到代码生成器模板&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1010" href="https://github.com/zhangdaiscott/hd-boot/issues/1010">#1010</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">online表单开发，打包后模板找不到&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#865" href="https://github.com/zhangdaiscott/hd-boot/issues/865">#865</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">已生成的代码，子表最下下行添加合计行底部固定问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#936" href="https://github.com/zhangdaiscott/hd-boot/issues/936">#936</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">下拉搜索框在编辑时下拉name无法带过来&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#971" href="https://github.com/zhangdaiscott/hd-boot/issues/971">#971</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">建议autoPoi升级，优化数据返回List Map格式下的复合表头导出excel的体验&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#873" href="https://github.com/zhangdaiscott/hd-boot/issues/873">#873</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">配置 Href 跳转，并没有显示为超链接&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1020" href="https://github.com/zhangdaiscott/hd-boot/issues/1020">#1020</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">首次打开一对多表单，JEditableTable的addDefaultRowNum属性不生效&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1003" href="https://github.com/zhangdaiscott/hd-boot/issues/1003">#1003</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">autopoi 双表头问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#862" href="https://github.com/zhangdaiscott/hd-boot/issues/862">#862</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">应该是权限管理bug&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#110" href="https://github.com/zhangdaiscott/hd-boot/issues/110">#110</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">在线 的online报表报错&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1029" href="https://github.com/zhangdaiscott/hd-boot/issues/1029">#1029</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">online代码生成器树形表单父节点字段名称问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="issues/I1ABGV " href="https://gitee.com/hd/hd-boot/issues/I1ABGV">issues/I1ABGV</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">点击j-popup,里面有数据，如果选择同名的数据，文本框为空&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1044" href="https://github.com/zhangdaiscott/hd-boot/issues/1044">#1044</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">关于table列宽可拖动问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1054" href="https://github.com/zhangdaiscott/hd-boot/issues/1054">#1054</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">单表数据导出多表头 auto 的Excel注解 groupName属性<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title=" #1053" href="https://github.com/zhangdaiscott/hd-boot/issues/1053">&nbsp;#1053</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">在线报表和在线online的问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1030" href="https://github.com/zhangdaiscott/hd-boot/issues/1030">#1030</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">J-pop组件&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1043" href="https://github.com/zhangdaiscott/hd-boot/issues/1043">#1043</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">2.1.4 日志管理---没有记录查询接口参数&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1070" href="https://github.com/zhangdaiscott/hd-boot/issues/1070">#1070</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">服务器日志超过设置的MaxFileSize时&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1130" href="https://github.com/zhangdaiscott/hd-boot/issues/1130">#1130</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">online 表单中，在 附表中存在上传图片组件，点击上传图片并提交，显示提交失败&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1074" href="https://github.com/zhangdaiscott/hd-boot/issues/1074">#1074</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">online表单js增强修改从表控件值问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1051" href="https://github.com/zhangdaiscott/hd-boot/issues/1051">#1051</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">重复代理问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#994" href="https://github.com/zhangdaiscott/hd-boot/issues/994">#994</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">系统使用的日志包有问题&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#887" href="https://github.com/zhangdaiscott/hd-boot/issues/887">#887</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">使用sqlserver数据库,用户管理查询出错&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1140" href="https://github.com/zhangdaiscott/hd-boot/issues/1140">#1140</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">主表和从表 一对一关系表单 TypeError: Cannot read property ''getAll'' of undefined&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="#1129" href="https://github.com/zhangdaiscott/hd-boot/issues/1129">#1129</a></li>
+<li style="box-sizing: inherit; line-height: 1.875em;">ERP表单附表数据编辑后消失&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="issues/I1DN3B" href="https://gitee.com/hd/hd-boot/issues/I1DN3B">issues/I1DN3B</a></li>
 <li style="box-sizing: inherit; line-height: 1.875em;">多表的erp模式生成的子表，表单没有导入导出功能&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="issues/I1BB2U" href="https://gitee.com/jeecg/jeecg-boot/issues/I1BB2U">issues/I1BB2U</a></li>
 <li style="box-sizing: inherit; line-height: 1.875em;">用edge打开首页，整个页面动不了，控制台console打出很多错误&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="issues/I189B5" href="https://gitee.com/jeecg/jeecg-boot/issues/I189B5">issues/I189B5</a></li>
 <li style="box-sizing: inherit; line-height: 1.875em;">官方的快速开发平台主子表对IE11不兼容&nbsp;<a style="box-sizing: inherit; background-color: transparent; color: #4183c4; text-decoration-line: none;" title="issues/I17LEE" href="https://gitee.com/jeecg/jeecg-boot/issues/I17LEE">issues/I17LEE</a></li>
@@ -8200,13 +8200,13 @@ GO
 -- ----------------------------
 -- Records of sys_fill_rule
 -- ----------------------------
-INSERT INTO [dbo].[sys_fill_rule]  VALUES (N'1202551334738382850', N'机构编码生成', N'org_num_role', N'org.jeecg.modules.system.rule.OrgCodeRule', N'{"parentId":"c6d7cb4deeac411cb3384b1b31278596"}', N'admin', N'2019-12-09 10:37:06.0000000', N'admin', N'2019-12-05 19:32:35.0000000')
+INSERT INTO [dbo].[sys_fill_rule]  VALUES (N'1202551334738382850', N'机构编码生成', N'org_num_role', N'OrgCodeRule', N'{"parentId":"c6d7cb4deeac411cb3384b1b31278596"}', N'admin', N'2019-12-09 10:37:06.0000000', N'admin', N'2019-12-05 19:32:35.0000000')
 GO
 
-INSERT INTO [dbo].[sys_fill_rule]  VALUES (N'1202787623203065858', N'分类字典编码生成', N'category_code_rule', N'org.jeecg.modules.system.rule.CategoryCodeRule', N'{"pid":""}', N'admin', N'2019-12-09 10:36:54.0000000', N'admin', N'2019-12-06 11:11:31.0000000')
+INSERT INTO [dbo].[sys_fill_rule]  VALUES (N'1202787623203065858', N'分类字典编码生成', N'category_code_rule', N'CategoryCodeRule', N'{"pid":""}', N'admin', N'2019-12-09 10:36:54.0000000', N'admin', N'2019-12-06 11:11:31.0000000')
 GO
 
-INSERT INTO [dbo].[sys_fill_rule]  VALUES (N'1260134137920090113', N'商城订单流水号', N'shop_order_num', N'org.jeecg.modules.system.rule.OrderNumberRule', N'{}', N'admin', N'2020-07-11 11:35:00.0000000', N'admin', N'2020-05-12 17:06:05.0000000')
+INSERT INTO [dbo].[sys_fill_rule]  VALUES (N'1260134137920090113', N'商城订单流水号', N'shop_order_num', N'OrderNumberRule', N'{}', N'admin', N'2020-07-11 11:35:00.0000000', N'admin', N'2020-05-12 17:06:05.0000000')
 GO
 
 
@@ -8547,7 +8547,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'04f97d7f906c1e97384a94f3728606a4', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-11 12:08:51.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'055cf35c8865761b479c7f289dc36616', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1547912238787,"email":"zhangdaiscott@163.com","id":"c2c0d49e3c01913067cf8d1fb3c971d2","name":"zhang daihao"}]', NULL, N'16', N'admin', N'2019-01-19 23:37:18.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'055cf35c8865761b479c7f289dc36616', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1547912238787,"email":"zhangdaiscott@163.com","id":"c2c0d49e3c01913067cf8d1fb3c971d2","name":"zhang daihao"}]', NULL, N'16', N'admin', N'2019-01-19 23:37:18.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'056dd4466f4ed51de26c535fd9864828', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-04-11 19:47:15.0000000', NULL, NULL)
@@ -8574,7 +8574,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'07132c1228b1c165f62ea35f4ff1cbe9', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-19 18:15:44.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'07a0b3f8b4140a7a586305c2f40a2310', N'2', N'删除测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.delete()', NULL, N'["7eac655877842eb39dc2f0469f3964ec"]', NULL, N'14', N'admin', N'2019-01-19 15:38:11.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'07a0b3f8b4140a7a586305c2f40a2310', N'2', N'删除测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.delete()', NULL, N'["7eac655877842eb39dc2f0469f3964ec"]', NULL, N'14', N'admin', N'2019-01-19 15:38:11.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'0819ea9729ddf70f64ace59370a62cf1', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-04-02 18:59:43.0000000', NULL, NULL)
@@ -8679,28 +8679,28 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1185037047527714817', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2019-10-18 11:37:04.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1185037216109375490', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'133', N'admin', N'2019-10-18 11:37:44.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1185037216109375490', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'133', N'admin', N'2019-10-18 11:37:44.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1185037734533738497', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'24', N'admin', N'2019-10-18 11:39:48.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1185037734533738497', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'24', N'admin', N'2019-10-18 11:39:48.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1185037756142792705', N'2', N'编辑用户，id： e9ca23d68d884d4ebb19d07889727dae', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2019-10-18 11:39:53.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1185037829144653825', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'12', N'admin', N'2019-10-18 11:40:10.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1185037829144653825', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'12', N'admin', N'2019-10-18 11:40:10.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1185039907581669377', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'6', N'admin', N'2019-10-18 11:48:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1185039907581669377', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'6', N'admin', N'2019-10-18 11:48:26.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1185039947956039681', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'5', N'admin', N'2019-10-18 11:48:35.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1185039947956039681', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'5', N'admin', N'2019-10-18 11:48:35.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1185040064834514945', N'2', N'职务表-添加', N'2', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.add()', NULL, N'[{"code":"devleader","createBy":"admin","createTime":1571370543072,"id":"1185040064792571906","name":"研发部经理","rank":"3","sysOrgCode":"A01"}]', NULL, N'22', N'admin', N'2019-10-18 11:49:03.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1185040064834514945', N'2', N'职务表-添加', N'2', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.add()', NULL, N'[{"code":"devleader","createBy":"admin","createTime":1571370543072,"id":"1185040064792571906","name":"研发部经理","rank":"3","sysOrgCode":"A01"}]', NULL, N'22', N'admin', N'2019-10-18 11:49:03.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1185040066562568193', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'26', N'admin', N'2019-10-18 11:49:04.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1185040066562568193', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'26', N'admin', N'2019-10-18 11:49:04.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1185129808478158850', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2019-10-18 17:45:39.0000000', NULL, NULL)
@@ -8718,22 +8718,22 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1197431068325679105', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2019-11-21 16:26:29.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197431850395602945', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'41', N'admin', N'2019-11-21 16:29:35.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197431850395602945', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'41', N'admin', N'2019-11-21 16:29:35.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197431872520556545', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'65', N'admin', N'2019-11-21 16:29:40.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197431872520556545', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'65', N'admin', N'2019-11-21 16:29:40.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197431893076840450', N'2', N'职务表-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.edit()', NULL, N'[{"code":"devleader","createBy":"admin","createTime":1571370543000,"id":"1185040064792571906","name":"研发部经理","postRank":"2","sysOrgCode":"A01","updateBy":"admin","updateTime":1574324985161}]', NULL, N'19', N'admin', N'2019-11-21 16:29:45.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197431893076840450', N'2', N'职务表-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.edit()', NULL, N'[{"code":"devleader","createBy":"admin","createTime":1571370543000,"id":"1185040064792571906","name":"研发部经理","postRank":"2","sysOrgCode":"A01","updateBy":"admin","updateTime":1574324985161}]', NULL, N'19', N'admin', N'2019-11-21 16:29:45.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197431893756317697', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'42', N'admin', N'2019-11-21 16:29:45.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197431893756317697', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'42', N'admin', N'2019-11-21 16:29:45.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197433172830294018', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'22', N'admin', N'2019-11-21 16:34:50.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197433172830294018', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'22', N'admin', N'2019-11-21 16:34:50.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197433546278539266', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'16', N'admin', N'2019-11-21 16:36:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197433546278539266', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'16', N'admin', N'2019-11-21 16:36:19.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1197433566151151618', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2019-11-21 16:36:24.0000000', NULL, NULL)
@@ -8742,7 +8742,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1197434320656130049', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2019-11-21 16:39:24.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197434360204222466', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'240', N'admin', N'2019-11-21 16:39:33.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197434360204222466', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'240', N'admin', N'2019-11-21 16:39:33.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1197434364826345474', N'2', N'编辑用户，id： e9ca23d68d884d4ebb19d07889727dae', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2019-11-21 16:39:34.0000000', NULL, NULL)
@@ -8754,10 +8754,10 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1197434443708620802', N'1', N'用户名: jeecg,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2019-11-21 16:39:53.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197434470036267009', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'45', N'jeecg', N'2019-11-21 16:40:00.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197434470036267009', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'45', N'jeecg', N'2019-11-21 16:40:00.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197434579583098881', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'46', N'jeecg', N'2019-11-21 16:40:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197434579583098881', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'46', N'jeecg', N'2019-11-21 16:40:26.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1197448449475338242', N'1', N'用户名: jeecg,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2019-11-21 17:35:33.0000000', NULL, NULL)
@@ -8766,19 +8766,19 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1197448475219976193', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2019-11-21 17:35:39.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197448491221245953', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'98', N'admin', N'2019-11-21 17:35:42.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197448491221245953', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'98', N'admin', N'2019-11-21 17:35:42.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197449269478547458', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'43', N'admin', N'2019-11-21 17:38:48.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197449269478547458', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'43', N'admin', N'2019-11-21 17:38:48.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197450304582443009', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'27', N'admin', N'2019-11-21 17:42:55.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197450304582443009', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'27', N'admin', N'2019-11-21 17:42:55.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197453216322797569', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'526', N'admin', N'2019-11-21 17:54:29.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197453216322797569', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'526', N'admin', N'2019-11-21 17:54:29.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197454357987155969', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'329', N'admin', N'2019-11-21 17:59:01.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197454357987155969', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'329', N'admin', N'2019-11-21 17:59:01.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1197792320302452738', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2019-11-22 16:21:57.0000000', NULL, NULL)
@@ -8787,7 +8787,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1197792369866543106', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg', N'2019-11-22 16:22:10.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1197793164787802113', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'381', N'admin', N'2019-11-22 16:25:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1197793164787802113', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'381', N'admin', N'2019-11-22 16:25:19.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'11f511eeeb2e91af86b9d5e05132fc89', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-26 15:13:43.0000000', NULL, NULL)
@@ -8799,10 +8799,10 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1209402408473579521', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2019-12-24 17:16:18.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209402471128092673', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'472', N'admin', N'2019-12-24 17:16:33.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209402471128092673', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'472', N'admin', N'2019-12-24 17:16:33.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209417003212853250', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'42', N'admin', N'2019-12-24 18:14:18.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209417003212853250', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'42', N'admin', N'2019-12-24 18:14:18.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1209646296664756226', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2019-12-25 09:25:26.0000000', NULL, NULL)
@@ -8811,52 +8811,52 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1209646643298816001', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2019-12-25 09:26:49.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209648067323744257', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'28', N'admin', N'2019-12-25 09:32:28.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209648067323744257', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'28', N'admin', N'2019-12-25 09:32:28.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209648217823760385', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'21', N'admin', N'2019-12-25 09:33:04.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209648217823760385', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'21', N'admin', N'2019-12-25 09:33:04.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209648344894394369', N'2', N'填值规则-批量删除', N'4', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.deleteBatch()', NULL, N'["1192350056519323649,1192349918153428994,"]', NULL, N'23', N'admin', N'2019-12-25 09:33:34.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209648344894394369', N'2', N'填值规则-批量删除', N'4', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.deleteBatch()', NULL, N'["1192350056519323649,1192349918153428994,"]', NULL, N'23', N'admin', N'2019-12-25 09:33:34.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209648345854889985', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'17', N'admin', N'2019-12-25 09:33:34.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209648345854889985', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'17', N'admin', N'2019-12-25 09:33:34.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209648456588709890', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'122', N'admin', N'2019-12-25 09:34:01.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209648456588709890', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'122', N'admin', N'2019-12-25 09:34:01.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209648997351936002', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'24', N'admin', N'2019-12-25 09:36:10.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209648997351936002', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'24', N'admin', N'2019-12-25 09:36:10.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209649005795069954', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'25', N'admin', N'2019-12-25 09:36:12.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209649005795069954', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'25', N'admin', N'2019-12-25 09:36:12.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209649012203966466', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'17', N'admin', N'2019-12-25 09:36:13.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209649012203966466', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'17', N'admin', N'2019-12-25 09:36:13.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209653324963500034', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'19', N'admin', N'2019-12-25 09:53:22.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209653324963500034', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'19', N'admin', N'2019-12-25 09:53:22.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209653453917376513', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'15', N'admin', N'2019-12-25 09:53:52.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209653453917376513', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'15', N'admin', N'2019-12-25 09:53:52.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209660332378755073', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'126', N'admin', N'2019-12-25 10:21:12.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209660332378755073', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'126', N'admin', N'2019-12-25 10:21:12.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209660342411530241', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'26', N'admin', N'2019-12-25 10:21:15.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209660342411530241', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'26', N'admin', N'2019-12-25 10:21:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209672160353783810', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'170', N'admin', N'2019-12-25 11:08:12.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209672160353783810', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'170', N'admin', N'2019-12-25 11:08:12.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1209672431796555778', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'42', N'admin', N'2019-12-25 11:09:17.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1209672431796555778', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'42', N'admin', N'2019-12-25 11:09:17.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1209847153045913602', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2019-12-25 22:43:34.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'122edcafd54dd06e12838f41123d9d5d', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"age":28,"birthday":1546617600000,"createBy":"admin","createTime":1547901234989,"id":"42c08b1a2e5b2a96ffa4cc88383d4b11","name":"秦500","punchTime":1546691611000}]', NULL, N'21387', N'admin', N'2019-01-19 20:34:11.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'122edcafd54dd06e12838f41123d9d5d', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"age":28,"birthday":1546617600000,"createBy":"admin","createTime":1547901234989,"id":"42c08b1a2e5b2a96ffa4cc88383d4b11","name":"秦500","punchTime":1546691611000}]', NULL, N'21387', N'admin', N'2019-01-19 20:34:11.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1231582569151074306', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-02-23 22:12:20.0000000', NULL, NULL)
@@ -8871,55 +8871,55 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1231586195961556994', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-02-23 22:26:45.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231586370448797697', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'540', N'admin', N'2020-02-23 22:27:27.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231586370448797697', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'540', N'admin', N'2020-02-23 22:27:27.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231589034586804226', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'37', N'admin', N'2020-02-23 22:38:02.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231589034586804226', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'37', N'admin', N'2020-02-23 22:38:02.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1231589059643576321', N'2', N'编辑用户，id： e9ca23d68d884d4ebb19d07889727dae', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-02-23 22:38:08.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231590342991548417', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'26', N'admin', N'2020-02-23 22:43:14.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231590342991548417', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'26', N'admin', N'2020-02-23 22:43:14.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231590348280565761', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, NULL, NULL, N'27', N'admin', N'2020-02-23 22:43:16.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231590348280565761', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, NULL, NULL, N'27', N'admin', N'2020-02-23 22:43:16.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231590455747022850', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'6', N'admin', N'2020-02-23 22:43:41.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231590455747022850', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'6', N'admin', N'2020-02-23 22:43:41.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231590510293946370', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'15', N'admin', N'2020-02-23 22:43:54.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231590510293946370', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'15', N'admin', N'2020-02-23 22:43:54.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1231590533404561410', N'2', N'编辑用户，id： e9ca23d68d884d4ebb19d07889727dae', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-02-23 22:44:00.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231590588148617218', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'45', N'admin', N'2020-02-23 22:44:13.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231590588148617218', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'45', N'admin', N'2020-02-23 22:44:13.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231590598588239874', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'8', N'admin', N'2020-02-23 22:44:15.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231590598588239874', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'8', N'admin', N'2020-02-23 22:44:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231590600106577921', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'11', N'admin', N'2020-02-23 22:44:16.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231590600106577921', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'11', N'admin', N'2020-02-23 22:44:16.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231590978101448705', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'17', N'admin', N'2020-02-23 22:45:46.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231590978101448705', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'17', N'admin', N'2020-02-23 22:45:46.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231591017582432257', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, NULL, NULL, N'41', N'admin', N'2020-02-23 22:45:55.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231591017582432257', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, NULL, NULL, N'41', N'admin', N'2020-02-23 22:45:55.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231593459988566017', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'22', N'admin', N'2020-02-23 22:55:37.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231593459988566017', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'22', N'admin', N'2020-02-23 22:55:37.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231593466594594817', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'13', N'admin', N'2020-02-23 22:55:39.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231593466594594817', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'13', N'admin', N'2020-02-23 22:55:39.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231593479697600513', N'2', N'职务表-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.edit()', NULL, N'[{"code":"devleader","createBy":"admin","createTime":1571370543000,"id":"1185040064792571906","name":"研发部经理","postRank":"2","sysOrgCode":"A01","updateBy":"admin","updateTime":1582469742105}]', NULL, N'16', N'admin', N'2020-02-23 22:55:42.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231593479697600513', N'2', N'职务表-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.edit()', NULL, N'[{"code":"devleader","createBy":"admin","createTime":1571370543000,"id":"1185040064792571906","name":"研发部经理","postRank":"2","sysOrgCode":"A01","updateBy":"admin","updateTime":1582469742105}]', NULL, N'16', N'admin', N'2020-02-23 22:55:42.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231593480725204994', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'16', N'admin', N'2020-02-23 22:55:42.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231593480725204994', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'16', N'admin', N'2020-02-23 22:55:42.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1231596465543032834', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-02-23 23:07:33.0000000', NULL, NULL)
@@ -8949,16 +8949,16 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1231598580457857025', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-02-23 23:15:57.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231599446049009666', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'62', N'admin', N'2020-02-23 23:19:24.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231599446049009666', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'62', N'admin', N'2020-02-23 23:19:24.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231599453611339778', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'17', N'admin', N'2020-02-23 23:19:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231599453611339778', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'17', N'admin', N'2020-02-23 23:19:26.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231599534171336706', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'25', N'admin', N'2020-02-23 23:19:46.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231599534171336706', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'25', N'admin', N'2020-02-23 23:19:46.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231599542991958018', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'23', N'admin', N'2020-02-23 23:19:48.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231599542991958018', N'2', N'部门角色-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDepartRoleController.queryPageList()', NULL, NULL, NULL, N'23', N'admin', N'2020-02-23 23:19:48.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1231615277050998786', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-02-24 00:22:19.0000000', NULL, NULL)
@@ -8979,13 +8979,13 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1231772634972258306', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-02-24 10:47:36.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231872139147202561', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'294', N'admin', N'2020-02-24 17:23:00.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231872139147202561', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, NULL, NULL, N'294', N'admin', N'2020-02-24 17:23:00.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231872145841311746', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, NULL, NULL, N'98', N'admin', N'2020-02-24 17:23:01.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231872145841311746', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, NULL, NULL, N'98', N'admin', N'2020-02-24 17:23:01.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1231872154540298242', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, NULL, NULL, N'334', N'admin', N'2020-02-24 17:23:03.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1231872154540298242', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, NULL, NULL, N'334', N'admin', N'2020-02-24 17:23:03.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1231888100260655106', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-02-24 18:26:24.0000000', NULL, NULL)
@@ -8997,7 +8997,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1232121930921873409', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-02-25 09:55:35.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1232123986592206850', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, NULL, NULL, N'48', N'admin', N'2020-02-25 10:03:45.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1232123986592206850', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, NULL, NULL, N'48', N'admin', N'2020-02-25 10:03:45.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1232124039033589761', N'2', N'编辑用户，id： a75d45a015c44384a04449ee80dc3503', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-02-25 10:03:57.0000000', NULL, NULL)
@@ -9069,13 +9069,13 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256483667833794561', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-02 15:20:25.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256484419314659330', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@38dd4fee', NULL, N'55', N'admin', N'2020-05-02 15:23:25.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256484419314659330', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@38dd4fee', NULL, N'55', N'admin', N'2020-05-02 15:23:25.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256484434414153729', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1edaf52d', NULL, N'25', N'admin', N'2020-05-02 15:23:28.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256484434414153729', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1edaf52d', NULL, N'25', N'admin', N'2020-05-02 15:23:28.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485080102170625', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@20123ff4', NULL, N'53', N'admin', N'2020-05-02 15:26:01.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485080102170625', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@20123ff4', NULL, N'53', N'admin', N'2020-05-02 15:26:01.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256485085294718978', N'2', N'编辑用户，id： e9ca23d68d884d4ebb19d07889727dae', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-02 15:26:03.0000000', NULL, NULL)
@@ -9084,43 +9084,43 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256485469157421057', N'2', N'编辑用户，id： e9ca23d68d884d4ebb19d07889727dae', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-02 15:27:35.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485494486822914', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3773cfae', NULL, N'25', N'admin', N'2020-05-02 15:27:41.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485494486822914', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3773cfae', NULL, N'25', N'admin', N'2020-05-02 15:27:41.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485574329593858', N'2', N'职务表-添加', N'2', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.add()', NULL, N'[{"code":"总经理","createBy":"admin","createTime":1588404479920,"id":"1256485574212153345","name":"laozong","postRank":"5","sysOrgCode":"北京国炬公司"}]', NULL, N'12', N'admin', N'2020-05-02 15:28:00.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485574329593858', N'2', N'职务表-添加', N'2', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.add()', NULL, N'[{"code":"总经理","createBy":"admin","createTime":1588404479920,"id":"1256485574212153345","name":"laozong","postRank":"5","sysOrgCode":"北京国炬公司"}]', NULL, N'12', N'admin', N'2020-05-02 15:28:00.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485574790967298', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4df33d14', NULL, N'59', N'admin', N'2020-05-02 15:28:00.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485574790967298', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4df33d14', NULL, N'59', N'admin', N'2020-05-02 15:28:00.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485587097055234', N'2', N'职务表-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.edit()', NULL, N'[{"code":"总经理","createBy":"admin","createTime":1588404480000,"id":"1256485574212153345","name":"laozong","postRank":"5","sysOrgCode":"北京国炬公司","updateBy":"admin","updateTime":1588404482983}]', NULL, N'17', N'admin', N'2020-05-02 15:28:03.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485587097055234', N'2', N'职务表-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.edit()', NULL, N'[{"code":"总经理","createBy":"admin","createTime":1588404480000,"id":"1256485574212153345","name":"laozong","postRank":"5","sysOrgCode":"北京国炬公司","updateBy":"admin","updateTime":1588404482983}]', NULL, N'17', N'admin', N'2020-05-02 15:28:03.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485587436793858', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@34437d6a', NULL, N'20', N'admin', N'2020-05-02 15:28:03.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485587436793858', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@34437d6a', NULL, N'20', N'admin', N'2020-05-02 15:28:03.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485616851447809', N'2', N'职务表-添加', N'2', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.add()', NULL, N'[{"code":"1","createBy":"admin","createTime":1588404490080,"id":"1256485616817893378","name":"1","postRank":"1","sysOrgCode":"北京国炬公司"}]', NULL, N'8', N'admin', N'2020-05-02 15:28:10.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485616851447809', N'2', N'职务表-添加', N'2', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.add()', NULL, N'[{"code":"1","createBy":"admin","createTime":1588404490080,"id":"1256485616817893378","name":"1","postRank":"1","sysOrgCode":"北京国炬公司"}]', NULL, N'8', N'admin', N'2020-05-02 15:28:10.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485617317015554', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@65ab758f', NULL, N'34', N'admin', N'2020-05-02 15:28:10.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485617317015554', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@65ab758f', NULL, N'34', N'admin', N'2020-05-02 15:28:10.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485628339646465', N'2', N'职务表-通过id删除', N'4', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.delete()', NULL, N'  id: 1256485616817893378', NULL, N'8', N'admin', N'2020-05-02 15:28:13.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485628339646465', N'2', N'职务表-通过id删除', N'4', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.delete()', NULL, N'  id: 1256485616817893378', NULL, N'8', N'admin', N'2020-05-02 15:28:13.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485628721328129', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@63ed8b8', NULL, N'19', N'admin', N'2020-05-02 15:28:13.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485628721328129', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@63ed8b8', NULL, N'19', N'admin', N'2020-05-02 15:28:13.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485878894784514', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5eee71e7', NULL, N'25', N'admin', N'2020-05-02 15:29:13.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485878894784514', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5eee71e7', NULL, N'25', N'admin', N'2020-05-02 15:29:13.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256485915808854017', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@55d170fd', NULL, N'21', N'admin', N'2020-05-02 15:29:21.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256485915808854017', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@55d170fd', NULL, N'21', N'admin', N'2020-05-02 15:29:21.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256487060673490946', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@70eaa8bc', NULL, N'20', N'admin', N'2020-05-02 15:33:54.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256487060673490946', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@70eaa8bc', NULL, N'20', N'admin', N'2020-05-02 15:33:54.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256487125404184577', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3bc7b343', NULL, N'14', N'admin', N'2020-05-02 15:34:10.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256487125404184577', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3bc7b343', NULL, N'14', N'admin', N'2020-05-02 15:34:10.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256487161898823682', N'2', N'编辑用户，id： a75d45a015c44384a04449ee80dc3503', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-02 15:34:18.0000000', NULL, NULL)
@@ -9135,109 +9135,109 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256487299895619585', N'2', N'编辑用户，id： f0019fdebedb443c98dcb17d88222c38', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-02 15:34:51.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256488477320638466', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7a60531e', NULL, N'25', N'admin', N'2020-05-02 15:39:32.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256488477320638466', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7a60531e', NULL, N'25', N'admin', N'2020-05-02 15:39:32.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256488490658525186', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2d83211b', NULL, N'17', N'admin', N'2020-05-02 15:39:35.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256488490658525186', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2d83211b', NULL, N'17', N'admin', N'2020-05-02 15:39:35.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256489011385561089', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4c2899e6', NULL, N'13', N'admin', N'2020-05-02 15:41:39.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256489011385561089', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4c2899e6', NULL, N'13', N'admin', N'2020-05-02 15:41:39.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256489680158945281', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@e1ab519', NULL, N'24', N'admin', N'2020-05-02 15:44:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256489680158945281', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@e1ab519', NULL, N'24', N'admin', N'2020-05-02 15:44:19.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256489882299232258', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4694c325', NULL, N'13', N'admin', N'2020-05-02 15:45:07.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256489882299232258', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4694c325', NULL, N'13', N'admin', N'2020-05-02 15:45:07.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256490012620451841', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@612705a8', NULL, N'16', N'admin', N'2020-05-02 15:45:38.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256490012620451841', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@612705a8', NULL, N'16', N'admin', N'2020-05-02 15:45:38.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256490056123772929', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@57f572e8', NULL, N'14', N'admin', N'2020-05-02 15:45:48.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256490056123772929', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@57f572e8', NULL, N'14', N'admin', N'2020-05-02 15:45:48.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256490157718204417', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@534d6ebf', NULL, N'16', N'admin', N'2020-05-02 15:46:13.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256490157718204417', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@534d6ebf', NULL, N'16', N'admin', N'2020-05-02 15:46:13.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256490172926750722', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@351222f2', NULL, N'19', N'admin', N'2020-05-02 15:46:16.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256490172926750722', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@351222f2', NULL, N'19', N'admin', N'2020-05-02 15:46:16.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256490193340428289', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@52a9a2e6', NULL, N'20', N'admin', N'2020-05-02 15:46:21.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256490193340428289', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@52a9a2e6', NULL, N'20', N'admin', N'2020-05-02 15:46:21.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256490829935112194', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6d54e7ee', NULL, N'12', N'admin', N'2020-05-02 15:48:53.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256490829935112194', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6d54e7ee', NULL, N'12', N'admin', N'2020-05-02 15:48:53.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256490944309587970', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@62629cc6', NULL, N'16', N'admin', N'2020-05-02 15:49:20.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256490944309587970', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@62629cc6', NULL, N'16', N'admin', N'2020-05-02 15:49:20.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256490967088852994', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@8c9d2b1', NULL, N'11', N'admin', N'2020-05-02 15:49:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256490967088852994', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@8c9d2b1', NULL, N'11', N'admin', N'2020-05-02 15:49:26.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256491122944995330', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3732988a', NULL, N'15', N'admin', N'2020-05-02 15:50:03.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256491122944995330', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3732988a', NULL, N'15', N'admin', N'2020-05-02 15:50:03.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256491834928099329', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@431d17a8', NULL, N'13', N'admin', N'2020-05-02 15:52:53.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256491834928099329', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@431d17a8', NULL, N'13', N'admin', N'2020-05-02 15:52:53.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256491996039704578', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5f5721f1', NULL, N'12', N'admin', N'2020-05-02 15:53:31.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256491996039704578', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5f5721f1', NULL, N'12', N'admin', N'2020-05-02 15:53:31.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256492339301543938', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2dd65164', NULL, N'22', N'admin', N'2020-05-02 15:54:53.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256492339301543938', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2dd65164', NULL, N'22', N'admin', N'2020-05-02 15:54:53.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256492360629579778', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@739b8264', NULL, N'25', N'admin', N'2020-05-02 15:54:58.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256492360629579778', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@739b8264', NULL, N'25', N'admin', N'2020-05-02 15:54:58.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256492389415088130', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@16b523ad', NULL, N'18', N'admin', N'2020-05-02 15:55:05.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256492389415088130', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@16b523ad', NULL, N'18', N'admin', N'2020-05-02 15:55:05.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256493213293834242', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4467f24e', NULL, N'15', N'admin', N'2020-05-02 15:58:21.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256493213293834242', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4467f24e', NULL, N'15', N'admin', N'2020-05-02 15:58:21.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256493329329254401', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@e0ddd58', NULL, N'18', N'admin', N'2020-05-02 15:58:49.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256493329329254401', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@e0ddd58', NULL, N'18', N'admin', N'2020-05-02 15:58:49.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256493354331500545', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@441b74f0', NULL, N'15', N'admin', N'2020-05-02 15:58:55.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256493354331500545', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@441b74f0', NULL, N'15', N'admin', N'2020-05-02 15:58:55.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256493373541412866', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@57c50dd7', NULL, N'12', N'admin', N'2020-05-02 15:58:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256493373541412866', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@57c50dd7', NULL, N'12', N'admin', N'2020-05-02 15:58:59.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256527132428972033', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7e667652', NULL, N'541', N'admin', N'2020-05-02 18:13:08.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256527132428972033', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7e667652', NULL, N'541', N'admin', N'2020-05-02 18:13:08.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256527391850868737', N'2', N'编辑DEMO', N'3', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.edit()', NULL, N'[{"createBy":"jeecg-boot","createTime":1553768199000,"id":"73bc58611012617ca446d8999379e4ac","keyWord":"777","name":"郭靖","punchTime":1544112000000,"updateBy":"admin","updateTime":1588414449977}]', NULL, N'11', N'admin', N'2020-05-02 18:14:10.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256527391850868737', N'2', N'编辑DEMO', N'3', N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.edit()', NULL, N'[{"createBy":"jeecg-boot","createTime":1553768199000,"id":"73bc58611012617ca446d8999379e4ac","keyWord":"777","name":"郭靖","punchTime":1544112000000,"updateBy":"admin","updateTime":1588414449977}]', NULL, N'11', N'admin', N'2020-05-02 18:14:10.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256527408170905601', N'2', N'编辑DEMO', N'3', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.edit()', NULL, N'[{"createBy":"jeecg-boot","createTime":1553768199000,"id":"73bc58611012617ca446d8999379e4ac","keyWord":"777","name":"郭靖","punchTime":1544112000000,"sex":"1","updateBy":"admin","updateTime":1588414453907}]', NULL, N'7', N'admin', N'2020-05-02 18:14:14.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256527408170905601', N'2', N'编辑DEMO', N'3', N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.edit()', NULL, N'[{"createBy":"jeecg-boot","createTime":1553768199000,"id":"73bc58611012617ca446d8999379e4ac","keyWord":"777","name":"郭靖","punchTime":1544112000000,"sex":"1","updateBy":"admin","updateTime":1588414453907}]', NULL, N'7', N'admin', N'2020-05-02 18:14:14.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256527447572197378', N'2', N'删除测试DEMO', N'4', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.delete()', NULL, N'  id: c0b7c3de7c62a295ab715943de8a315d', NULL, N'7', N'admin', N'2020-05-02 18:14:23.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256527447572197378', N'2', N'删除测试DEMO', N'4', N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.delete()', NULL, N'  id: c0b7c3de7c62a295ab715943de8a315d', NULL, N'7', N'admin', N'2020-05-02 18:14:23.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256527487334199297', N'2', N'编辑DEMO', N'3', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.edit()', NULL, N'[{"createBy":"scott","createTime":1547873698000,"id":"94420c5d8fc4420dde1e7196154b3a24","name":"秦风","sex":"2","updateBy":"admin","updateTime":1588414472782}]', NULL, N'6', N'admin', N'2020-05-02 18:14:33.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256527487334199297', N'2', N'编辑DEMO', N'3', N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.edit()', NULL, N'[{"createBy":"scott","createTime":1547873698000,"id":"94420c5d8fc4420dde1e7196154b3a24","name":"秦风","sex":"2","updateBy":"admin","updateTime":1588414472782}]', NULL, N'6', N'admin', N'2020-05-02 18:14:33.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256528708895879170', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3ec5357c', NULL, N'24', N'admin', N'2020-05-02 18:19:24.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256528708895879170', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3ec5357c', NULL, N'24', N'admin', N'2020-05-02 18:19:24.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256528740931973122', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@20a782a2', NULL, N'16', N'admin', N'2020-05-02 18:19:32.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256528740931973122', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@20a782a2', NULL, N'16', N'admin', N'2020-05-02 18:19:32.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256528778097700866', N'2', N'编辑用户，id： e9ca23d68d884d4ebb19d07889727dae', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-02 18:19:41.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256529143853592577', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@53b67601', NULL, N'15', N'admin', N'2020-05-02 18:21:08.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256529143853592577', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@53b67601', NULL, N'15', N'admin', N'2020-05-02 18:21:08.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256529179186409473', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4034ff3d', NULL, N'14', N'admin', N'2020-05-02 18:21:16.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256529179186409473', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4034ff3d', NULL, N'14', N'admin', N'2020-05-02 18:21:16.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256529242847555585', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@300c18c2', NULL, N'15', N'admin', N'2020-05-02 18:21:31.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256529242847555585', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@300c18c2', NULL, N'15', N'admin', N'2020-05-02 18:21:31.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256529251169054721', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5cbc1ed0', NULL, N'14', N'admin', N'2020-05-02 18:21:33.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256529251169054721', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5cbc1ed0', NULL, N'14', N'admin', N'2020-05-02 18:21:33.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256538346588590082', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-02 18:57:41.0000000', NULL, NULL)
@@ -9246,28 +9246,28 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256538366448619522', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-02 18:57:47.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256538504642547713', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6e768567', NULL, N'73', N'admin', N'2020-05-02 18:58:20.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256538504642547713', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6e768567', NULL, N'73', N'admin', N'2020-05-02 18:58:20.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256538902770077698', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@74d2b870', NULL, N'17', N'admin', N'2020-05-02 18:59:54.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256538902770077698', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@74d2b870', NULL, N'17', N'admin', N'2020-05-02 18:59:54.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256548329908609025', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5e32c585', NULL, N'181', N'admin', N'2020-05-02 19:37:21.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256548329908609025', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5e32c585', NULL, N'181', N'admin', N'2020-05-02 19:37:21.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256548333775757314', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4f008a7d', NULL, N'41', N'admin', N'2020-05-02 19:37:23.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256548333775757314', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4f008a7d', NULL, N'41', N'admin', N'2020-05-02 19:37:23.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256548338318188545', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7827b492', NULL, N'31', N'admin', N'2020-05-02 19:37:24.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256548338318188545', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7827b492', NULL, N'31', N'admin', N'2020-05-02 19:37:24.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256548342671876097', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@25cfa316', NULL, N'27', N'admin', N'2020-05-02 19:37:25.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256548342671876097', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@25cfa316', NULL, N'27', N'admin', N'2020-05-02 19:37:25.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256548345805021186', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@39541cd2', NULL, N'26', N'admin', N'2020-05-02 19:37:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256548345805021186', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@39541cd2', NULL, N'26', N'admin', N'2020-05-02 19:37:26.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256548524465594370', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@51a7dbe', NULL, N'15', N'admin', N'2020-05-02 19:38:08.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256548524465594370', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@51a7dbe', NULL, N'15', N'admin', N'2020-05-02 19:38:08.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256550098638217218', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-02 19:44:24.0000000', NULL, NULL)
@@ -9300,7 +9300,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256601173458268161', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-02 23:07:21.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256601320892248066', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6703cc80', NULL, N'44', N'admin', N'2020-05-02 23:07:56.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256601320892248066', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6703cc80', NULL, N'44', N'admin', N'2020-05-02 23:07:56.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256604650926354434', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-02 23:21:10.0000000', NULL, NULL)
@@ -9342,79 +9342,79 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256627765207216130', N'2', N'Online报表，sql解析：select DATE_FORMAT(create_time,  ''%Y-%m-%d'') as date,count(*) as num from sys_log group by DATE_FORMAT(create_time, ''%Y-%m-%d'')', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-03 00:53:01.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256628324886753282', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@51bbe048', NULL, N'17', N'admin', N'2020-05-03 00:55:14.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256628324886753282', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@51bbe048', NULL, N'17', N'admin', N'2020-05-03 00:55:14.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256628328594518018', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@13b6b967', NULL, N'59', N'admin', N'2020-05-03 00:55:15.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256628328594518018', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@13b6b967', NULL, N'59', N'admin', N'2020-05-03 00:55:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256628331551502337', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@478b2fb3', NULL, N'12', N'admin', N'2020-05-03 00:55:16.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256628331551502337', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@478b2fb3', NULL, N'12', N'admin', N'2020-05-03 00:55:16.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256630123769212929', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7fc037db', NULL, N'25', N'admin', N'2020-05-03 01:02:23.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256630123769212929', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7fc037db', NULL, N'25', N'admin', N'2020-05-03 01:02:23.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256630125769895938', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@67b1d09a', NULL, N'10', N'admin', N'2020-05-03 01:02:24.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256630125769895938', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@67b1d09a', NULL, N'10', N'admin', N'2020-05-03 01:02:24.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256630127565058049', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7e3105cb', NULL, N'11', N'admin', N'2020-05-03 01:02:24.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256630127565058049', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7e3105cb', NULL, N'11', N'admin', N'2020-05-03 01:02:24.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256630191603691522', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@406d0b25', NULL, N'12', N'admin', N'2020-05-03 01:02:39.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256630191603691522', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@406d0b25', NULL, N'12', N'admin', N'2020-05-03 01:02:39.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256630197496688641', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5d746f1c', NULL, N'9', N'admin', N'2020-05-03 01:02:41.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256630197496688641', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5d746f1c', NULL, N'9', N'admin', N'2020-05-03 01:02:41.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256630200965378050', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@771a0535', NULL, N'9', N'admin', N'2020-05-03 01:02:42.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256630200965378050', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@771a0535', NULL, N'9', N'admin', N'2020-05-03 01:02:42.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256631022684057602', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@552e978f', NULL, N'177', N'admin', N'2020-05-03 01:05:58.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256631022684057602', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@552e978f', NULL, N'177', N'admin', N'2020-05-03 01:05:58.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256631095019024385', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7b8d5eda', NULL, N'25', N'admin', N'2020-05-03 01:06:15.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256631095019024385', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7b8d5eda', NULL, N'25', N'admin', N'2020-05-03 01:06:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256631629037809666', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@719fa12f', NULL, N'14', N'admin', N'2020-05-03 01:08:22.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256631629037809666', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@719fa12f', NULL, N'14', N'admin', N'2020-05-03 01:08:22.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256631703578980354', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@22c83dfe', NULL, N'17', N'admin', N'2020-05-03 01:08:40.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256631703578980354', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@22c83dfe', NULL, N'17', N'admin', N'2020-05-03 01:08:40.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256631875029544961', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@73bbad53', NULL, N'18', N'admin', N'2020-05-03 01:09:21.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256631875029544961', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@73bbad53', NULL, N'18', N'admin', N'2020-05-03 01:09:21.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256632739672731649', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@36f7e6ea', NULL, N'15', N'admin', N'2020-05-03 01:12:47.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256632739672731649', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@36f7e6ea', NULL, N'15', N'admin', N'2020-05-03 01:12:47.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256632995709825025', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@668f45b1', NULL, N'63', N'admin', N'2020-05-03 01:13:48.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256632995709825025', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@668f45b1', NULL, N'63', N'admin', N'2020-05-03 01:13:48.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256633330130071553', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@735e4fde', NULL, N'24', N'admin', N'2020-05-03 01:15:08.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256633330130071553', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@735e4fde', NULL, N'24', N'admin', N'2020-05-03 01:15:08.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256633509134577666', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6c495862', NULL, N'17', N'admin', N'2020-05-03 01:15:50.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256633509134577666', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6c495862', NULL, N'17', N'admin', N'2020-05-03 01:15:50.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256633551425744897', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6908d196', NULL, N'13', N'admin', N'2020-05-03 01:16:00.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256633551425744897', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6908d196', NULL, N'13', N'admin', N'2020-05-03 01:16:00.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256633599651852289', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5bfb2ada', NULL, N'14', N'admin', N'2020-05-03 01:16:12.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256633599651852289', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5bfb2ada', NULL, N'14', N'admin', N'2020-05-03 01:16:12.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256633656652443650', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@549ef5f1', NULL, N'15', N'admin', N'2020-05-03 01:16:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256633656652443650', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@549ef5f1', NULL, N'15', N'admin', N'2020-05-03 01:16:26.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256636582515027970', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4264deb1', NULL, N'10', N'admin', N'2020-05-03 01:28:03.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256636582515027970', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4264deb1', NULL, N'10', N'admin', N'2020-05-03 01:28:03.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256644151597969409', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2218706b', NULL, N'9', N'admin', N'2020-05-03 01:58:08.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256644151597969409', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2218706b', NULL, N'9', N'admin', N'2020-05-03 01:58:08.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256644154894692354', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5b4819a1', NULL, N'15', N'admin', N'2020-05-03 01:58:09.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256644154894692354', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5b4819a1', NULL, N'15', N'admin', N'2020-05-03 01:58:09.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256644156803100673', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@115ba167', NULL, N'9', N'admin', N'2020-05-03 01:58:09.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256644156803100673', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@115ba167', NULL, N'9', N'admin', N'2020-05-03 01:58:09.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256650558405681153', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-03 02:23:35.0000000', NULL, NULL)
@@ -9429,22 +9429,22 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256851006488137730', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-03 15:40:06.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256851131646169089', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7ddaff5a', NULL, N'31', N'admin', N'2020-05-03 15:40:36.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256851131646169089', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7ddaff5a', NULL, N'31', N'admin', N'2020-05-03 15:40:36.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256851193189191682', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3a38dd17', NULL, N'62', N'admin', N'2020-05-03 15:40:50.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256851193189191682', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3a38dd17', NULL, N'62', N'admin', N'2020-05-03 15:40:50.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256851237241966594', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1db9a865', NULL, N'26', N'admin', N'2020-05-03 15:41:01.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256851237241966594', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1db9a865', NULL, N'26', N'admin', N'2020-05-03 15:41:01.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256954649484783618', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-03 22:31:55.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256954712244154370', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7167fb28', NULL, N'139', N'admin', N'2020-05-03 22:32:11.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256954712244154370', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7167fb28', NULL, N'139', N'admin', N'2020-05-03 22:32:11.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1256954715616374785', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@30987eb8', NULL, N'44', N'admin', N'2020-05-03 22:32:12.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1256954715616374785', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@30987eb8', NULL, N'44', N'admin', N'2020-05-03 22:32:12.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1256963818271121409', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-03 23:08:21.0000000', NULL, NULL)
@@ -9462,19 +9462,19 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1257318617923563522', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-04 22:38:13.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1257318643861139458', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5880023d', NULL, N'158', N'admin', N'2020-05-04 22:38:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1257318643861139458', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5880023d', NULL, N'158', N'admin', N'2020-05-04 22:38:19.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1257318651620601857', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2944d5ae', NULL, N'45', N'admin', N'2020-05-04 22:38:21.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1257318651620601857', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2944d5ae', NULL, N'45', N'admin', N'2020-05-04 22:38:21.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1257318654309150721', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@44651e7c', NULL, N'60', N'admin', N'2020-05-04 22:38:22.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1257318654309150721', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@44651e7c', NULL, N'60', N'admin', N'2020-05-04 22:38:22.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1257318671023452161', N'2', N'多数据源管理-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.edit()', NULL, N'[{"createBy":"admin","createTime":1577268893000,"dbDriver":"com.mysql.jdbc.Driver","dbName":"jeecg-boot","dbPassword":"root","dbType":"1","dbUrl":"jdbc:mysql://127.0.0.1:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false","dbUsername":"root","id":"1209779538310004737","name":"MySQL5.7","remark":"本地数据库MySQL5.7","sysOrgCode":"A01","updateBy":"admin","updateTime":1588603105614}]', NULL, N'34', N'admin', N'2020-05-04 22:38:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1257318671023452161', N'2', N'多数据源管理-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.edit()', NULL, N'[{"createBy":"admin","createTime":1577268893000,"dbDriver":"com.mysql.jdbc.Driver","dbName":"jeecg-boot","dbPassword":"root","dbType":"1","dbUrl":"jdbc:mysql://127.0.0.1:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false","dbUsername":"root","id":"1209779538310004737","name":"MySQL5.7","remark":"本地数据库MySQL5.7","sysOrgCode":"A01","updateBy":"admin","updateTime":1588603105614}]', NULL, N'34', N'admin', N'2020-05-04 22:38:26.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1257318671723900930', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@915482d', NULL, N'16', N'admin', N'2020-05-04 22:38:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1257318671723900930', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@915482d', NULL, N'16', N'admin', N'2020-05-04 22:38:26.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1257875756186411010', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-06 11:32:04.0000000', NULL, NULL)
@@ -9495,13 +9495,13 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1258212272427237377', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-07 09:49:17.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1258212331801804802', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@43287270', NULL, N'50', N'admin', N'2020-05-07 09:49:31.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1258212331801804802', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@43287270', NULL, N'50', N'admin', N'2020-05-07 09:49:31.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1258214389946843137', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@30a633b3', NULL, N'307', N'admin', N'2020-05-07 09:57:41.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1258214389946843137', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@30a633b3', NULL, N'307', N'admin', N'2020-05-07 09:57:41.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1258214526047813634', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@718b221e', NULL, N'23', N'admin', N'2020-05-07 09:58:14.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1258214526047813634', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@718b221e', NULL, N'23', N'admin', N'2020-05-07 09:58:14.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1258404623636557825', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-07 22:33:36.0000000', NULL, NULL)
@@ -9510,25 +9510,25 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1258407358662504450', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-07 22:44:29.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260128353211510785', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员5555', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@599b461e', NULL, N'249', N'admin', N'2020-05-12 16:43:04.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260128353211510785', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员5555', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@599b461e', NULL, N'249', N'admin', N'2020-05-12 16:43:04.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260133438385680385', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员5555', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@18824c76', NULL, N'25', N'admin', N'2020-05-12 17:03:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260133438385680385', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员5555', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@18824c76', NULL, N'25', N'admin', N'2020-05-12 17:03:19.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260134029069512706', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员5555', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1c05f633', NULL, N'15', N'admin', N'2020-05-12 17:05:39.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260134029069512706', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员5555', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1c05f633', NULL, N'15', N'admin', N'2020-05-12 17:05:39.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260134137966227458', N'2', N'填值规则-添加', N'2', N'admin', N'管理员5555', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.add()', NULL, N'[{"createBy":"admin","createTime":1589274365295,"id":"1260134137920090113","ruleClass":"111","ruleCode":"shop_order_num","ruleName":"商城订单流水号","ruleParams":"{}"}]', NULL, N'13', N'admin', N'2020-05-12 17:06:05.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260134137966227458', N'2', N'填值规则-添加', N'2', N'admin', N'管理员5555', N'127.0.0.1', N'SysFillRuleController.add()', NULL, N'[{"createBy":"admin","createTime":1589274365295,"id":"1260134137920090113","ruleClass":"111","ruleCode":"shop_order_num","ruleName":"商城订单流水号","ruleParams":"{}"}]', NULL, N'13', N'admin', N'2020-05-12 17:06:05.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260134138352103426', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员5555', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2b0e5b57', NULL, N'17', N'admin', N'2020-05-12 17:06:05.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260134138352103426', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员5555', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2b0e5b57', NULL, N'17', N'admin', N'2020-05-12 17:06:05.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260134973303812097', N'2', N'填值规则-编辑', N'3', N'admin', N'管理员5555', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.edit()', NULL, N'[{"createBy":"admin","createTime":1589274365000,"id":"1260134137920090113","ruleClass":"org.jeecg.modules.system.rule.ShopOrderNumberRule","ruleCode":"shop_order_num","ruleName":"商城订单流水号","ruleParams":"{}","updateBy":"admin","updateTime":1589274564451}]', NULL, N'14', N'admin', N'2020-05-12 17:09:24.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260134973303812097', N'2', N'填值规则-编辑', N'3', N'admin', N'管理员5555', N'127.0.0.1', N'SysFillRuleController.edit()', NULL, N'[{"createBy":"admin","createTime":1589274365000,"id":"1260134137920090113","ruleClass":"org.jeecg.modules.system.rule.ShopOrderNumberRule","ruleCode":"shop_order_num","ruleName":"商城订单流水号","ruleParams":"{}","updateBy":"admin","updateTime":1589274564451}]', NULL, N'14', N'admin', N'2020-05-12 17:09:24.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260134974104924162', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员5555', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5a6e3f1e', NULL, N'26', N'admin', N'2020-05-12 17:09:25.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260134974104924162', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员5555', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5a6e3f1e', NULL, N'26', N'admin', N'2020-05-12 17:09:25.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260176104158744577', N'1', N'用户名: 管理员5555,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-12 19:52:49.0000000', NULL, NULL)
@@ -9540,10 +9540,10 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260179881074970625', N'2', N'Online报表，sql解析：select * from sys_user', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-12 20:07:51.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260182306150240257', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@323563d5', NULL, N'84', N'admin', N'2020-05-12 20:17:29.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260182306150240257', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@323563d5', NULL, N'84', N'admin', N'2020-05-12 20:17:29.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260182306187988994', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@203796', NULL, N'93', N'admin', N'2020-05-12 20:17:30.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260182306187988994', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@203796', NULL, N'93', N'admin', N'2020-05-12 20:17:30.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260204301495652353', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-12 21:44:54.0000000', NULL, NULL)
@@ -9690,28 +9690,28 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260922222828179457', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:17:38.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260924202157985793', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@731a5dea', NULL, N'122', N'admin', N'2020-05-14 21:25:31.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260924202157985793', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@731a5dea', NULL, N'122', N'admin', N'2020-05-14 21:25:31.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260925184577228801', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@192abfa0', NULL, N'33', N'admin', N'2020-05-14 21:29:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260925184577228801', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@192abfa0', NULL, N'33', N'admin', N'2020-05-14 21:29:26.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260925184577228802', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1db75eaf', NULL, N'38', N'admin', N'2020-05-14 21:29:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260925184577228802', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1db75eaf', NULL, N'38', N'admin', N'2020-05-14 21:29:26.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260925222376296450', N'2', N'编辑用户，id： e9ca23d68d884d4ebb19d07889727dae', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-14 21:29:35.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260925780143230978', N'2', N'部门角色-批量删除', N'4', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDepartRoleController.deleteBatch()', NULL, N'  ids: 1260925743396933633,', NULL, N'9', N'admin', N'2020-05-14 21:31:48.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260925780143230978', N'2', N'部门角色-批量删除', N'4', N'admin', N'管理员', N'127.0.0.1', N'SysDepartRoleController.deleteBatch()', NULL, N'  ids: 1260925743396933633,', NULL, N'9', N'admin', N'2020-05-14 21:31:48.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260925839089979393', N'2', N'部门角色-批量删除', N'4', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDepartRoleController.deleteBatch()', NULL, N'  ids: 1260925806189858818,', NULL, N'9', N'admin', N'2020-05-14 21:32:02.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260925839089979393', N'2', N'部门角色-批量删除', N'4', N'admin', N'管理员', N'127.0.0.1', N'SysDepartRoleController.deleteBatch()', NULL, N'  ids: 1260925806189858818,', NULL, N'9', N'admin', N'2020-05-14 21:32:02.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260925911680798721', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@190feffa', NULL, N'25', N'admin', N'2020-05-14 21:32:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260925911680798721', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@190feffa', NULL, N'25', N'admin', N'2020-05-14 21:32:19.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260925911689187329', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@78b7f293', NULL, N'27', N'admin', N'2020-05-14 21:32:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260925911689187329', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@78b7f293', NULL, N'27', N'admin', N'2020-05-14 21:32:19.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260925926549606401', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:32:22.0000000', NULL, NULL)
@@ -9726,10 +9726,10 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260927020524748801', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:36:43.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260927070814453761', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7b2de828', NULL, N'67', N'admin', N'2020-05-14 21:36:55.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260927070814453761', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7b2de828', NULL, N'67', N'admin', N'2020-05-14 21:36:55.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260927070814453762', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@41231cfa', NULL, N'62', N'admin', N'2020-05-14 21:36:55.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260927070814453762', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@41231cfa', NULL, N'62', N'admin', N'2020-05-14 21:36:55.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260927093472083970', N'2', N'编辑用户，id： e9ca23d68d884d4ebb19d07889727dae', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-14 21:37:01.0000000', NULL, NULL)
@@ -9744,13 +9744,13 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260927505818304514', N'2', N'批量删除用户， ids： 1260927230919426050,', N'3', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-14 21:38:39.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260927511149264898', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2cabc777', NULL, N'37', N'admin', N'2020-05-14 21:38:40.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260927511149264898', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2cabc777', NULL, N'37', N'admin', N'2020-05-14 21:38:40.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260927686529892353', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4ab7a24f', NULL, N'24', N'admin', N'2020-05-14 21:39:22.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260927686529892353', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4ab7a24f', NULL, N'24', N'admin', N'2020-05-14 21:39:22.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260927687171620865', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@69480323', NULL, N'97', N'admin', N'2020-05-14 21:39:22.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260927687171620865', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@69480323', NULL, N'97', N'admin', N'2020-05-14 21:39:22.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260927717332860929', N'2', N'编辑用户，id： 3d464b4ea0d2491aab8a7bde74c57e95', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-14 21:39:29.0000000', NULL, NULL)
@@ -9762,10 +9762,10 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260927772173385730', N'1', N'用户名: jeecg,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:39:42.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260927799134371842', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@70185f96', NULL, N'19', N'jeecg', N'2020-05-14 21:39:49.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260927799134371842', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@70185f96', NULL, N'19', N'jeecg', N'2020-05-14 21:39:49.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260927799134371843', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2ac4e089', NULL, N'19', N'jeecg', N'2020-05-14 21:39:49.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260927799134371843', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2ac4e089', NULL, N'19', N'jeecg', N'2020-05-14 21:39:49.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260927831044636674', N'1', N'用户名: jeecg,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:39:56.0000000', NULL, NULL)
@@ -9780,7 +9780,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260928448987250689', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:42:24.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260928481014956033', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2338564f', NULL, N'25', N'admin', N'2020-05-14 21:42:31.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260928481014956033', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2338564f', NULL, N'25', N'admin', N'2020-05-14 21:42:31.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260928555405131778', N'2', N'删除用户，id： 1260928527571730433', N'3', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-05-14 21:42:49.0000000', NULL, NULL)
@@ -9789,16 +9789,16 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260929134214889473', N'1', N'用户名: jeecg,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:45:07.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260929271406379009', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@70c0bdfc', NULL, N'28', N'jeecg', N'2020-05-14 21:45:40.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260929271406379009', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@70c0bdfc', NULL, N'28', N'jeecg', N'2020-05-14 21:45:40.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260929271427350530', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@525bea80', NULL, N'32', N'jeecg', N'2020-05-14 21:45:40.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260929271427350530', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@525bea80', NULL, N'32', N'jeecg', N'2020-05-14 21:45:40.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260929371243397122', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=devleader,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@e5f81d', NULL, N'18', N'admin', N'2020-05-14 21:46:04.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260929371243397122', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=devleader,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@e5f81d', NULL, N'18', N'admin', N'2020-05-14 21:46:04.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260929371260174338', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@400b70bc', NULL, N'19', N'admin', N'2020-05-14 21:46:04.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260929371260174338', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@400b70bc', NULL, N'19', N'admin', N'2020-05-14 21:46:04.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260929762320302082', N'1', N'用户名: jeecg,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:47:37.0000000', NULL, NULL)
@@ -9807,19 +9807,19 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260929810957451265', N'1', N'用户名: jeecg,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:47:49.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260929836681117697', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@cb51343', NULL, N'24', N'jeecg', N'2020-05-14 21:47:55.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260929836681117697', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@cb51343', NULL, N'24', N'jeecg', N'2020-05-14 21:47:55.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260930724300701698', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@610afa2c', NULL, N'21', N'admin', N'2020-05-14 21:51:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260930724300701698', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@610afa2c', NULL, N'21', N'admin', N'2020-05-14 21:51:26.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260931207094452225', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2ace1f73', NULL, N'22', N'jeecg', N'2020-05-14 21:53:21.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260931207094452225', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2ace1f73', NULL, N'22', N'jeecg', N'2020-05-14 21:53:21.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260931476662370305', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7a31b732', NULL, N'35', N'jeecg', N'2020-05-14 21:54:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260931476662370305', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7a31b732', NULL, N'35', N'jeecg', N'2020-05-14 21:54:26.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260931476674953218', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@10a5aacb', NULL, N'40', N'jeecg', N'2020-05-14 21:54:26.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260931476674953218', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@10a5aacb', NULL, N'40', N'jeecg', N'2020-05-14 21:54:26.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260931514486603778', N'1', N'用户名: jeecg,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:54:35.0000000', NULL, NULL)
@@ -9828,13 +9828,13 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260931555641114626', N'1', N'用户名: jeecg,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:54:44.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260931582723735554', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@22cf7c0d', NULL, N'23', N'jeecg', N'2020-05-14 21:54:51.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260931582723735554', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@22cf7c0d', NULL, N'23', N'jeecg', N'2020-05-14 21:54:51.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260931582874730497', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@12d7128d', NULL, N'46', N'jeecg', N'2020-05-14 21:54:51.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260931582874730497', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@12d7128d', NULL, N'46', N'jeecg', N'2020-05-14 21:54:51.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260931781227560962', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@498c141f', NULL, N'16', N'jeecg', N'2020-05-14 21:55:38.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260931781227560962', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@498c141f', NULL, N'16', N'jeecg', N'2020-05-14 21:55:38.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260931806921867266', N'1', N'用户名: jeecg,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:55:44.0000000', NULL, NULL)
@@ -9843,34 +9843,34 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260931842166603778', N'1', N'用户名: jeecg,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 21:55:53.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260931866350960641', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@31490538', NULL, N'18', N'jeecg', N'2020-05-14 21:55:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260931866350960641', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@31490538', NULL, N'18', N'jeecg', N'2020-05-14 21:55:59.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260932190738432001', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1d88fafd', NULL, N'14', N'jeecg', N'2020-05-14 21:57:16.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260932190738432001', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1d88fafd', NULL, N'14', N'jeecg', N'2020-05-14 21:57:16.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260932814867644418', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1e366b7f', NULL, N'16', N'jeecg', N'2020-05-14 21:59:45.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260932814867644418', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1e366b7f', NULL, N'16', N'jeecg', N'2020-05-14 21:59:45.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260932814867644419', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@45e3c142', NULL, N'18', N'jeecg', N'2020-05-14 21:59:45.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260932814867644419', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@45e3c142', NULL, N'18', N'jeecg', N'2020-05-14 21:59:45.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260932881045372930', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@31e69524', NULL, N'17', N'jeecg', N'2020-05-14 22:00:00.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260932881045372930', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@31e69524', NULL, N'17', N'jeecg', N'2020-05-14 22:00:00.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260932881062150145', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3144a4a4', NULL, N'19', N'jeecg', N'2020-05-14 22:00:01.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260932881062150145', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3144a4a4', NULL, N'19', N'jeecg', N'2020-05-14 22:00:01.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260933064055439361', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@553714fa', NULL, N'10', N'jeecg', N'2020-05-14 22:00:44.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260933064055439361', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@553714fa', NULL, N'10', N'jeecg', N'2020-05-14 22:00:44.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260933064063827969', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@35a8516d', NULL, N'12', N'jeecg', N'2020-05-14 22:00:44.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260933064063827969', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@35a8516d', NULL, N'12', N'jeecg', N'2020-05-14 22:00:44.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260933576796520450', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@65f9e0cd', NULL, N'17', N'jeecg', N'2020-05-14 22:02:46.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260933576796520450', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@65f9e0cd', NULL, N'17', N'jeecg', N'2020-05-14 22:02:46.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260933576830074882', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@a53f5e6', NULL, N'23', N'jeecg', N'2020-05-14 22:02:46.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260933576830074882', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@a53f5e6', NULL, N'23', N'jeecg', N'2020-05-14 22:02:46.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260933611194007554', N'1', N'用户名: jeecg,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 22:02:55.0000000', NULL, NULL)
@@ -9879,16 +9879,16 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260933659902459905', N'1', N'用户名: jeecg,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 22:03:06.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260933693624664065', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@19141940', NULL, N'11', N'jeecg', N'2020-05-14 22:03:14.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260933693624664065', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@19141940', NULL, N'11', N'jeecg', N'2020-05-14 22:03:14.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260933693641441282', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4e9b247f', NULL, N'16', N'jeecg', N'2020-05-14 22:03:14.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260933693641441282', N'2', N'职务表-分页列表查询', N'1', N'jeecg', N'jeecg', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4e9b247f', NULL, N'16', N'jeecg', N'2020-05-14 22:03:14.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260935385174884354', N'2', N'添加测试DEMO', N'2', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"jeecg","createTime":1589465397495,"id":"1260935385049055234","keyWord":"111","name":"111","sysOrgCode":"A02A01"}]', NULL, N'9', N'jeecg', N'2020-05-14 22:09:58.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260935385174884354', N'2', N'添加测试DEMO', N'2', N'jeecg', N'jeecg', N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"jeecg","createTime":1589465397495,"id":"1260935385049055234","keyWord":"111","name":"111","sysOrgCode":"A02A01"}]', NULL, N'9', N'jeecg', N'2020-05-14 22:09:58.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1260935402375725058', N'2', N'添加测试DEMO', N'2', N'jeecg', N'jeecg', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"jeecg","createTime":1589465401622,"id":"1260935402346364930","keyWord":"222","name":"22","sysOrgCode":"A02A01"}]', NULL, N'8', N'jeecg', N'2020-05-14 22:10:02.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1260935402375725058', N'2', N'添加测试DEMO', N'2', N'jeecg', N'jeecg', N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"jeecg","createTime":1589465401622,"id":"1260935402346364930","keyWord":"222","name":"22","sysOrgCode":"A02A01"}]', NULL, N'8', N'jeecg', N'2020-05-14 22:10:02.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1260935773085089793', N'1', N'用户名: jeecg,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-05-14 22:11:30.0000000', NULL, NULL)
@@ -10098,85 +10098,85 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1281463660984672257', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-07-10 13:42:00.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281463692681027586', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@388569c3', NULL, N'128', N'admin', N'2020-07-10 13:42:07.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281463692681027586', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@388569c3', NULL, N'128', N'admin', N'2020-07-10 13:42:07.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281463692722970626', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4358bb54', NULL, N'138', N'admin', N'2020-07-10 13:42:07.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281463692722970626', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4358bb54', NULL, N'138', N'admin', N'2020-07-10 13:42:07.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281463724180250626', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5fc7ad92', NULL, N'21', N'admin', N'2020-07-10 13:42:15.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281463724180250626', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5fc7ad92', NULL, N'21', N'admin', N'2020-07-10 13:42:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281466185779511298', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5edfc1ec', NULL, N'56', N'admin', N'2020-07-10 13:52:02.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281466185779511298', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5edfc1ec', NULL, N'56', N'admin', N'2020-07-10 13:52:02.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281466185821454338', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@297e419b', NULL, N'105', N'admin', N'2020-07-10 13:52:02.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281466185821454338', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@297e419b', NULL, N'105', N'admin', N'2020-07-10 13:52:02.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281470275754393601', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@48b03d65', NULL, N'49', N'admin', N'2020-07-10 14:08:17.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281470275754393601', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@48b03d65', NULL, N'49', N'admin', N'2020-07-10 14:08:17.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281490121686900738', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@495980d', NULL, N'56', N'admin', N'2020-07-10 15:27:09.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281490121686900738', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=总经理,, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 1  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@495980d', NULL, N'56', N'admin', N'2020-07-10 15:27:09.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281490121686900739', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@c2689e6', NULL, N'137', N'admin', N'2020-07-10 15:27:09.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281490121686900739', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@c2689e6', NULL, N'137', N'admin', N'2020-07-10 15:27:09.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1281490127785418753', N'2', N'编辑用户，id： e9ca23d68d884d4ebb19d07889727dae', N'2', N'admin', N'管理员', N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'admin', N'2020-07-10 15:27:10.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281490460796379138', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@42664396', NULL, N'24', N'admin', N'2020-07-10 15:28:29.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281490460796379138', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@42664396', NULL, N'24', N'admin', N'2020-07-10 15:28:29.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281490464818716674', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@72b8f1e4', NULL, N'32', N'admin', N'2020-07-10 15:28:30.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281490464818716674', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 99999  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@72b8f1e4', NULL, N'32', N'admin', N'2020-07-10 15:28:30.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281494695797710850', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1f1e744e', NULL, N'17', N'admin', N'2020-07-10 15:45:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281494695797710850', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1f1e744e', NULL, N'17', N'admin', N'2020-07-10 15:45:19.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281511287809978369', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@46ca6657', NULL, N'38', N'admin', N'2020-07-10 16:51:15.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281511287809978369', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@46ca6657', NULL, N'38', N'admin', N'2020-07-10 16:51:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281511305329586178', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3a9bbc8f', NULL, N'17', N'admin', N'2020-07-10 16:51:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281511305329586178', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@3a9bbc8f', NULL, N'17', N'admin', N'2020-07-10 16:51:19.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281511309553250306', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@43bfe5e4', NULL, N'39', N'admin', N'2020-07-10 16:51:20.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281511309553250306', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@43bfe5e4', NULL, N'39', N'admin', N'2020-07-10 16:51:20.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281511313403621377', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@374f394a', NULL, N'57', N'admin', N'2020-07-10 16:51:21.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281511313403621377', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@374f394a', NULL, N'57', N'admin', N'2020-07-10 16:51:21.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281511318214488065', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2053432a', NULL, N'15', N'admin', N'2020-07-10 16:51:22.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281511318214488065', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2053432a', NULL, N'15', N'admin', N'2020-07-10 16:51:22.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281511321653817345', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@141a2c36', NULL, N'16', N'admin', N'2020-07-10 16:51:23.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281511321653817345', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@141a2c36', NULL, N'16', N'admin', N'2020-07-10 16:51:23.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281511330424107009', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2801528a', NULL, N'12', N'admin', N'2020-07-10 16:51:25.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281511330424107009', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2801528a', NULL, N'12', N'admin', N'2020-07-10 16:51:25.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281512143234084865', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@e82dbcc', NULL, N'21', N'admin', N'2020-07-10 16:54:39.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281512143234084865', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@e82dbcc', NULL, N'21', N'admin', N'2020-07-10 16:54:39.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281512154952970241', N'2', N'多数据源管理-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.edit()', NULL, N'[{"createBy":"admin","createTime":1577268893000,"dbDriver":"com.mysql.jdbc.Driver","dbName":"jeecg-boot","dbPassword":"root","dbType":"1","dbUrl":"jdbc:mysql://127.0.0.1:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false","dbUsername":"root","id":"1209779538310004737","name":"MySQL5.7","remark":"本地数据库MySQL5.7","sysOrgCode":"A01","updateBy":"admin","updateTime":1594371281682}]', NULL, N'27', N'admin', N'2020-07-10 16:54:42.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281512154952970241', N'2', N'多数据源管理-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.edit()', NULL, N'[{"createBy":"admin","createTime":1577268893000,"dbDriver":"com.mysql.jdbc.Driver","dbName":"jeecg-boot","dbPassword":"root","dbType":"1","dbUrl":"jdbc:mysql://127.0.0.1:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false","dbUsername":"root","id":"1209779538310004737","name":"MySQL5.7","remark":"本地数据库MySQL5.7","sysOrgCode":"A01","updateBy":"admin","updateTime":1594371281682}]', NULL, N'27', N'admin', N'2020-07-10 16:54:42.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281512155624058882', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@469013ef', NULL, N'17', N'admin', N'2020-07-10 16:54:42.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281512155624058882', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@469013ef', NULL, N'17', N'admin', N'2020-07-10 16:54:42.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281512163014422530', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2d8cfe34', NULL, N'14', N'admin', N'2020-07-10 16:54:44.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281512163014422530', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@2d8cfe34', NULL, N'14', N'admin', N'2020-07-10 16:54:44.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281512167053537281', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@350a614e', NULL, N'12', N'admin', N'2020-07-10 16:54:45.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281512167053537281', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@350a614e', NULL, N'12', N'admin', N'2020-07-10 16:54:45.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1281516925944410113', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-07-10 17:13:39.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281518641905479681', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4d73d74b', NULL, N'22', N'admin', N'2020-07-10 17:20:28.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281518641905479681', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4d73d74b', NULL, N'22', N'admin', N'2020-07-10 17:20:28.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281518645130899458', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@39d7de59', NULL, N'17', N'admin', N'2020-07-10 17:20:29.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281518645130899458', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@39d7de59', NULL, N'17', N'admin', N'2020-07-10 17:20:29.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1281563453585215489', N'1', N'用户名: 管理员,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-07-10 20:18:32.0000000', NULL, NULL)
@@ -10200,82 +10200,82 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'1281782935767339010', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-07-11 10:50:41.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281792846681182210', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1790aa50', NULL, N'31', N'admin', N'2020-07-11 11:30:04.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281792846681182210', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@1790aa50', NULL, N'31', N'admin', N'2020-07-11 11:30:04.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281792861646458882', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=shop_order_num, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@34810a0f', NULL, N'7', N'admin', N'2020-07-11 11:30:07.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281792861646458882', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=shop_order_num, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@34810a0f', NULL, N'7', N'admin', N'2020-07-11 11:30:07.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281792866222444546', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@68240471', NULL, N'17', N'admin', N'2020-07-11 11:30:09.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281792866222444546', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@68240471', NULL, N'17', N'admin', N'2020-07-11 11:30:09.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281792871658262530', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=shop_order_num, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4ec76a80', NULL, N'17', N'admin', N'2020-07-11 11:30:10.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281792871658262530', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=shop_order_num, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4ec76a80', NULL, N'17', N'admin', N'2020-07-11 11:30:10.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281793269345390594', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@20e6313d', NULL, N'13', N'admin', N'2020-07-11 11:31:45.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281793269345390594', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@20e6313d', NULL, N'13', N'admin', N'2020-07-11 11:31:45.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281793915574390785', N'2', N'填值规则-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.edit()', NULL, N'[{"createBy":"admin","createTime":1589274365000,"id":"1260134137920090113","ruleClass":"org.jeecg.modules.rule.OrderNumberRule","ruleCode":"shop_order_num","ruleName":"商城订单流水号","ruleParams":"{}","updateBy":"admin","updateTime":1594438458695}]', NULL, N'12', N'admin', N'2020-07-11 11:34:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281793915574390785', N'2', N'填值规则-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.edit()', NULL, N'[{"createBy":"admin","createTime":1589274365000,"id":"1260134137920090113","ruleClass":"org.jeecg.modules.rule.OrderNumberRule","ruleCode":"shop_order_num","ruleName":"商城订单流水号","ruleParams":"{}","updateBy":"admin","updateTime":1594438458695}]', NULL, N'12', N'admin', N'2020-07-11 11:34:19.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281793915922518017', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7ceee797', NULL, N'12', N'admin', N'2020-07-11 11:34:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281793915922518017', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@7ceee797', NULL, N'12', N'admin', N'2020-07-11 11:34:19.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281794052098985986', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@36c48e02', NULL, N'17', N'admin', N'2020-07-11 11:34:51.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281794052098985986', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@36c48e02', NULL, N'17', N'admin', N'2020-07-11 11:34:51.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281794089126301697', N'2', N'填值规则-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.edit()', NULL, N'[{"createBy":"admin","createTime":1589274365000,"id":"1260134137920090113","ruleClass":"org.jeecg.modules.system.rule.OrderNumberRule","ruleCode":"shop_order_num","ruleName":"商城订单流水号","ruleParams":"{}","updateBy":"admin","updateTime":1594438500079}]', NULL, N'8', N'admin', N'2020-07-11 11:35:00.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281794089126301697', N'2', N'填值规则-编辑', N'3', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.edit()', NULL, N'[{"createBy":"admin","createTime":1589274365000,"id":"1260134137920090113","ruleClass":"OrderNumberRule","ruleCode":"shop_order_num","ruleName":"商城订单流水号","ruleParams":"{}","updateBy":"admin","updateTime":1594438500079}]', NULL, N'8', N'admin', N'2020-07-11 11:35:00.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281794089512177666', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@302729ee', NULL, N'16', N'admin', N'2020-07-11 11:35:00.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281794089512177666', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@302729ee', NULL, N'16', N'admin', N'2020-07-11 11:35:00.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281794654736564225', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5a8c5a9a', NULL, N'26', N'admin', N'2020-07-11 11:37:15.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281794654736564225', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@5a8c5a9a', NULL, N'26', N'admin', N'2020-07-11 11:37:15.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281794658578546689', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@725088fe', NULL, N'32', N'admin', N'2020-07-11 11:37:16.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281794658578546689', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@725088fe', NULL, N'32', N'admin', N'2020-07-11 11:37:16.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281794663301332994', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4189e173', NULL, N'61', N'admin', N'2020-07-11 11:37:17.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281794663301332994', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@4189e173', NULL, N'61', N'admin', N'2020-07-11 11:37:17.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281794665633366018', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@fafd1bd', NULL, N'20', N'admin', N'2020-07-11 11:37:18.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281794665633366018', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@fafd1bd', NULL, N'20', N'admin', N'2020-07-11 11:37:18.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281794667516608513', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@264761c3', NULL, N'14', N'admin', N'2020-07-11 11:37:18.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281794667516608513', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@264761c3', NULL, N'14', N'admin', N'2020-07-11 11:37:18.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281794670893023234', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@445cd090', NULL, N'12', N'admin', N'2020-07-11 11:37:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281794670893023234', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@445cd090', NULL, N'12', N'admin', N'2020-07-11 11:37:19.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281794672625270785', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@d8473bc', NULL, N'16', N'admin', N'2020-07-11 11:37:19.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281794672625270785', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@d8473bc', NULL, N'16', N'admin', N'2020-07-11 11:37:19.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281795543228563458', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6fda764a', NULL, N'15', N'admin', N'2020-07-11 11:40:47.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281795543228563458', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6fda764a', NULL, N'15', N'admin', N'2020-07-11 11:40:47.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281795545476710402', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6881005e', NULL, N'12', N'admin', N'2020-07-11 11:40:47.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281795545476710402', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6881005e', NULL, N'12', N'admin', N'2020-07-11 11:40:47.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281795548324642817', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@59fa83d0', NULL, N'15', N'admin', N'2020-07-11 11:40:48.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281795548324642817', N'2', N'多数据源管理-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysDataSourceController.queryPageList()', NULL, N'  sysDataSource: SysDataSource(id=null, code=null, name=null, remark=null, dbType=null, dbDriver=null, dbUrl=null, dbName=null, dbUsername=null, dbPassword=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@59fa83d0', NULL, N'15', N'admin', N'2020-07-11 11:40:48.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281795552816742402', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@55a0b7c', NULL, N'14', N'admin', N'2020-07-11 11:40:49.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281795552816742402', N'2', N'填值规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysFillRuleController.queryPageList()', NULL, N'  sysFillRule: SysFillRule(id=null, ruleName=null, ruleCode=null, ruleClass=null, ruleParams=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@55a0b7c', NULL, N'14', N'admin', N'2020-07-11 11:40:49.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281795555513679873', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@59736cc4', NULL, N'9', N'admin', N'2020-07-11 11:40:50.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281795555513679873', N'2', N'编码校验规则-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysCheckRuleController.queryPageList()', NULL, N'  sysCheckRule: SysCheckRule(id=null, ruleName=null, ruleCode=null, ruleJson=null, ruleDescription=null, updateBy=null, updateTime=null, createBy=null, createTime=null)  pageNo: 1  pageSize: 10  request: org.apache.shiro.web.servlet.ShiroHttpServletRequest@59736cc4', NULL, N'9', N'admin', N'2020-07-11 11:40:50.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'1281800098691514370', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, NULL, N'2020-07-11 11:58:53.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281800338509234177', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@78f6b224', NULL, N'229', N'admin', N'2020-07-11 11:59:50.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281800338509234177', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@78f6b224', NULL, N'229', N'admin', N'2020-07-11 11:59:50.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281801356038995969', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@73cccdb5', NULL, N'42', N'admin', N'2020-07-11 12:03:53.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281801356038995969', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@73cccdb5', NULL, N'42', N'admin', N'2020-07-11 12:03:53.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'1281801511580565505', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.system.controller.SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6bf19c8c', NULL, N'28', N'admin', N'2020-07-11 12:04:30.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'1281801511580565505', N'2', N'职务表-分页列表查询', N'1', N'admin', N'管理员', N'127.0.0.1', N'SysPositionController.queryPageList()', NULL, N'  sysPosition: SysPosition(id=null, code=null, name=null, postRank=null, companyId=null, createBy=null, createTime=null, updateBy=null, updateTime=null, sysOrgCode=null)  pageNo: 1  pageSize: 5  req: org.apache.shiro.web.servlet.ShiroHttpServletRequest@6bf19c8c', NULL, N'28', N'admin', N'2020-07-11 12:04:30.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'130de55edac71aab730786307cc65936', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-01-19 20:22:57.0000000', NULL, NULL)
@@ -10854,7 +10854,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'562092eb81561ee0f63be5dd9367d298', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-24 22:20:59.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'57264fff74c4f857bddf5d766951f3c9', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1558262155067,"id":"dcb45a2fc661e5cdc341b806e5914873","name":"111","sysOrgCode":"A01"}]', NULL, N'5', N'admin', N'2019-05-19 18:35:55.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'57264fff74c4f857bddf5d766951f3c9', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1558262155067,"id":"dcb45a2fc661e5cdc341b806e5914873","name":"111","sysOrgCode":"A01"}]', NULL, N'5', N'admin', N'2019-05-19 18:35:55.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'580256f7c7ea658786dba919009451b6', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-25 17:39:43.0000000', NULL, NULL)
@@ -10917,7 +10917,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'5f00b5514a11cd2fe240c131e9ddd136', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-22 16:30:52.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'5f0a5e85efbe9c79645ffc0c15fcee1a', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1558261833637,"id":"94f78b1c9753dfb1202d731f540666e1","keyWord":"1","name":"1","sysOrgCode":"A01"}]', NULL, N'30', N'admin', N'2019-05-19 18:30:33.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'5f0a5e85efbe9c79645ffc0c15fcee1a', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1558261833637,"id":"94f78b1c9753dfb1202d731f540666e1","keyWord":"1","name":"1","sysOrgCode":"A01"}]', NULL, N'30', N'admin', N'2019-05-19 18:30:33.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'5f314fc45492d7f90b74d1ca74d1d392', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-22 17:45:48.0000000', NULL, NULL)
@@ -11205,7 +11205,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'7b2b322a47e1ce131d71c50b46d7d29e', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-06 15:55:20.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'7b44138c1b80b67da13b89db756a22b0', N'2', N'添加测试DEMO', NULL, NULL, NULL, N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"jeecg-boot","createTime":1553824172062,"id":"5fce01cb7f0457746c97d8ca05628f81","name":"1212"}]', NULL, N'25', N'jeecg-boot', N'2019-03-29 09:49:32.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'7b44138c1b80b67da13b89db756a22b0', N'2', N'添加测试DEMO', NULL, NULL, NULL, N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"jeecg-boot","createTime":1553824172062,"id":"5fce01cb7f0457746c97d8ca05628f81","name":"1212"}]', NULL, N'25', N'jeecg-boot', N'2019-03-29 09:49:32.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'7b85fba62bc001773fff1a54e1609aef', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-25 16:28:20.0000000', NULL, NULL)
@@ -11361,7 +11361,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'8ec3a287a37d155047e80a80769d5226', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-01-21 18:37:14.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'8f616500d666a5a67bc98e7ccd73c2e2', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1547912194199,"id":"ffa9da1ad40632dfcabac51d766865bd","name":"秦999"}]', NULL, N'386', N'admin', N'2019-01-19 23:36:34.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'8f616500d666a5a67bc98e7ccd73c2e2', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1547912194199,"id":"ffa9da1ad40632dfcabac51d766865bd","name":"秦999"}]', NULL, N'386', N'admin', N'2019-01-19 23:36:34.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'8fde5f89e8ad30cf3811b8683a9a77b1', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-17 18:02:41.0000000', NULL, NULL)
@@ -11451,7 +11451,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'994efef0ebca19292e14a39b385b0e21', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-15 16:22:24.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'997bb4cb1ad24439b6f7656222af0710', N'2', N'添加测试DEMO', NULL, NULL, NULL, N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"jeecg-boot","createTime":1553824768819,"id":"ee84471f0dff5ae88c45e852bfa0280f","keyWord":"22","name":"222"}]', NULL, N'5', N'jeecg-boot', N'2019-03-29 09:59:28.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'997bb4cb1ad24439b6f7656222af0710', N'2', N'添加测试DEMO', NULL, NULL, NULL, N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"jeecg-boot","createTime":1553824768819,"id":"ee84471f0dff5ae88c45e852bfa0280f","keyWord":"22","name":"222"}]', NULL, N'5', N'jeecg-boot', N'2019-03-29 09:59:28.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'9a1456ef58a2b1fb63cdc54b723f2539', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-28 17:26:39.0000000', NULL, NULL)
@@ -11529,7 +11529,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'a1b870eee811cfa4960f577b667b0973', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-04-01 18:23:44.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'a22ddd4b5b0b84bd7794edd24b25fc64', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1547883299809,"email":"zhangdaiscott@163.com","id":"7eac655877842eb39dc2f0469f3964ec","name":"zhang daihao"}]', NULL, N'25', N'admin', N'2019-01-19 15:34:59.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'a22ddd4b5b0b84bd7794edd24b25fc64', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1547883299809,"email":"zhangdaiscott@163.com","id":"7eac655877842eb39dc2f0469f3964ec","name":"zhang daihao"}]', NULL, N'25', N'admin', N'2019-01-19 15:34:59.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'a28de45f52c027a3348a557efab6f430', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-19 10:34:26.0000000', NULL, NULL)
@@ -11583,7 +11583,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'a69f4ff4e48754de96ae6fa4fabc1579', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-04-02 09:18:48.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'a6c3b28530416dace21371abe8cae00b', N'2', N'删除测试DEMO', NULL, NULL, NULL, N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.delete()', NULL, N'["ee84471f0dff5ae88c45e852bfa0280f"]', NULL, N'9', N'jeecg-boot', N'2019-03-29 09:59:48.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'a6c3b28530416dace21371abe8cae00b', N'2', N'删除测试DEMO', NULL, NULL, NULL, N'127.0.0.1', N'JeecgDemoController.delete()', NULL, N'["ee84471f0dff5ae88c45e852bfa0280f"]', NULL, N'9', N'jeecg-boot', N'2019-03-29 09:59:48.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'a6e323785535592ee208aa7e53554644', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-20 09:15:27.0000000', NULL, NULL)
@@ -11928,7 +11928,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'ce9893f4d0dd163e900fcd537f2c292d', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-25 11:55:55.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'cedf399271592c27dcb6f6ce3312e77d', N'2', N'删除测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.delete()', NULL, N'["7501"]', NULL, N'24', N'admin', N'2019-03-06 16:03:13.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'cedf399271592c27dcb6f6ce3312e77d', N'2', N'删除测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.delete()', NULL, N'["7501"]', NULL, N'24', N'admin', N'2019-03-06 16:03:13.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'cf590576a5f6a42b347e6b5bf5ebf5bd', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-25 12:43:31.0000000', NULL, NULL)
@@ -12015,13 +12015,13 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'd762a1cba3dc23068f352323d98909e0', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-26 22:26:49.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'd7902eeab2c34611fad046a79bff1c1b', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1547883544104,"email":"zhangdaiscott@163.com","id":"4436302a0de50bb83025286bc414d6a9","name":"zhang daihao"}]', NULL, N'1682', N'admin', N'2019-01-19 15:39:05.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'd7902eeab2c34611fad046a79bff1c1b', N'2', N'添加测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"admin","createTime":1547883544104,"email":"zhangdaiscott@163.com","id":"4436302a0de50bb83025286bc414d6a9","name":"zhang daihao"}]', NULL, N'1682', N'admin', N'2019-01-19 15:39:05.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'd7e7cb4c21372e48b8e0ec7e679466e3', N'1', N'用户名: null,退出成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-25 12:02:34.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'd7e8a7f14967c70d68f5569cb4d11d0a', N'2', N'删除测试DEMO', NULL, NULL, NULL, N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.delete()', NULL, N'["5fce01cb7f0457746c97d8ca05628f81"]', NULL, N'9', N'jeecg-boot', N'2019-03-29 09:49:39.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'd7e8a7f14967c70d68f5569cb4d11d0a', N'2', N'删除测试DEMO', NULL, NULL, NULL, N'127.0.0.1', N'JeecgDemoController.delete()', NULL, N'["5fce01cb7f0457746c97d8ca05628f81"]', NULL, N'9', N'jeecg-boot', N'2019-03-29 09:49:39.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'd82b170459d99fc05eb8aa1774e1a1c9', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-26 18:45:14.0000000', NULL, NULL)
@@ -12207,7 +12207,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'e78f8832d61c1603c17767ee2b78ef07', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-01 19:50:03.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'e7f2b0a7493e7858c5db1f1595fa54b1', N'2', N'添加测试DEMO', NULL, NULL, NULL, N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.add()', NULL, N'[{"createBy":"jeecg-boot","createTime":1553824376817,"id":"e771211b77cd3b326d3e61edfd9a5a19","keyWord":"222","name":"222"}]', NULL, N'7', N'jeecg-boot', N'2019-03-29 09:52:56.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'e7f2b0a7493e7858c5db1f1595fa54b1', N'2', N'添加测试DEMO', NULL, NULL, NULL, N'127.0.0.1', N'JeecgDemoController.add()', NULL, N'[{"createBy":"jeecg-boot","createTime":1553824376817,"id":"e771211b77cd3b326d3e61edfd9a5a19","keyWord":"222","name":"222"}]', NULL, N'7', N'jeecg-boot', N'2019-03-29 09:52:56.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'e864c0007983211026d6987bd0cd4dc8', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'192.168.1.114', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-11 13:37:08.0000000', NULL, NULL)
@@ -12279,7 +12279,7 @@ GO
 INSERT INTO [dbo].[sys_log]  VALUES (N'eeb1f2e2c1b480e0bb62533848cbb176', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-02-24 22:55:46.0000000', NULL, NULL)
 GO
 
-INSERT INTO [dbo].[sys_log]  VALUES (N'eef5b90eea8e7394193443cfd7476529', N'2', N'删除测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'org.jeecg.modules.demo.test.controller.JeecgDemoController.delete()', NULL, N'["dcb45a2fc661e5cdc341b806e5914873"]', NULL, N'9', N'admin', N'2019-05-19 18:36:02.0000000', NULL, NULL)
+INSERT INTO [dbo].[sys_log]  VALUES (N'eef5b90eea8e7394193443cfd7476529', N'2', N'删除测试DEMO', NULL, N'admin', N'管理员', N'127.0.0.1', N'JeecgDemoController.delete()', NULL, N'["dcb45a2fc661e5cdc341b806e5914873"]', NULL, N'9', N'admin', N'2019-05-19 18:36:02.0000000', NULL, NULL)
 GO
 
 INSERT INTO [dbo].[sys_log]  VALUES (N'ef54197116da89bf091c0ed58321eea4', N'1', N'用户名: admin,登录成功！', NULL, NULL, NULL, N'127.0.0.1', NULL, NULL, NULL, NULL, NULL, N'jeecg-boot', N'2019-03-09 19:22:06.0000000', NULL, NULL)
@@ -13416,13 +13416,13 @@ GO
 -- ----------------------------
 -- Records of sys_quartz_job
 -- ----------------------------
-INSERT INTO [dbo].[sys_quartz_job]  VALUES (N'5b3d2c087ad41aa755fc4f89697b01e7', N'admin', N'2019-04-11 19:04:21.0000000', N'0', N'admin', N'2020-05-02 15:48:48.0000000', N'org.jeecg.modules.message.job.SendMsgJob', N'0/50 * * * * ? *', NULL, NULL, N'-1')
+INSERT INTO [dbo].[sys_quartz_job]  VALUES (N'5b3d2c087ad41aa755fc4f89697b01e7', N'admin', N'2019-04-11 19:04:21.0000000', N'0', N'admin', N'2020-05-02 15:48:48.0000000', N'SendMsgJob', N'0/50 * * * * ? *', NULL, NULL, N'-1')
 GO
 
-INSERT INTO [dbo].[sys_quartz_job]  VALUES (N'a253cdfc811d69fa0efc70d052bc8128', N'admin', N'2019-03-30 12:44:48.0000000', N'0', N'admin', N'2020-05-02 15:48:49.0000000', N'org.jeecg.modules.quartz.job.SampleJob', N'0/1 * * * * ?', NULL, NULL, N'-1')
+INSERT INTO [dbo].[sys_quartz_job]  VALUES (N'a253cdfc811d69fa0efc70d052bc8128', N'admin', N'2019-03-30 12:44:48.0000000', N'0', N'admin', N'2020-05-02 15:48:49.0000000', N'SampleJob', N'0/1 * * * * ?', NULL, NULL, N'-1')
 GO
 
-INSERT INTO [dbo].[sys_quartz_job]  VALUES (N'df26ecacf0f75d219d746750fe84bbee', NULL, NULL, N'0', N'admin', N'2020-05-02 15:40:35.0000000', N'org.jeecg.modules.quartz.job.SampleParamJob', N'0/1 * * * * ?', N'scott', N'带参测试 后台将每隔1秒执行输出日志', N'-1')
+INSERT INTO [dbo].[sys_quartz_job]  VALUES (N'df26ecacf0f75d219d746750fe84bbee', NULL, NULL, N'0', N'admin', N'2020-05-02 15:40:35.0000000', N'SampleParamJob', N'0/1 * * * * ?', N'scott', N'带参测试 后台将每隔1秒执行输出日志', N'-1')
 GO
 
 
