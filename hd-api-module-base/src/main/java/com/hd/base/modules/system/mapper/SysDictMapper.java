@@ -14,6 +14,7 @@ import com.hd.common.system.vo.DictModel;
 import com.hd.common.system.vo.DictQuery;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.springframework.stereotype.Repository;
 
 /**
  * <p>

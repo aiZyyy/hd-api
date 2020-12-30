@@ -8,6 +8,7 @@ import com.hd.base.modules.system.entity.SysLog;
 import org.apache.ibatis.annotations.Param;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.springframework.stereotype.Repository;
 
 /**
  * <p>

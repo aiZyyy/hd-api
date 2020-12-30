@@ -4,6 +4,7 @@ import com.hd.base.modules.system.entity.SysDataLog;
 import org.apache.ibatis.annotations.Param;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.springframework.stereotype.Repository;
 
 @Repository
 public interface SysDataLogMapper extends BaseMapper<SysDataLog>{

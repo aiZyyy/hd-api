@@ -2,6 +2,7 @@ package com.hd.base.modules.system.mapper;
 
 import com.hd.base.modules.system.entity.SysDepartPermission;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.springframework.stereotype.Repository;
 
 /**
  * @Description: 部门权限表
