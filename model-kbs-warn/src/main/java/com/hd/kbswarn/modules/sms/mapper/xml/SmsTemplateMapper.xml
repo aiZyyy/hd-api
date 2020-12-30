@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hd.kbswarn.modules.sms.mapper.SmsTemplateMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.hd.kbswarn.modules.sms.entity.SmsTemplate">
+        <id column="id" property="id" />
+        <result column="template_code" property="templateCode" />
+        <result column="template_type" property="templateType" />
+        <result column="template_name" property="templateName" />
+        <result column="template_content" property="templateContent" />
+        <result column="remark" property="remark" />
+        <result column="action" property="action" />
+        <result column="access_keyId" property="accessKeyid" />
+        <result column="template_status" property="templateStatus" />
+        <result column="create_time" property="createTime" />
+        <result column="update_time" property="updateTime" />
+        <result column="sms_sign" property="smsSign" />
+
+        <result column="nt" property="nt" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, template_code AS templateCode, template_type AS templateType, template_name AS templateName, template_content AS templateContent, remark, action, access_keyId AS accessKeyid, template_status AS templateStatus, nt
+    </sql>
+</mapper>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hd.kbswarn.modules.sms.mapper.SmsAnswerMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.hd.kbswarn.modules.sms.entity.SmsAnswer">
+        <id column="id" property="id" />
+        <result column="phone" property="phone" />
+        <result column="answer" property="answer" />
+        <result column="time" property="time" />
+        <result column="status" property="status" />
+        <result column="expand1" property="expand1" />
+        <result column="expand2" property="expand2" />
+        <result column="expand3" property="expand3" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, phone, answer, time, status, expand1, expand2, expand3
+    </sql>
+
+</mapper>

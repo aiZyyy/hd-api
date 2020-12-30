@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hd.kbswarn.modules.sms.mapper.SmsRecordMapper">
+    <!-- 结果集 -->
+    <resultMap id="result_base" type="com.hd.kbswarn.modules.sms.entity.SmsRecord">
+        <result property="id" column="ID"/>
+        <result property="sendTm" column="SEND_TM"/>
+        <result property="content" column="CONTENT"/>
+        <result property="status" column="STATUS"/>
+        <result property="statusDesc" column="status_desc"/>
+        <result property="acceptor" column="ACCEPTOR"/>
+        <result property="operator" column="OPERATOR"/>
+        <result property="exp1" column="EXP1"/>
+        <result property="exp2" column="EXP2"/>
+    </resultMap>
+
+    <select id="getSmsRecordList" parameterType="java.util.HashMap" resultMap="result_base" resultType="com.hd.kbswarn.modules.sms.entity.SmsRecord">
+        select obj.*, bsi.NAME as STNM
+        from sms_record obj
+        left join biz_station_info bsi on obj.STCD = bsi.TERM_SN
+        <include refid="dy_where"></include>
+        order by obj.SEND_TM ${item.order}
+    </select>
+
+
+    <select id="getLatestSmsRecord" parameterType="com.hd.kbswarn.modules.sms.entity.SmsRecord" resultMap="result_base">
+        SELECT obj.* FROM sms_record obj
+        WHERE 1=1
+        <if test="stcd != null and ''!= stcd">
+            AND obj.STCD = #{stcd}
+            AND obj.SEND_TM =(SELECT max(SEND_TM) FROM sms_record temp WHERE temp.STCD= #{stcd})
+        </if>
+    </select>
+
+
+    <!-- 添加语句 -->
+    <insert id="insertSmsRecord" parameterType="com.hd.kbswarn.modules.sms.entity.SmsRecord">
+        INSERT INTO sms_record (STCD, ALARM_TYPE, ALARM_TM, SEND_TM, CONTENT, STATUS, ACCEPTOR, OPERATOR, EXP1, EXP2)
+        values (#{stcd}, #{alarmType}, #{alarmTm}, #{sendTm}, #{content}, #{status}, #{acceptor}, #{operator}, #{exp1},
+                #{exp2})
+    </insert>
+
+
+    <!-- 动态条件语句 -->
+    <sql id="dy_where">
+        <trim prefix="where" prefixOverrides="AND|OR">
+            <if test="item.startTime != null">
+                AND obj.SEND_TM &gt;= #{item.startTime}
+            </if>
+            <if test="item.endTime != null">
+                AND obj.SEND_TM &lt;= #{item.endTime}
+            </if>
+            <if test="null !=item.stcd and ''!= item.stcd">
+                AND obj.STCD = #{item.stcd}
+            </if>
+            <if test="null != item.stnm and '' != item.stnm">
+                AND bsi.NAME = #{item.stnm}
+            </if>
+            <if test="null != item.alarmType and '' != item.alarmType">
+                AND obj.ALARM_TYPE = #{item.alarmType}
+            </if>
+        </trim>
+    </sql>
+
+</mapper>

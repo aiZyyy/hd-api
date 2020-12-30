@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hd.kbswarn.modules.sms.mapper.SmsPublishMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.hd.kbswarn.modules.sms.entity.SmsPublish">
+        <id column="ID" property="id" />
+        <result column="TEMPLATE_ID" property="templateId" />
+        <result column="TYPE" property="type" />
+        <result column="TM" property="tm" />
+        <result column="CONTENT" property="content" />
+        <result column="TIME" property="time" />
+        <result column="HEADCOUNT" property="headcount" />
+        <result column="SUCCESS" property="success" />
+        <result column="FAIL" property="fail" />
+        <result column="SUCCESS_RATE" property="successRate" />
+        <result column="IS_WAIT_SEND" property="isWaitSend" />
+        <result column="NT" property="nt" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        ID AS id, TEMPLATE_ID AS templateId, TYPE AS type, TM AS tm, CONTENT AS content, TIME AS time, HEADCOUNT AS headcount, SUCCESS AS success, FAIL AS fail, SUCCESS_RATE AS successRate, IS_WAIT_SEND AS isWaitSend, NT AS nt
+    </sql>
+
+</mapper>

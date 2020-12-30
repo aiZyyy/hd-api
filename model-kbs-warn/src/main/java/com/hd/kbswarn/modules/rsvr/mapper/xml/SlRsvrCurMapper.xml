@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hd.kbswarn.modules.rsvr.mapper.SlRsvrCurMapper">
+
+    <select id="homeList" parameterType="java.util.Map"
+            resultType="com.hd.kbswarn.modules.rsvr.domain.vo.RsvrCurListVo">
+        SELECT
+        obj.stcd AS stcd,
+        ssi.STNM AS stName,
+        obj.tm AS tm,
+        ssi.LGTD AS lgtd,
+        ssi.LTTD AS lttd,
+        obj.rz AS rz,
+        obj.blrz AS blrz,
+        obj.inq AS inq,
+        obj.otq AS otq,
+        obj.w AS w,
+        obj.wptn AS wptn,
+        str.rz_level1 AS rzLevel1,
+        str.rz_level2 AS rzLevel2,
+        str.rz_level3 AS rzLevel3,
+        str.blrz_level1 AS blrzLevel1,
+        str.blrz_level2 AS blrzLevel2,
+        str.blrz_level3 AS blrzLevel3,
+        str.inq_level1 AS inqLevel1,
+        str.inq_level2 AS inqLevel2,
+        str.inq_level3 AS inqLevel3,
+        str.otq_level1 AS otqLevel1,
+        str.otq_level2 AS otqLevel2,
+        str.otq_level3 AS otqLevel3
+        FROM
+        sl_rsvr_cur obj
+        LEFT JOIN sl_st_info ssi ON obj.stcd = ssi.STCD
+        LEFT JOIN sl_threshold_rsvr str ON obj.stcd = str.stcd
+        <if test="null != item.column and '' != item.column and null != item.order and '' != item.order">
+            order by obj.${item.column} ${item.order}
+        </if>
+    </select>
+</mapper>
