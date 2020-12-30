@@ -6,6 +6,8 @@ import com.baomidou.mybatisplus.core.parser.SqlParserHelper;
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import com.baomidou.mybatisplus.extension.plugins.tenant.TenantHandler;
 import com.baomidou.mybatisplus.extension.plugins.tenant.TenantSqlParser;
+import com.hd.base.modules.system.util.TenantContext;
+import com.hd.system.config.mybatis.JeecgTenantParser;
 import net.sf.jsqlparser.expression.Expression;
 import net.sf.jsqlparser.expression.LongValue;
 import net.sf.jsqlparser.expression.operators.relational.ExpressionList;
@@ -13,8 +15,6 @@ import net.sf.jsqlparser.expression.operators.relational.InExpression;
 import net.sf.jsqlparser.schema.Column;
 import org.apache.ibatis.mapping.MappedStatement;
 import org.apache.ibatis.reflection.MetaObject;
-import com.hd.system.config.mybatis.JeecgTenantParser;
-import org.jeecg.modules.system.util.TenantContext;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -24,11 +24,11 @@ import java.util.List;
 
 /**
  * 单数据源配置（jeecg.datasource.open = false时生效）
- * @Author zhoujf
  *
+ * @Author zhoujf
  */
 @Configuration
-@MapperScan(value={"org.jeecg.modules.**.mapper*","com.hd.**.modules.**.mapper*"})
+@MapperScan(value = {"org.jeecg.modules.**.mapper*", "com.hd.**.modules.**.mapper*"})
 public class MybatisPlusConfig {
 
     /**
@@ -40,6 +40,7 @@ public class MybatisPlusConfig {
      * 有哪些表需要做多租户 这些表需要添加一个字段 ，字段名和tenant_field对应的值一样
      */
     private static final List<String> tenantTable = new ArrayList<String>();
+
     static {
         tenantTable.add("jee_bug_danbiao");
     }
@@ -63,6 +64,7 @@ public class MybatisPlusConfig {
                 String tenant_id = TenantContext.getTenant();
                 return new LongValue(tenant_id);
             }
+
             @Override
             public String getTenantIdColumn() {
                 return tenant_field;
@@ -72,18 +74,18 @@ public class MybatisPlusConfig {
             public boolean doTableFilter(String tableName) {
                 //true则不加租户条件查询  false则加
                 // return excludeTable.contains(tableName);
-                if(tenantTable.contains(tableName)){
+                if (tenantTable.contains(tableName)) {
                     return false;
                 }
                 return true;
             }
 
-            private Expression in(String ids){
+            private Expression in(String ids) {
                 final InExpression inExpression = new InExpression();
                 inExpression.setLeftExpression(new Column(getTenantIdColumn()));
                 final ExpressionList itemsList = new ExpressionList();
                 final List<Expression> inValues = new ArrayList<>(2);
-                for(String id:ids.split(",")){
+                for (String id : ids.split(",")) {
                     inValues.add(new LongValue(id));
                 }
                 itemsList.setExpressions(inValues);

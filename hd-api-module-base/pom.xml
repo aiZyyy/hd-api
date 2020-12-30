@@ -14,5 +14,10 @@
         <artifactId>hd-api-parent</artifactId>
         <version>0.1</version>
     </parent>
-
+    <dependencies>
+        <dependency>
+            <groupId>com.hd</groupId>
+            <artifactId>hd-api-base-common</artifactId>
+        </dependency>
+    </dependencies>
 </project>

@@ -18,6 +18,10 @@
             <groupId>com.hd</groupId>
             <artifactId>hd-api-module-base</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.hd</groupId>
+            <artifactId>hd-api-base-common</artifactId>
+        </dependency>
     </dependencies>
 
     <build>

@@ -1,7 +1,7 @@
 package com.hd.system.config;
 
+import com.hd.base.modules.message.handle.impl.EmailSendMsgHandle;
 import com.hd.common.util.DySmsHelper;
-import org.jeecg.modules.message.handle.impl.EmailSendMsgHandle;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package org.jeecg;
+package com.hd;
 
 import cn.hutool.json.JSONObject;
 import com.hd.common.util.security.SecurityTools;
