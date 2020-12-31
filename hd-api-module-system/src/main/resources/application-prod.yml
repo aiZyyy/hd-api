@@ -177,8 +177,8 @@ jeecg :
     webapp: /opt/jeecg-boot/webapp
   #短信秘钥
   sms:
-     accessKeyId: LTAIpW4gUG7xYDNI
-     accessKeySecret: ??
+     accessKeyId: xxxxxxxxxxxxx
+     accessKeySecret: xxxxxxxxxx
   shiro:
      excludeUrls: /test/jeecgDemo/demo3,/test/jeecgDemo/redisDemo/**,/category/**,/visual/**,/map/**,/jmreport/bigscreen2/**
   #阿里云oss存储配置
@@ -190,7 +190,7 @@ jeecg :
     staticDomain: https://static.jeecg.com
   # ElasticSearch 设置
   elasticsearch:
-    cluster-name: jeecg-ES
+    cluster-name: xxxES
     cluster-nodes: 127.0.0.1:9200
     check-enabled: true
   # 表单设计器配置

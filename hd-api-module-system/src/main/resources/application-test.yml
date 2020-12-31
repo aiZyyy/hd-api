@@ -21,8 +21,8 @@ spring:
         max-file-size: 10MB
         max-request-size: 10MB
   mail:
-    host: smtp.163.com
-    username: jeecgos@163.com
+    host: xxxxxxxxxxx
+    username: xxxxxxxxxxxxxxxx
     password: ??
     properties:
       mail:
