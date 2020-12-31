@@ -12,13 +12,13 @@ import org.springframework.context.annotation.Configuration;
 @Slf4j
 @Configuration
 public class MinioConfig {
-    @Value(value = "${jeecg.minio.minio_url}")
+    @Value(value = "${hd.minio.minio_url}")
     private String minioUrl;
-    @Value(value = "${jeecg.minio.minio_name}")
+    @Value(value = "${hd.minio.minio_name}")
     private String minioName;
-    @Value(value = "${jeecg.minio.minio_pass}")
+    @Value(value = "${hd.minio.minio_pass}")
     private String minioPass;
-    @Value(value = "${jeecg.minio.bucketName}")
+    @Value(value = "${hd.minio.bucketName}")
     private String bucketName;
 
     @Bean

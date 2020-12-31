@@ -39,7 +39,7 @@ import java.util.*;
 @Configuration
 public class ShiroConfig {
 
-    @Value("${jeecg.shiro.excludeUrls}")
+    @Value("${hd.shiro.excludeUrls}")
     private String excludeUrls;
     @Resource
     LettuceConnectionFactory lettuceConnectionFactory;

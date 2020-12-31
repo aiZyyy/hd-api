@@ -45,13 +45,13 @@ public class CommonController {
 	@Autowired
 	private ISysBaseAPI sysBaseAPI;
 
-	@Value(value = "${jeecg.path.upload}")
+	@Value(value = "${hd.path.upload}")
 	private String uploadpath;
 
 	/**
 	 * 本地：local minio：minio 阿里：alioss
 	 */
-	@Value(value="${jeecg.uploadType}")
+	@Value(value="${hd.uploadType}")
 	private String uploadType;
 
 	/**

@@ -8,15 +8,15 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class OssBootConfiguration {
 
-    @Value("${jeecg.oss.endpoint}")
+    @Value("${hd.oss.endpoint}")
     private String endpoint;
-    @Value("${jeecg.oss.accessKey}")
+    @Value("${hd.oss.accessKey}")
     private String accessKeyId;
-    @Value("${jeecg.oss.secretKey}")
+    @Value("${hd.oss.secretKey}")
     private String accessKeySecret;
-    @Value("${jeecg.oss.bucketName}")
+    @Value("${hd.oss.bucketName}")
     private String bucketName;
-    @Value("${jeecg.oss.staticDomain}")
+    @Value("${hd.oss.staticDomain}")
     private String staticDomain;
 
 

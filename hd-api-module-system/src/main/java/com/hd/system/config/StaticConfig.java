@@ -12,10 +12,10 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class StaticConfig {
 
-    @Value("${jeecg.sms.accessKeyId}")
+    @Value("${hd.sms.accessKeyId}")
     private String accessKeyId;
 
-    @Value("${jeecg.sms.accessKeySecret}")
+    @Value("${hd.sms.accessKeySecret}")
     private String accessKeySecret;
 
     @Value(value = "${spring.mail.username}")

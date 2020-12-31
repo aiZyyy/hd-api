@@ -21,8 +21,8 @@ spring:
       max-file-size: 10MB
       max-request-size: 10MB
   mail:
-    host: smtp.163.com
-    username: jeecgos@163.com
+    host: xxxxxxxxxxxx
+    username: xxxxxxxxxxxx
     password: ??
     properties:
       mail:
@@ -157,13 +157,13 @@ spring:
     password: guest
 #mybatis plus 设置
 mybatis-plus:
-  mapper-locations: classpath*:org/jeecg/modules/**/xml/*Mapper.xml,classpath*:com/hd/**/modules/**/xml/*Mapper.xml
+  mapper-locations: classpath*:com/hd/**/modules/**/xml/*Mapper.xml
   global-config:
     # 关闭MP3.0自带的banner
     banner: false
     db-config:
       #主键类型  0:"数据库ID自增",1:"该类型为未设置主键类型", 2:"用户输入ID",3:"全局唯一ID (数字类型唯一ID)", 4:"全局唯一ID UUID",5:"字符串全局唯一ID (idWorker 的字符串表示)";
-      id-type: 4
+      id-type: AUTO
       # 默认数据库表下划线命名
       table-underline: true
   configuration:
@@ -171,8 +171,8 @@ mybatis-plus:
     #log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
     # 返回类型为Map,显示null对应的字段
     call-setters-on-nulls: true
-#jeecg专用配置
-jeecg:
+#hd专用配置
+hd:
   # 本地：local\Minio：minio\阿里云：alioss
   uploadType: local
   path:
@@ -188,14 +188,14 @@ jeecg:
     excludeUrls: /test/jeecgDemo/demo3,/test/jeecgDemo/redisDemo/**,/category/**,/visual/**,/map/**,/jmreport/bigscreen2/**
   #阿里云oss存储配置
   oss:
-    endpoint: oss-cn-beijing.aliyuncs.com
+    endpoint: xxxxxxxxxxxxxxxxxx
     accessKey: ??
     secretKey: ??
     bucketName: jeecgos
     staticDomain: ??
   # ElasticSearch 6设置
   elasticsearch:
-    cluster-name: jeecg-ES
+    cluster-name: hd-ES
     cluster-nodes: 127.0.0.1:9200
     check-enabled: false
   # 表单设计器配置
@@ -208,7 +208,7 @@ jeecg:
   file-view-domain: 127.0.0.1:8012
   # minio文件上传
   minio:
-    minio_url: http://minio.jeecg.com
+    minio_url: http://xxxxxxxxxxxxxxxx
     minio_name: ??
     minio_pass: ??
     bucketName: otatest
@@ -220,28 +220,27 @@ jeecg:
     verify_methods: remove,delete,save,add,update
   #Wps在线文档
   wps:
-    domain: https://wwo.wps.cn/office/
+    domain: xxxxxxxxxxxxxxxxxxxxxx
     appid: ??
     appsecret: ??
 #Mybatis输出sql日志
 sms:
   aliyun:
-    product: Dysmsapi
-    domain: dysmsapi.aliyuncs.com
-    accessKey: LTAINOqjyBlSKqgc
-    secretKey: yoXryjtthNiolB2Q6bwQhBkSCVw85j
+    product: xxxxxxxxxxx
+    domain: xxxxxxxxxxxx
+    accessKey: xxxxxxxxxxxxxxxxxxxxx
+    secretKey: xxxxxxxxxxxxxxxxxxxxx
     channels:
       # 登陆短信验证码模板，预留
-      loginCodeChannel: SMS_167041040
+      loginCodeChannel: xxxxxxxxx
       #
-      serviceStatusChange: SMS_134310585
+      serviceStatusChange: xxxxxxxxx
 logging:
   level:
-    com.hd.kbswarn.modules: debug
-    org.jeecg.modules.system.mapper: debug
+    com.hd: debug
 #cas单点登录
 cas:
-  prefixUrl: 172.16.22.252:52521/cas
+  prefixUrl: xxxxxxxxxxxxxxxxx/cas
 #enable swagger
 swagger:
   enable: true

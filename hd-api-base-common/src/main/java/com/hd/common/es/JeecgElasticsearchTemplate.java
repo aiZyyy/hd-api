@@ -32,7 +32,7 @@ public class JeecgElasticsearchTemplate {
     // ElasticSearch 最大可返回条目数
     public static final int ES_MAX_SIZE = 10000;
 
-    public JeecgElasticsearchTemplate(@Value("${jeecg.elasticsearch.cluster-nodes}") String baseUrl, @Value("${jeecg.elasticsearch.check-enabled}") boolean checkEnabled) {
+    public JeecgElasticsearchTemplate(@Value("${hd.elasticsearch.cluster-nodes}") String baseUrl, @Value("${hd.elasticsearch.check-enabled}") boolean checkEnabled) {
         log.debug("JeecgElasticsearchTemplate BaseURL：" + baseUrl);
         if (StringUtils.isNotEmpty(baseUrl)) {
             this.baseUrl = baseUrl;
