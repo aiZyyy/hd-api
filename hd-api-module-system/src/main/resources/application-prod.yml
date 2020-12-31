@@ -3,7 +3,7 @@ server:
   tomcat:
     max-swallow-size: -1
   servlet:
-    context-path: /kbs-warn
+    context-path: /hd
   compression:
     enabled: true
     min-response-size: 1024
@@ -21,8 +21,8 @@ spring:
         max-file-size: 10MB
         max-request-size: 10MB
   mail:
-    host: smtp.163.com
-    username: jeecgos@163.com
+    host: xxxxxxxxx
+    username: xxxxxxxx
     password: ??
     properties:
       mail:
@@ -127,9 +127,9 @@ spring:
         connectionProperties: druid.stat.mergeSql\=true;druid.stat.slowSqlMillis\=5000
       datasource:
         master:
-          url: jdbc:mysql://127.0.0.1:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false&tinyInt1isBit=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
-          username: root
-          password: root
+          url: jdbc:mysql://127.0.0.1:3306/xxxxxxx?characterEncoding=UTF-8&useUnicode=true&useSSL=false&tinyInt1isBit=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
+          username: xxxxx
+          password: xxxxx
           driver-class-name: com.mysql.cj.jdbc.Driver
           # 多数据源配置
           #multi-datasource1:
@@ -220,7 +220,7 @@ jeecg :
     appsecret: ??
 #cas单点登录
 cas:
-  prefixUrl: 172.16.22.252:52521/cas
+  prefixUrl: xxxxxxxxxxxxxxx/cas
 logging:
   level:
     org.jeecg.modules.system.mapper : debug
