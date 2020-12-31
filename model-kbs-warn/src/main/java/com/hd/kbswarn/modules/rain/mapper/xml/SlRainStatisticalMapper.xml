@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hd.kbswarn.modules.rain.mapper.SlRainStatisticalMapper">
+
+    <select id="stDayTotal" resultType="com.hd.kbswarn.modules.rain.domain.vo.RainDayHourVo">
+        SELECT
+        obj.STCD as stcd,obj.STNM as name,rd.val as dayTotal
+        FROM `sl_st_info` obj
+        LEFT JOIN sl_rain_day rd on obj.STCD = rd.stcd
+        <if test="null != item.time and '' != item.time">
+            AND rd.tm = #{item.time}
+        </if>
+        order by obj.stcd desc
+    </select>
+    <select id="selectHours" resultType="com.hd.kbswarn.modules.rain.domain.entity.SlRainHour">
+        SELECT
+        *
+        FROM `sl_rain_hour` rh
+        <where>
+            1=1
+            <if test="null != item.stcd and '' != item.stcd">
+                AND rh.stcd = #{item.stcd}
+            </if>
+            <if test="null != item.time and '' != item.time">
+                AND rh.tm > #{item.time}
+            </if>
+            <if test="null != item.endTime and '' != item.endTime">
+                AND rh.tm &lt;= #{item.endTime}
+            </if>
+        </where>
+        order by rh.tm ASC
+    </select>
+
+    <select id="stMonthTotal" resultType="com.hd.kbswarn.modules.rain.domain.vo.RainMonthDayVo">
+        SELECT
+        obj.STCD AS stcd,
+        obj.STNM AS NAME,
+        rm.val AS monthTotal
+        FROM
+        `sl_st_info` obj
+        LEFT JOIN sl_rain_month rm ON obj.STCD = rm.stcd
+        <if test="null != item.time and '' != item.time">
+            AND rm.tm = #{item.time}
+        </if>
+        ORDER BY
+        obj.stcd DESC
+    </select>
+    <select id="selectDays" resultType="com.hd.kbswarn.modules.rain.domain.entity.SlRainDay">
+        SELECT
+        *
+        FROM
+        `sl_rain_day` rd
+        <where>
+            1=1
+            <if test="null != item.stcd and '' != item.stcd">
+                AND rd.stcd = #{item.stcd}
+            </if>
+            <if test="null != item.time and '' != item.time">
+                AND rd.tm >= #{item.time}
+            </if>
+            <if test="null != item.endTime and '' != item.endTime">
+                AND rd.tm &lt; #{item.endTime}
+            </if>
+        </where>
+        ORDER BY rd.tm ASC
+    </select>
+    <select id="stYearTotal" resultType="com.hd.kbswarn.modules.rain.domain.vo.RainYearMonthVo">
+        SELECT
+        obj.STCD AS stcd,
+        obj.STNM AS NAME,
+        ry.val AS yearTotal
+        FROM
+        `sl_st_info` obj
+        LEFT JOIN sl_rain_year ry ON obj.STCD = ry.stcd
+        <if test="null != item.time and '' != item.time">
+            AND ry.tm = #{item.time}
+        </if>
+        ORDER BY
+        obj.stcd DESC
+    </select>
+    <select id="selectMonths" resultType="com.hd.kbswarn.modules.rain.domain.entity.SlRainYear">
+        SELECT
+        *
+        FROM
+        `sl_rain_month` rm
+        <where>
+            1=1
+            <if test="null != item.stcd and '' != item.stcd">
+                AND rm.stcd = #{item.stcd}
+            </if>
+            <if test="null != item.time and '' != item.time">
+                AND rm.tm >= #{item.time}
+            </if>
+            <if test="null != item.endTime and '' != item.endTime">
+                AND rm.tm &lt; #{item.endTime}
+            </if>
+        </where>
+        ORDER BY rm.tm ASC
+    </select>
+</mapper>

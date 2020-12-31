@@ -13,7 +13,7 @@ import com.hd.common.api.vo.Result;
 import com.hd.common.aspect.annotation.AutoLog;
 import com.hd.common.aspect.annotation.PermissionData;
 import com.hd.common.constant.CommonConstant;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 import com.hd.common.system.query.QueryGenerator;
 import com.hd.common.util.DateUtils;
 import com.hd.common.util.RedisUtil;
@@ -51,7 +51,7 @@ import lombok.extern.slf4j.Slf4j;
 @Api(tags = "单表DEMO")
 @RestController
 @RequestMapping("/test/jeecgDemo")
-public class JeecgDemoController extends JeecgController<JeecgDemo, IJeecgDemoService> {
+public class JeecgDemoController extends HdController<JeecgDemo, IJeecgDemoService> {
     @Autowired
     private IJeecgDemoService jeecgDemoService;
 

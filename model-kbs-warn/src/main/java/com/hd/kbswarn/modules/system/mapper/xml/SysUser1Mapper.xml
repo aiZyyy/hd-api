@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hd.kbswarn.modules.system.mapper.SysUserMapper1">
+	<select id="getByIds" resultType="com.hd.kbswarn.modules.system.entity.SysUser">
+		select sab.id as id,sab.name as realname,sab.phone as phone from sl_address_book sab where sab.id = #{userId}
+	</select>
+
+</mapper>

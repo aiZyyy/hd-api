@@ -12,7 +12,7 @@ import io.swagger.annotations.ApiOperation;
 import lombok.extern.slf4j.Slf4j;
 import com.hd.common.api.vo.Result;
 import com.hd.common.aspect.annotation.AutoLog;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 import com.hd.common.system.query.QueryGenerator;
 import com.hd.common.util.FillRuleUtil;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -33,7 +33,7 @@ import java.util.Arrays;
 @Api(tags = "填值规则")
 @RestController
 @RequestMapping("/sys/fillRule")
-public class SysFillRuleController extends JeecgController<SysFillRule, ISysFillRuleService> {
+public class SysFillRuleController extends HdController<SysFillRule, ISysFillRuleService> {
     @Autowired
     private ISysFillRuleService sysFillRuleService;
 

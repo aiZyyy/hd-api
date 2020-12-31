@@ -22,6 +22,10 @@
             <groupId>com.hd</groupId>
             <artifactId>hd-api-base-common</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.hd.kbswarn</groupId>
+            <artifactId>model-kbs-warn</artifactId>
+        </dependency>
     </dependencies>
 
     <build>

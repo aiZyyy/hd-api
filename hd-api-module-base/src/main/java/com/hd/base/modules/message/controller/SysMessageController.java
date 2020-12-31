@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import com.hd.base.modules.message.entity.SysMessage;
 import com.hd.base.modules.message.service.ISysMessageService;
 import com.hd.common.api.vo.Result;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 import com.hd.common.system.query.QueryGenerator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -36,7 +36,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 @RestController
 @RequestMapping("/message/sysMessage")
-public class SysMessageController extends JeecgController<SysMessage, ISysMessageService> {
+public class SysMessageController extends HdController<SysMessage, ISysMessageService> {
 	@Autowired
 	private ISysMessageService sysMessageService;
 

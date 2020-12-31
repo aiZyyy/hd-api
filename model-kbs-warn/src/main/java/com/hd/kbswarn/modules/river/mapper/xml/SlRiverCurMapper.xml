@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hd.kbswarn.modules.river.mapper.SlRiverCurMapper">
+
+    <select id="homeList" parameterType="java.util.Map"
+            resultType="com.hd.kbswarn.modules.river.domain.vo.RiverCurListVo">
+        SELECT
+        obj.stcd AS stcd,
+        ssi.STNM AS stName,
+        obj.tm AS tm,
+        ssi.LGTD AS lgtd,
+        ssi.LTTD AS lttd,
+        obj.z AS z,
+        obj.q AS q,
+        obj.wptn AS wptn,
+        str.zz_level1 AS zLevel1,
+        str.zz_level2 AS zLevel2,
+        str.zz_level3 AS zLevel3,
+        str.qq_level1 AS qLevel1,
+        str.qq_level2 AS qLevel2,
+        str.qq_level3 AS qLevel3
+        FROM
+        sl_river_cur obj
+        LEFT JOIN sl_st_info ssi ON obj.stcd = ssi.STCD
+        LEFT JOIN sl_threshold_river str ON obj.stcd = str.stcd
+        <if test="null != item.column and '' != item.column and null != item.order and '' != item.order">
+            order by obj.${item.column} ${item.order}
+        </if>
+    </select>
+</mapper>

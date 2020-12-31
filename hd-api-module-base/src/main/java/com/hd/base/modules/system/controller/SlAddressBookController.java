@@ -8,7 +8,7 @@ import io.swagger.annotations.ApiOperation;
 import lombok.extern.slf4j.Slf4j;
 import com.hd.common.api.vo.Result;
 import com.hd.common.aspect.annotation.AutoLog;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
@@ -27,7 +27,7 @@ import java.util.Arrays;
 @Api(tags = "通讯录管理")
 @RestController
 @RequestMapping("/system/slAddressBook")
-public class SlAddressBookController extends JeecgController<SlAddressBook, ISlAddressBookService> {
+public class SlAddressBookController extends HdController<SlAddressBook, ISlAddressBookService> {
     @Autowired
     private ISlAddressBookService slAddressBookService;
 

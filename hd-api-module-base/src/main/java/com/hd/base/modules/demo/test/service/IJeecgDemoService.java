@@ -1,6 +1,6 @@
 package com.hd.base.modules.demo.test.service;
 
-import com.hd.common.system.base.service.JeecgService;
+import com.hd.common.system.base.service.HdService;
 import com.hd.base.modules.demo.test.entity.JeecgDemo;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
@@ -11,7 +11,7 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
  * @Date:  2018-12-29
  * @Version: V1.0
  */
-public interface IJeecgDemoService extends JeecgService<JeecgDemo> {
+public interface IJeecgDemoService extends HdService<JeecgDemo> {
 	
 	public void testTran();
 	

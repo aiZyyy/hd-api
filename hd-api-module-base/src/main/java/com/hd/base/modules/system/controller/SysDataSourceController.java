@@ -12,7 +12,7 @@ import io.swagger.annotations.ApiOperation;
 import lombok.extern.slf4j.Slf4j;
 import com.hd.common.api.vo.Result;
 import com.hd.common.aspect.annotation.AutoLog;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 import com.hd.common.system.query.QueryGenerator;
 import com.hd.common.util.dynamic.db.DataSourceCachePool;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -34,7 +34,7 @@ import java.util.List;
 @Api(tags = "多数据源管理")
 @RestController
 @RequestMapping("/sys/dataSource")
-public class SysDataSourceController extends JeecgController<SysDataSource, ISysDataSourceService> {
+public class SysDataSourceController extends HdController<SysDataSource, ISysDataSourceService> {
 
     @Autowired
     private ISysDataSourceService sysDataSourceService;

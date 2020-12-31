@@ -11,7 +11,7 @@ import com.hd.base.modules.message.entity.SysMessageTemplate;
 import com.hd.base.modules.message.service.ISysMessageTemplateService;
 import com.hd.base.modules.message.util.PushMsgUtil;
 import com.hd.common.api.vo.Result;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 import com.hd.common.system.query.QueryGenerator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -40,7 +40,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 @RestController
 @RequestMapping("/message/sysMessageTemplate")
-public class SysMessageTemplateController extends JeecgController<SysMessageTemplate, ISysMessageTemplateService> {
+public class SysMessageTemplateController extends HdController<SysMessageTemplate, ISysMessageTemplateService> {
 	@Autowired
 	private ISysMessageTemplateService sysMessageTemplateService;
 	@Autowired

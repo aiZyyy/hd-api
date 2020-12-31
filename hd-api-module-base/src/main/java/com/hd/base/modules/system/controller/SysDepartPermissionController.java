@@ -24,7 +24,7 @@ import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import lombok.extern.slf4j.Slf4j;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -42,7 +42,7 @@ import io.swagger.annotations.ApiOperation;
 @Api(tags="部门权限表")
 @RestController
 @RequestMapping("/sys/sysDepartPermission")
-public class SysDepartPermissionController extends JeecgController<SysDepartPermission, ISysDepartPermissionService> {
+public class SysDepartPermissionController extends HdController<SysDepartPermission, ISysDepartPermissionService> {
 	@Autowired
 	private ISysDepartPermissionService sysDepartPermissionService;
 

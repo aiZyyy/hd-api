@@ -112,7 +112,7 @@ public class NumberProperty extends CommonProperty {
 	/**
 	  * 列表类型的走这个构造器  字典里存储的都是字符串 没法走这个构造器
 	 * @param key
-	 * @param type
+	 * @param title
 	 * @param view list-checkbox-radio
 	 * @param include
 	 */

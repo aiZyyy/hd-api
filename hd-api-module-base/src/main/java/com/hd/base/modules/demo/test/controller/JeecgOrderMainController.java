@@ -13,7 +13,7 @@ import com.hd.base.modules.demo.test.service.IJeecgOrderMainService;
 import com.hd.base.modules.demo.test.service.IJeecgOrderTicketService;
 import org.apache.shiro.SecurityUtils;
 import com.hd.common.api.vo.Result;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 import com.hd.common.system.query.QueryGenerator;
 import com.hd.common.system.vo.LoginUser;
 import com.hd.base.modules.demo.test.entity.JeecgOrderCustomer;
@@ -55,7 +55,7 @@ import lombok.extern.slf4j.Slf4j;
 @RestController
 @RequestMapping("/test/jeecgOrderMain")
 @Slf4j
-public class JeecgOrderMainController extends JeecgController<JeecgOrderMain, IJeecgOrderMainService> {
+public class JeecgOrderMainController extends HdController<JeecgOrderMain, IJeecgOrderMainService> {
 
     @Autowired
     private IJeecgOrderMainService jeecgOrderMainService;

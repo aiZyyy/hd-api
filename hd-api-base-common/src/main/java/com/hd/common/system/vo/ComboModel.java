@@ -35,7 +35,6 @@ public class ComboModel implements Serializable {
 
     }
 
-    ;
 
     public ComboModel(String id, String title, boolean checked, String username) {
         this.id = id;
@@ -44,5 +43,5 @@ public class ComboModel implements Serializable {
         this.username = username;
     }
 
-    ;
+
 }

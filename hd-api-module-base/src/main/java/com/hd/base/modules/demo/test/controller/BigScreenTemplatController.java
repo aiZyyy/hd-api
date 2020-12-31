@@ -2,7 +2,7 @@ package com.hd.base.modules.demo.test.controller;
 
 import com.hd.base.modules.demo.test.service.IJeecgDemoService;
 import lombok.extern.slf4j.Slf4j;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 import com.hd.base.modules.demo.test.entity.JeecgDemo;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -20,7 +20,7 @@ import java.util.List;
 @Slf4j
 @Controller
 @RequestMapping("/big/screen/templat")
-public class BigScreenTemplatController extends JeecgController<JeecgDemo, IJeecgDemoService> {
+public class BigScreenTemplatController extends HdController<JeecgDemo, IJeecgDemoService> {
 
     /**
      * @param modelAndView

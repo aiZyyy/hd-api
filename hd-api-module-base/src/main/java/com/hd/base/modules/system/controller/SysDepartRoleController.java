@@ -12,7 +12,7 @@ import com.hd.base.modules.system.entity.SysPermissionDataRule;
 import com.hd.base.modules.system.service.*;
 import com.hd.common.api.vo.Result;
 import com.hd.common.aspect.annotation.AutoLog;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 import com.hd.common.system.query.QueryGenerator;
 import com.hd.common.system.vo.LoginUser;
 import com.hd.common.util.oConvertUtils;
@@ -42,7 +42,7 @@ import java.util.stream.Collectors;
 @Api(tags = "部门角色")
 @RestController
 @RequestMapping("/sys/sysDepartRole")
-public class SysDepartRoleController extends JeecgController<SysDepartRole, ISysDepartRoleService> {
+public class SysDepartRoleController extends HdController<SysDepartRole, ISysDepartRoleService> {
     @Autowired
     private ISysDepartRoleService sysDepartRoleService;
 

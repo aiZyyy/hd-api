@@ -2,7 +2,7 @@ package com.hd.base.modules.message.service.impl;
 
 import com.hd.base.modules.message.entity.SysMessage;
 import com.hd.base.modules.message.mapper.SysMessageMapper;
-import com.hd.common.system.base.service.impl.JeecgServiceImpl;
+import com.hd.common.system.base.service.impl.HdServiceImpl;
 import com.hd.base.modules.message.service.ISysMessageService;
 import org.springframework.stereotype.Service;
 
@@ -13,6 +13,6 @@ import org.springframework.stereotype.Service;
  * @Version: V1.0
  */
 @Service
-public class SysMessageServiceImpl extends JeecgServiceImpl<SysMessageMapper, SysMessage> implements ISysMessageService {
+public class SysMessageServiceImpl extends HdServiceImpl<SysMessageMapper, SysMessage> implements ISysMessageService {
 
 }

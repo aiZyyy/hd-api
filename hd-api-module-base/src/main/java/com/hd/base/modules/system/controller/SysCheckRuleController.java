@@ -11,7 +11,7 @@ import io.swagger.annotations.ApiOperation;
 import lombok.extern.slf4j.Slf4j;
 import com.hd.common.api.vo.Result;
 import com.hd.common.aspect.annotation.AutoLog;
-import com.hd.common.system.base.controller.JeecgController;
+import com.hd.common.system.base.controller.HdController;
 import com.hd.common.system.query.QueryGenerator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -33,7 +33,7 @@ import java.util.Arrays;
 @Api(tags = "编码校验规则")
 @RestController
 @RequestMapping("/sys/checkRule")
-public class SysCheckRuleController extends JeecgController<SysCheckRule, ISysCheckRuleService> {
+public class SysCheckRuleController extends HdController<SysCheckRule, ISysCheckRuleService> {
 
     @Autowired
     private ISysCheckRuleService sysCheckRuleService;

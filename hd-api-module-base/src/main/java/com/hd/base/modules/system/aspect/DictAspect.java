@@ -39,7 +39,7 @@ public class DictAspect {
     private ISysDictService dictService;
 
     // 定义切点Pointcut
-    @Pointcut("execution(public * com.hd.*.modules..*.*Controller.*(..))")
+    @Pointcut("execution(public * com.hd..*.modules..*.*Controller.*(..))")
     public void excudeService() {
     }
 

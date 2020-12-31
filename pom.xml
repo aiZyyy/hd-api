@@ -17,6 +17,7 @@
         <module>hd-api-base-common</module>
         <module>hd-api-module-system</module>
         <module>hd-api-module-base</module>
+        <module>model-kbs-warn</module>
     </modules>
 
     <repositories>
@@ -345,6 +346,11 @@
             <dependency>
                 <groupId>com.hd</groupId>
                 <artifactId>hd-api-module-base</artifactId>
+                <version>${hd.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.hd.kbswarn</groupId>
+                <artifactId>model-kbs-warn</artifactId>
                 <version>${hd.version}</version>
             </dependency>
         </dependencies>
